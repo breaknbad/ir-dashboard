@@ -1,15 +1,15 @@
 {
   "_meta": {
-    "generated_at": "2026-03-10T15:00:12.960Z",
-    "total_days": 42,
+    "generated_at": "2026-03-14T15:00:13.695Z",
+    "total_days": 44,
     "date_range": {
       "start": "2025-02-24",
-      "end": "2026-03-09"
+      "end": "2026-03-12"
     },
     "totals": {
       "tasks_completed": 136,
       "reports_generated": 77,
-      "key_actions": 627,
+      "key_actions": 639,
       "todoist_activity": 81
     }
   },
@@ -13378,6 +13378,209 @@
         "tasks_completed_count": 2,
         "reports_count": 0,
         "key_actions_count": 6,
+        "todoist_count": 0
+      }
+    },
+    {
+      "date": "2026-03-11",
+      "title": "11 Daily Log",
+      "sections": [
+        {
+          "name": "Morning Triage (8:04 AM)",
+          "items": [
+            "**Calendar:** 4 meetings today (Accounting at 3pm, Breaker's at 5pm, AI Leadership at 10pm, AI Follow-up at 11pm)",
+            "**Tomorrow:** Panini Donruss FIFA World Cup Soccer release",
+            "**MC Status:** 4 tasks in review, 10 unread messages",
+            "**Gmail Access:** Permission denied on credentials (needs fix)",
+            "**Business monitors:** Running background checks"
+          ],
+          "subsections": [
+            {
+              "name": "Calendar Highlights",
+              "items": [
+                "3:00 PM: Break'n Bad Accounting/Books Discussion",
+                "5:00 PM: Breaker's Meeting SB",
+                "10:00 PM: AI Leadership",
+                "11:00 PM: AI Discussion Follow-Up",
+                "Tomorrow: 📦 BnB Release: 2025-26 Panini Donruss Road To FIFA World Cup 26 Soccer"
+              ]
+            },
+            {
+              "name": "Pending Items",
+              "items": [
+                "Gmail credential permissions issue (can't access email monitoring)",
+                "4 MC tasks awaiting final review",
+                "BigBrother needs SimpleTexting API help",
+                "Wit waiting for fresh Shopify token"
+              ]
+            }
+          ],
+          "rawText": []
+        }
+      ],
+      "tasks_completed": [],
+      "reports_generated": [],
+      "key_actions": [
+        {
+          "description": "Calendar: 4 meetings today (Accounting at 3pm, Breaker's at 5pm, AI Leadership at 10pm, AI Follow-up at 11pm)",
+          "category": "calendar"
+        },
+        {
+          "description": "MC Status: 4 tasks in review, 10 unread messages",
+          "category": "general"
+        },
+        {
+          "description": "Gmail credential permissions issue (can't access email monitoring)",
+          "category": "email"
+        },
+        {
+          "description": "BigBrother needs SimpleTexting API help",
+          "category": "integration"
+        },
+        {
+          "description": "Wit waiting for fresh Shopify token",
+          "category": "general"
+        }
+      ],
+      "interactions": [],
+      "todoist_activity": [],
+      "infrastructure": [],
+      "stats": {
+        "sections_count": 1,
+        "tasks_completed_count": 0,
+        "reports_count": 0,
+        "key_actions_count": 5,
+        "todoist_count": 0
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "title": "12 Daily Log",
+      "sections": [
+        {
+          "name": "Morning Triage (8:04 AM)",
+          "items": [
+            "**Calendar:** 2 events today - FIFA World Cup Soccer release + Office",
+            "**Tomorrow:** 4 meetings (Marketing Weekly at 1pm, 2x Fanatics Live at 4pm, Founder's Meeting at 5pm)",
+            "**MC Status:** 4 tasks in review, 10 unread messages, 0 pending approval",
+            "**Gmail Access:** Still having credential issues (business account)",
+            "**Business monitors:** Running heartbeat monitor checks"
+          ],
+          "subsections": [
+            {
+              "name": "Calendar Highlights",
+              "items": [
+                "📦 BnB Release: 2025-26 Panini Donruss Road To FIFA World Cup 26 Soccer",
+                "Office",
+                "1:00 PM: Break'n Bad Marketing - Weekly Call",
+                "4:00 PM: BNB <> Fanatics Live (x2)",
+                "5:00 PM: BNB -- Founder's Meeting"
+              ]
+            },
+            {
+              "name": "MC Task Status (Review Queue)",
+              "items": []
+            },
+            {
+              "name": "Unread Messages Summary",
+              "items": [
+                "**Wit:** Standing by for fresh Shopify token (from Feb 25-Mar 2)",
+                "**Big Brother:** SimpleTexting API issues resolved, credentials confirmed (Feb 27-28)",
+                "Multiple technical coordination messages"
+              ]
+            },
+            {
+              "name": "Business Monitor Results",
+              "items": [
+                "**Prizm Basketball Hobby:** $690.85 (+$6.41/day, accelerating up)",
+                "**Bowman Chrome Baseball:** $720.13 (-$41.92/day, falling significantly)",
+                "**Topps Chrome Baseball:** $771.85 (-$4.35/day, declining)",
+                "**Donruss Football Hobby:** $927.44 (+$3.20/day, steady)",
+                "**Select Football Retail:** $1,231.49 (+$12.47/day, rising)"
+              ]
+            },
+            {
+              "name": "System Issues",
+              "items": [
+                "**Gmail business account credentials still need fixing** (blocks email monitoring)",
+                "Heartbeat monitor completed successfully",
+                "No urgent alerts requiring immediate action"
+              ]
+            },
+            {
+              "name": "Action Items",
+              "items": []
+            }
+          ],
+          "rawText": [
+            "**Today:**",
+            "**Tomorrow:**",
+            "1. **Pilot corrections.md for voice/style feedback** (wit) - Done, needs final review",
+            "2. **Draft outline: 4 AI agents running a $16M card business** (dross) - Content piece ready",
+            "3. **Product Image Pipeline** (dross) - In progress",
+            "4. **Create unified inbox (Phase 2)** (dross) - Planning phase",
+            "**Price Tracking (as of 8:04 AM):**",
+            "1. **Today:** FIFA World Cup Soccer release (major product launch)",
+            "2. **Fix Gmail credentials** for proper email monitoring",
+            "3. **Review 4 MC tasks** awaiting final approval",
+            "4. **Prepare for tomorrow's meetings** (4 scheduled, including Fanatics Live calls)"
+          ]
+        },
+        {
+          "name": "Customer Health Alert Fix (8:00 PM EST)",
+          "items": [],
+          "subsections": [],
+          "rawText": [
+            "**Issue:** Health endpoint showing $959K revenue instead of $18.8M — alerting for 8+ hours",
+            "**Root cause:** Supabase REST API ignores `.limit(100000)` and caps at 1000 rows by default. The health check was summing only 1000 rows.",
+            "**Fix:**",
+            "1. Created `get_total_customer_revenue()` SQL function in Supabase",
+            "2. Updated `/api/health/customers` to use RPC instead of client-side reduce",
+            "**Commit:** `a17ad69` in bnb-hq repo",
+            "**Result:** Health check now correctly shows $18,876,494 revenue ✅"
+          ]
+        }
+      ],
+      "tasks_completed": [],
+      "reports_generated": [],
+      "key_actions": [
+        {
+          "description": "Calendar: 2 events today - FIFA World Cup Soccer release + Office",
+          "category": "calendar"
+        },
+        {
+          "description": "Tomorrow: 4 meetings (Marketing Weekly at 1pm, 2x Fanatics Live at 4pm, Founder's Meeting at 5pm)",
+          "category": "general"
+        },
+        {
+          "description": "MC Status: 4 tasks in review, 10 unread messages, 0 pending approval",
+          "category": "general"
+        },
+        {
+          "description": "4:00 PM: BNB <> Fanatics Live (x2)",
+          "category": "general"
+        },
+        {
+          "description": "Wit: Standing by for fresh Shopify token (from Feb 25-Mar 2)",
+          "category": "general"
+        },
+        {
+          "description": "Big Brother: SimpleTexting API issues resolved, credentials confirmed (Feb 27-28)",
+          "category": "integration"
+        },
+        {
+          "description": "Gmail business account credentials still need fixing (blocks email monitoring)",
+          "category": "email"
+        }
+      ],
+      "interactions": [],
+      "todoist_activity": [],
+      "infrastructure": [],
+      "stats": {
+        "sections_count": 2,
+        "tasks_completed_count": 0,
+        "reports_count": 0,
+        "key_actions_count": 7,
         "todoist_count": 0
       }
     }

@@ -19,117 +19,171 @@
             position: fixed;
             bottom: 0;
             left: 0;
-            height: 6px;
-            background: #FF4500;
+            height: 4px;
+            background: linear-gradient(90deg, #FF4500, #ff8a50);
             z-index: 9999;
             transition: width 0.1s linear;
+            box-shadow: 0 0 8px rgba(255,69,0,0.5);
+        }
+        .mode-label {
+            position: fixed;
+            top: 12px;
+            right: 16px;
+            font-family: -apple-system, sans-serif;
+            font-size: 11px;
+            color: rgba(255,255,255,0.3);
+            z-index: 9999;
+            letter-spacing: 1px;
+            text-transform: uppercase;
         }
     </style>
 </head>
 <body>
     <iframe id="frame" src="index.html"></iframe>
     <div class="progress-bar" id="progress"></div>
+    <div class="mode-label" id="modeLabel"></div>
 
     <script>
-        // Pack IDs from the main dashboard
-        const PACK_IDS = [
-            '38426242-455c-4957-9f66-78280eabe50f',
-            'd3f9111d-c4a0-4cbe-94ce-7091c0a71bc2',
-            'dd5f577b-2f82-4826-8fea-c0d774b28853',
-            '7685e0aa-0662-470a-9f60-047dcf60f418',
-            '65c882c7-8bd9-46c9-a085-1a2d05a6aa5b',
-            '8bea4c34-f295-45a6-a759-8e1812cb42c2',
-            '775dfe0e-c7b7-4bae-8fae-949258a69c22',
-            'a0d95ad0-590a-4b61-be6d-41453a00b061',
-            'bd8407c5-e834-4837-b8f1-fc489c4ce383',
-            '73820da4-689f-4b98-a2b8-a382766db4c9'
-        ];
+        const frame = document.getElementById("frame");
+        const progress = document.getElementById("progress");
+        const modeLabel = document.getElementById("modeLabel");
 
-        const MAIN_PAGE_DURATION = 15000;  // 15 seconds on main page (scrolling)
-        const PACK_PAGE_DURATION = 8000;   // 8 seconds per pack page
-        const SCROLL_INTERVAL = 50;        // Scroll every 50ms
-        const SCROLL_AMOUNT = 2;           // Pixels per scroll tick
+        // Timing config
+        const OVERVIEW_SCROLL_MS = 20000;    // 20s scrolling through full page
+        const PACK_FOCUS_MS = 15000;         // 15s per individual pack card
+        const TRANSITION_PAUSE_MS = 800;     // Brief pause between transitions
 
-        const frame = document.getElementById('frame');
-        const progress = document.getElementById('progress');
-        
-        let currentPage = 'main'; // 'main' or pack index 0-9
-        let scrollTimer;
-        let pageTimer;
         let progressTimer;
+        let currentTimeout;
 
-        function resetProgress(duration) {
-            progress.style.width = '0%';
+        function updateProgress(duration) {
+            progress.style.width = "0%";
             clearInterval(progressTimer);
-            let elapsed = 0;
+            let start = Date.now();
             progressTimer = setInterval(() => {
-                elapsed += 100;
-                progress.style.width = (elapsed / duration * 100) + '%';
-            }, 100);
+                let pct = ((Date.now() - start) / duration) * 100;
+                if (pct > 100) pct = 100;
+                progress.style.width = pct + "%";
+            }, 50);
         }
 
-        function scrollMainPage() {
-            try {
-                const doc = frame.contentDocument || frame.contentWindow.document;
-                const scrollHeight = doc.body.scrollHeight;
-                const viewHeight = frame.clientHeight;
-                let scrollPos = 0;
-                
-                // Start at top
-                doc.documentElement.scrollTop = 0;
-                
-                scrollTimer = setInterval(() => {
-                    scrollPos += SCROLL_AMOUNT;
-                    doc.documentElement.scrollTop = scrollPos;
-                    
-                    // When we hit bottom, reset to top and keep going
-                    if (scrollPos >= scrollHeight - viewHeight) {
-                        scrollPos = 0;
-                    }
-                }, SCROLL_INTERVAL);
-            } catch (e) {
-                console.log('Scroll error:', e);
+        function getDoc() {
+            try { return frame.contentDocument || frame.contentWindow.document; }
+            catch(e) { return null; }
+        }
+
+        function smoothScrollTo(doc, targetY, durationMs) {
+            return new Promise(resolve => {
+                const startY = doc.documentElement.scrollTop || doc.body.scrollTop || 0;
+                const dist = targetY - startY;
+                const start = Date.now();
+                function step() {
+                    const elapsed = Date.now() - start;
+                    const pct = Math.min(elapsed / durationMs, 1);
+                    // Ease in-out
+                    const ease = pct < 0.5
+                        ? 2 * pct * pct
+                        : 1 - Math.pow(-2 * pct + 2, 2) / 2;
+                    const y = startY + dist * ease;
+                    doc.documentElement.scrollTop = y;
+                    doc.body.scrollTop = y;
+                    if (pct < 1) requestAnimationFrame(step);
+                    else resolve();
+                }
+                requestAnimationFrame(step);
+            });
+        }
+
+        async function runCycle() {
+            // Phase 1: Load main page and scroll overview
+            modeLabel.textContent = "Overview";
+            frame.src = "index.html";
+
+            await new Promise(resolve => { frame.onload = resolve; });
+            await new Promise(r => setTimeout(r, 500)); // let render finish
+
+            const doc = getDoc();
+            if (!doc) { setTimeout(runCycle, 2000); return; }
+
+            // Scroll from top to bottom over OVERVIEW_SCROLL_MS
+            const scrollHeight = Math.max(
+                doc.body.scrollHeight,
+                doc.documentElement.scrollHeight
+            );
+            const viewHeight = frame.clientHeight;
+            const maxScroll = scrollHeight - viewHeight;
+
+            updateProgress(OVERVIEW_SCROLL_MS);
+            doc.documentElement.scrollTop = 0;
+            doc.body.scrollTop = 0;
+
+            if (maxScroll > 0) {
+                await smoothScrollTo(doc, maxScroll, OVERVIEW_SCROLL_MS);
+            } else {
+                await new Promise(r => setTimeout(r, OVERVIEW_SCROLL_MS));
             }
-        }
 
-        function showMainPage() {
-            currentPage = 'main';
-            frame.src = 'index.html';
-            resetProgress(MAIN_PAGE_DURATION);
-            
-            // Wait for load then start scrolling
-            frame.onload = () => {
-                setTimeout(scrollMainPage, 500);
-            };
-            
-            // After duration, go to first pack
-            clearTimeout(pageTimer);
-            pageTimer = setTimeout(() => {
-                clearInterval(scrollTimer);
-                showPackPage(0);
-            }, MAIN_PAGE_DURATION);
-        }
+            // Phase 2: Focus on each pack card individually
+            const cards = doc.querySelectorAll(".pack-card");
+            const packCount = cards.length;
 
-        function showPackPage(index) {
-            if (index >= 10) {
-                // Loop back to main
-                showMainPage();
+            if (packCount === 0) {
+                // No packs, just loop
+                await new Promise(r => setTimeout(r, 3000));
+                runCycle();
                 return;
             }
-            
-            currentPage = index;
-            frame.src = `pack.html?id=${PACK_IDS[index]}`;
-            resetProgress(PACK_PAGE_DURATION);
-            
-            // After duration, go to next pack
-            clearTimeout(pageTimer);
-            pageTimer = setTimeout(() => {
-                showPackPage(index + 1);
-            }, PACK_PAGE_DURATION);
+
+            // Calculate per-pack time to fill ~5 min total
+            // Total loop = overview (20s) + packs
+            // If 10 packs at 15s each = 150s + 20s = 170s (~3 min)
+            // Adjust: use PACK_FOCUS_MS as-is, gives a good rhythm
+
+            for (let i = 0; i < packCount; i++) {
+                modeLabel.textContent = "Pack " + (i + 1) + " / " + packCount;
+
+                const card = cards[i];
+                const rect = card.getBoundingClientRect();
+                const cardTop = rect.top + (doc.documentElement.scrollTop || doc.body.scrollTop || 0);
+
+                // Center the card in view
+                const targetScroll = Math.max(0, cardTop - (viewHeight / 2) + (rect.height / 2));
+
+                // Highlight current card
+                cards.forEach(c => {
+                    c.style.transition = "opacity 0.5s, transform 0.5s";
+                    c.style.opacity = "0.25";
+                    c.style.transform = "scale(0.97)";
+                });
+                card.style.opacity = "1";
+                card.style.transform = "scale(1.03)";
+                card.style.zIndex = "10";
+
+                updateProgress(PACK_FOCUS_MS);
+                await smoothScrollTo(doc, targetScroll, 800);
+                await new Promise(r => setTimeout(r, PACK_FOCUS_MS - 800));
+
+                // Brief transition pause
+                await new Promise(r => setTimeout(r, TRANSITION_PAUSE_MS));
+            }
+
+            // Reset card styles
+            const allCards = doc.querySelectorAll(".pack-card");
+            allCards.forEach(c => {
+                c.style.opacity = "";
+                c.style.transform = "";
+                c.style.zIndex = "";
+            });
+
+            // Small gap before restarting
+            await new Promise(r => setTimeout(r, 1000));
+
+            // Reload page to get fresh data and restart cycle
+            runCycle();
         }
 
-        // Start the cycle
-        showMainPage();
+        // Start
+        runCycle();
     </script>
 </body>
 </html>

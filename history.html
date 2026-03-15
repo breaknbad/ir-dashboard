@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Break'n Bad | IR History</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root { --bg:#0a0a0a; --card:#141414; --border:rgba(255,69,0,0.15); --accent:#FF4500; --text:#f5f5f5; --muted:#888; --grail:#b388ff; --chase:#ff8c5a; --green:#26de81; }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:"Inter",-apple-system,sans-serif; background:var(--bg); color:var(--text); min-height:100vh; }
+        .page { max-width:1100px; margin:0 auto; padding:24px 16px 60px; }
+        .header { text-align:center; margin-bottom:32px; padding-top:24px; }
+        .header h1 { font-size:28px; font-weight:800; }
+        .header h1 span { color:var(--accent); }
+        .header p { color:var(--muted); margin-top:6px; font-size:14px; }
+        .controls { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:24px; align-items:center; }
+        select,button { font-family:inherit; font-size:14px; background:var(--card); color:var(--text); border:1px solid var(--border); border-radius:8px; padding:10px 14px; cursor:pointer; transition:border-color 0.2s; }
+        select:hover,button:hover { border-color:var(--accent); }
+        select { min-width:240px; }
+        button.active { background:var(--accent); border-color:var(--accent); font-weight:600; }
+        .stats-row { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:12px; margin-bottom:24px; }
+        .stat-card { background:var(--card); border:1px solid var(--border); border-radius:10px; padding:16px; text-align:center; }
+        .stat-card .label { font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:1px; }
+        .stat-card .value { font-size:24px; font-weight:700; margin-top:4px; }
+        .chart-container { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:20px; margin-bottom:20px; }
+        .chart-container h3 { font-size:14px; font-weight:600; margin-bottom:12px; color:var(--muted); text-transform:uppercase; letter-spacing:0.5px; }
+        .chart-wrap { position:relative; height:300px; }
+        .run-log { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:20px; margin-top:24px; }
+        .run-log h3 { font-size:14px; font-weight:600; margin-bottom:12px; color:var(--muted); text-transform:uppercase; letter-spacing:0.5px; }
+        .run-table { width:100%; border-collapse:collapse; font-size:13px; }
+        .run-table th { text-align:left; color:var(--muted); font-weight:500; padding:8px 10px; border-bottom:1px solid var(--border); }
+        .run-table td { padding:8px 10px; border-bottom:1px solid rgba(255,255,255,0.04); }
+        .run-table tr:hover td { background:rgba(255,69,0,0.04); }
+        .ev-pos { color:var(--green); font-weight:600; }
+        .ev-neg { color:var(--muted); }
+        .back-link { display:inline-block; color:var(--accent); text-decoration:none; font-size:13px; margin-bottom:16px; }
+        .back-link:hover { text-decoration:underline; }
+        @media (max-width:600px) { .controls{flex-direction:column;} select{width:100%;} .chart-wrap{height:220px;} }
+    </style>
+</head>
+<body>
+<div class="page">
+    <a href="index.html" class="back-link">&larr; Back to Hot Packs</a>
+    <div class="header">
+        <h1>IR <span>History</span> &amp; Trends</h1>
+        <p>Pack performance over time &mdash; updated every 30 minutes</p>
+    </div>
+    <div class="controls">
+        <select id="packSelect"><option value="all">All Packs (Overview)</option></select>
+        <button id="btn24h" class="active" onclick="setRange(1)">24h</button>
+        <button id="btn7d" onclick="setRange(7)">7d</button>
+        <button id="btn30d" onclick="setRange(30)">30d</button>
+        <button id="btnAll" onclick="setRange(0)">All</button>
+    </div>
+    <div class="stats-row" id="statsRow"></div>
+    <div class="chart-container"><h3>EV Ratio Over Time</h3><div class="chart-wrap"><canvas id="evChart"></canvas></div></div>
+    <div class="chart-container"><h3>Cards Remaining</h3><div class="chart-wrap"><canvas id="cardsChart"></canvas></div></div>
+    <div class="chart-container"><h3>Chase &amp; Grail Odds</h3><div class="chart-wrap"><canvas id="oddsChart"></canvas></div></div>
+    <div class="run-log"><h3>Recent Scrape Runs</h3><div style="overflow-x:auto"><table class="run-table"><thead><tr><th>Time (EST)</th><th>Packs</th><th>+EV</th><th>Top EV</th><th>Top Pack</th></tr></thead><tbody id="runBody"></tbody></table></div></div>
+</div>
+<script>
+const SB="https://mibyrqopfzaueqsdrlzq.supabase.co";
+const AK="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1pYnlycW9wZnphdWVxc2RybHpxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzEyMDczNTIsImV4cCI6MjA4Njc4MzM1Mn0.WHPYozl9dGcir6KwRW3fUZPARuvwws_BI3sNB_h1piE";
+let allData=[],rangeDays=1,selectedPack="all",evChart,cardsChart,oddsChart;
+const CC=["#FF4500","#b388ff","#26de81","#ff8c5a","#4fc3f7","#ffd54f","#ff6b6b","#a29bfe","#fd79a8","#00cec9","#e17055","#6c5ce7","#81ecec","#fab1a0","#74b9ff"];
+const cDef={responsive:true,maintainAspectRatio:false,plugins:{legend:{display:true,position:"top",labels:{color:"#888",font:{size:11},boxWidth:12}}},scales:{x:{type:"time",time:{tooltipFormat:"MMM d, h:mm a"},grid:{color:"rgba(255,255,255,0.04)"},ticks:{color:"#666",font:{size:10},maxTicksLimit:10}},y:{grid:{color:"rgba(255,255,255,0.04)"},ticks:{color:"#666",font:{size:10}}}},interaction:{mode:"nearest",intersect:false},elements:{point:{radius:0,hoverRadius:4},line:{borderWidth:2,tension:0.3}}};
+
+async function fetchData(){
+    let u=SB+"/rest/v1/ir_pack_snapshots?select=scraped_at,pack_title,total_cards,chase_count,grail_count,chase_odds_pct,grail_odds_pct,ev_cents,ev_ratio,is_positive_ev&order=scraped_at.asc";
+    if(rangeDays>0){const s=new Date(Date.now()-rangeDays*86400000).toISOString();u+="&scraped_at=gte."+s;}
+    u+="&limit=10000";
+    const r=await fetch(u,{headers:{apikey:AK,Authorization:"Bearer "+AK}});
+    allData=await r.json();
+    populatePackSelect();render();
+}
+function populatePackSelect(){
+    const s=document.getElementById("packSelect"),packs=[...new Set(allData.map(r=>r.pack_title))].sort(),cur=s.value;
+    s.innerHTML='<option value="all">All Packs (Overview)</option>';
+    packs.forEach(p=>{const o=document.createElement("option");o.value=p;o.textContent=p;s.appendChild(o);});
+    s.value=cur||"all";
+}
+function setRange(d){
+    rangeDays=d;
+    document.querySelectorAll(".controls button").forEach(b=>b.classList.remove("active"));
+    document.getElementById(d===1?"btn24h":d===7?"btn7d":d===30?"btn30d":"btnAll").classList.add("active");
+    fetchData();
+}
+function toEST(iso){return new Date(iso).toLocaleString("en-US",{timeZone:"America/New_York",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});}
+
+function render(){
+    const data=selectedPack==="all"?allData:allData.filter(r=>r.pack_title===selectedPack);
+    renderStats(data);
+    const byTime={};data.forEach(r=>{if(!byTime[r.scraped_at])byTime[r.scraped_at]=[];byTime[r.scraped_at].push(r);});
+    const times=Object.keys(byTime).sort();
+    if(selectedPack==="all")renderOverviewCharts(byTime,times);else renderPackCharts(data);
+    renderRunLog(byTime,times);
+}
+function renderStats(data){
+    if(!data.length){document.getElementById("statsRow").innerHTML="";return;}
+    const latest=data.filter(r=>r.scraped_at===data[data.length-1].scraped_at);
+    const tp=latest.length,pe=latest.filter(r=>r.ev_ratio>=1).length;
+    const ae=latest.length?(latest.reduce((s,r)=>s+(r.ev_ratio||0),0)/latest.length).toFixed(2):"0";
+    const tc=latest.reduce((s,r)=>s+(r.total_cards||0),0);
+    const sc=[...new Set(data.map(r=>r.scraped_at))].length;
+    document.getElementById("statsRow").innerHTML=`
+        <div class="stat-card"><div class="label">Packs Tracked</div><div class="value">${tp}</div></div>
+        <div class="stat-card"><div class="label">+EV Packs</div><div class="value ev-pos">${pe}</div></div>
+        <div class="stat-card"><div class="label">Avg EV Ratio</div><div class="value">${ae}x</div></div>
+        <div class="stat-card"><div class="label">Total Cards</div><div class="value">${tc.toLocaleString()}</div></div>
+        <div class="stat-card"><div class="label">Scrape Runs</div><div class="value">${sc}</div></div>`;
+}
+function renderOverviewCharts(byTime,times){
+    const lt=times[times.length-1];
+    const top=(byTime[lt]||[]).sort((a,b)=>(b.ev_ratio||0)-(a.ev_ratio||0)).slice(0,8).map(p=>p.pack_title);
+    const evDs=top.map((pk,i)=>({label:pk.replace(/: /g," "),data:times.map(t=>{const r=(byTime[t]||[]).find(x=>x.pack_title===pk);return r?{x:new Date(t),y:r.ev_ratio}:null;}).filter(Boolean),borderColor:CC[i%CC.length],backgroundColor:"transparent"}));
+    if(evChart)evChart.destroy();
+    evChart=new Chart(document.getElementById("evChart"),{type:"line",data:{datasets:evDs},options:{...cDef,scales:{...cDef.scales,y:{...cDef.scales.y,title:{display:true,text:"EV Ratio",color:"#666"}}}}});
+    const cDs=[{label:"Total Cards",data:times.map(t=>({x:new Date(t),y:(byTime[t]||[]).reduce((s,r)=>s+(r.total_cards||0),0)})),borderColor:"#4fc3f7",backgroundColor:"rgba(79,195,247,0.1)",fill:true}];
+    if(cardsChart)cardsChart.destroy();
+    cardsChart=new Chart(document.getElementById("cardsChart"),{type:"line",data:{datasets:cDs},options:{...cDef,plugins:{...cDef.plugins,legend:{display:false}}}});
+    const oDs=[
+        {label:"Avg Chase %",data:times.map(t=>{const rr=byTime[t]||[];return{x:new Date(t),y:rr.length?(rr.reduce((s,r)=>s+(r.chase_odds_pct||0),0)/rr.length):null};}),borderColor:"#ff8c5a",backgroundColor:"transparent"},
+        {label:"Avg Grail %",data:times.map(t=>{const rr=byTime[t]||[];return{x:new Date(t),y:rr.length?(rr.reduce((s,r)=>s+(r.grail_odds_pct||0),0)/rr.length):null};}),borderColor:"#b388ff",backgroundColor:"transparent"}
+    ];
+    if(oddsChart)oddsChart.destroy();
+    oddsChart=new Chart(document.getElementById("oddsChart"),{type:"line",data:{datasets:oDs},options:{...cDef,scales:{...cDef.scales,y:{...cDef.scales.y,title:{display:true,text:"%",color:"#666"}}}}});
+}
+function renderPackCharts(data){
+    const sorted=[...data].sort((a,b)=>new Date(a.scraped_at)-new Date(b.scraped_at));
+    if(evChart)evChart.destroy();
+    evChart=new Chart(document.getElementById("evChart"),{type:"line",data:{datasets:[{label:"EV Ratio",data:sorted.map(r=>({x:new Date(r.scraped_at),y:r.ev_ratio})),borderColor:"#FF4500",backgroundColor:"rgba(255,69,0,0.1)",fill:true}]},options:{...cDef,plugins:{...cDef.plugins,legend:{display:false}},scales:{...cDef.scales,y:{...cDef.scales.y,title:{display:true,text:"EV Ratio",color:"#666"}}}}});
+    if(cardsChart)cardsChart.destroy();
+    cardsChart=new Chart(document.getElementById("cardsChart"),{type:"line",data:{datasets:[
+        {label:"Total",data:sorted.map(r=>({x:new Date(r.scraped_at),y:r.total_cards})),borderColor:"#4fc3f7",backgroundColor:"rgba(79,195,247,0.1)",fill:true},
+        {label:"Chase",data:sorted.map(r=>({x:new Date(r.scraped_at),y:r.chase_count})),borderColor:"#ff8c5a",backgroundColor:"transparent"},
+        {label:"Grail",data:sorted.map(r=>({x:new Date(r.scraped_at),y:r.grail_count})),borderColor:"#b388ff",backgroundColor:"transparent"}
+    ]},options:cDef});
+    if(oddsChart)oddsChart.destroy();
+    oddsChart=new Chart(document.getElementById("oddsChart"),{type:"line",data:{datasets:[
+        {label:"Chase %",data:sorted.map(r=>({x:new Date(r.scraped_at),y:r.chase_odds_pct})),borderColor:"#ff8c5a",backgroundColor:"transparent"},
+        {label:"Grail %",data:sorted.map(r=>({x:new Date(r.scraped_at),y:r.grail_odds_pct})),borderColor:"#b388ff",backgroundColor:"transparent"}
+    ]},options:{...cDef,scales:{...cDef.scales,y:{...cDef.scales.y,title:{display:true,text:"%",color:"#666"}}}}});
+}
+function renderRunLog(byTime,times){
+    const body=document.getElementById("runBody");
+    body.innerHTML=times.slice(-30).reverse().map(t=>{
+        const rows=byTime[t]||[],pe=rows.filter(r=>r.ev_ratio>=1);
+        const top=rows.reduce((b,r)=>(r.ev_ratio||0)>(b.ev_ratio||0)?r:b,rows[0]||{});
+        return`<tr><td>${toEST(t)}</td><td>${rows.length}</td><td class="${pe.length?"ev-pos":"ev-neg"}">${pe.length}</td><td class="${(top.ev_ratio||0)>=1?"ev-pos":""}">${(top.ev_ratio||0).toFixed(2)}x</td><td>${(top.pack_title||"").substring(0,35)}</td></tr>`;
+    }).join("");
+}
+document.getElementById("packSelect").addEventListener("change",e=>{selectedPack=e.target.value;render();});
+fetchData();
+</script>
+</body>
+</html>

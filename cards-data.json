@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T10:04:25.829Z",
+  "timestamp": "2026-03-16T10:34:25.604Z",
   "packs": [
     {
       "productId": "4f8cbef1-4af1-4bae-9247-0d13e0730387",
@@ -95,6 +95,120 @@
       ]
     },
     {
+      "productId": "39f78c3d-30e1-411b-9aac-ae21dc1b6798",
+      "repackId": "01ae9ffd-060f-461c-9e1e-b917eaf47b7a",
+      "title": "Football: Ultra Pack $500",
+      "price": 500,
+      "evRatio": 0.987,
+      "trueEV": 493.44,
+      "remaining": {
+        "GRAIL": 0,
+        "CHASE": 4,
+        "BASE": 16
+      },
+      "totalRemaining": 20,
+      "odds": {
+        "grail": 0,
+        "chase": 20,
+        "base": 80
+      },
+      "cards": [
+        {
+          "id": "4782e780-ea5f-11f0-949c-0a9fa6976011",
+          "title": "2024 Panini Prizm Purple Ice Jayden Daniels ROOKIE /225 #347 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 135000,
+          "valueDisplay": "$1,350.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkV3RnZPR2NRd3pKbkdLYzBLSGU1RlRETUVCcitVbnF2d0FSR0ZxT25ib2EwMTNHQUx2a1VNMTc4a3dSZUFYWlNVVnV3THBUSDYybG5tb1pQbEI5eFRBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjEzNGIwMDg1NGQ5NmU2NmU5MjBkMWE1MTM4NDU1MmJlYmExZmJkNDA5Zjk1MDMyNjdjODI0YTY5NmU5Mjc5ZWQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkV3RnZPR2NRd3pKbkdLYzBLSGU1RlRETUVCcitVbnF2d0FSR0ZxT25ib1lvekp5cHFjQ2hyN3NtTlVDT3VjN09VMUlRc2xMc3dBQ3p4RUl4bmhzeTJ3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgxOTI1YTMwNmZkN2U5N2MyZTRmZjdmNGM4OTIyYjM1NTk5YzVkMjJiMGVhYTZiMmU3ZGU5MmM1MmE3MGE4NDUifQ=="
+        },
+        {
+          "id": "47685d2a-ea5f-11f0-9292-0a9fa6976011",
+          "title": "2017 Donruss Football Patrick Mahomes II ROOKIE RC #327 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 126000,
+          "valueDisplay": "$1,260.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNVdEY2NjZnMVBXZ3N5VElIUjBiWktqdi9vUDVZRXFYMVZnV2VTWmo3aS9VendWMmRvRTNSOEx1MERvbFdtSmpHVXdJallWTkVuTlQwaC96NGFNUkNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImI0NmE3MTJmZTI4ODEzYjU3OTg5Mjc3ZWNkZTkwYWM3YTAyOWFkOWFhODgzNDE0M2FlYzY4MTdjMzc0MmVjZmUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNVdEY2NjZnMVBXZ3N5VElIUjBiWktqdi9vUDVZRXFYMVZnV2VTWmo3aTlnZ3FKOWRXMVhaaGozR0F0UlFmRUowMEVnejZGWFh0ZXdwdk42VUNpc05BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA5NTMwZTgzYjQ0NmIwYWQzYTJmNjM1ZTkzMGIwMmFkZDRkODI2MjY3MTI0OTk3MzE4ODNmMjJlNzFiOGQwY2EifQ=="
+        },
+        {
+          "id": "478c9faa-ea5f-11f0-ac05-0a9fa6976011",
+          "title": "2023 Select XRC Caleb Williams ROOKIE #501 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 109100,
+          "valueDisplay": "$1,091.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2NmthdWgzK1d0cVdtUUc2dnhPNTRZM09rUjhBT1NTTmZKdGhucXZtQ0dZQWNualNiWlpKdTVDd0sxK0IvN05tdm9Lck9JMXhUeTZxY0JpWFArcFhnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImFkMmZhOWVlZGFkMGVkNTU2OWQwYjcxODBiNTdlODhlZjA3MjMwN2VmNDkzNzIwZmY1YWU4OWNkMmFhZWE0MzkifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2NmthdWgzK1d0cVdtUUc2dnhPNTRZM09rUjhBT1NTTmZKdGhucXZtQ0Z1c1B2S0tOSEUxeEdselpZRHZ3clVxTjZOVmZqWmI5UGN3UTVjQ1h2OHN3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImFmODZlOGM4YmVmNzMwNjJmMmRmYTA1M2ViYzk0Y2VjYmY2ZTQ5ZmRhNGFlNmYxNDhlYTJlNmQzZjEyMDE5OTQifQ=="
+        },
+        {
+          "id": "479d1e8e-ea5f-11f0-9f1a-0a9fa6976011",
+          "title": "2024 Panini Prizm Manga Vertical Christian McCaffrey #M-CMC PSA 8 NM-MT",
+          "tier": "CHASE",
+          "value": 96300,
+          "valueDisplay": "$963.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpkbWg4ZzY0VXF3bVpBd2ZhbW41STdWbWNMSEdVOFB2SDl4YTJickRQYzdkK0MxRzlJbHhBUU55WWtCTXh6c0IzRE5xQUlEdmlHRWJSSUN0L3FqUGNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImExYmIwYWJiMTE0NGQ1NWE0NWVhOTgzYzk5YzU2M2I3MjNhNDViODEyNzRjMmQwZjY4MTk1ZWVhMmUwMTEyNmUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpkbWg4ZzY0VXF3bVpBd2ZhbW41STdWbWNMSEdVOFB2SDl4YTJickRQYzZrdGlqTEtDZ29td2pRdExha2wwamFnYWQvSUFYUGgyMlhVWlN3VTIvbTlBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUyNjRiZmZmYTA2ZWU5NjM1OTgxNTNhNjBmMjIzOTliMTk1YzhmMTk0ZTY0NjQ2NjZmODdjYzEwOGI1M2Y2MmYifQ=="
+        }
+      ]
+    },
+    {
+      "productId": "39f78c3d-30e1-411b-9aac-ae21dc1b6798",
+      "repackId": "01ae9ffd-060f-461c-9e1e-b917eaf47b7a",
+      "title": "Football: Ultra Pack $500",
+      "price": 500,
+      "evRatio": 0.987,
+      "trueEV": 493.44,
+      "remaining": {
+        "GRAIL": 0,
+        "CHASE": 4,
+        "BASE": 16
+      },
+      "totalRemaining": 20,
+      "odds": {
+        "grail": 0,
+        "chase": 20,
+        "base": 80
+      },
+      "cards": [
+        {
+          "id": "4782e780-ea5f-11f0-949c-0a9fa6976011",
+          "title": "2024 Panini Prizm Purple Ice Jayden Daniels ROOKIE /225 #347 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 135000,
+          "valueDisplay": "$1,350.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkV3RnZPR2NRd3pKbkdLYzBLSGU1RlRETUVCcitVbnF2d0FSR0ZxT25ib2EwMTNHQUx2a1VNMTc4a3dSZUFYWlNVVnV3THBUSDYybG5tb1pQbEI5eFRBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjEzNGIwMDg1NGQ5NmU2NmU5MjBkMWE1MTM4NDU1MmJlYmExZmJkNDA5Zjk1MDMyNjdjODI0YTY5NmU5Mjc5ZWQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkV3RnZPR2NRd3pKbkdLYzBLSGU1RlRETUVCcitVbnF2d0FSR0ZxT25ib1lvekp5cHFjQ2hyN3NtTlVDT3VjN09VMUlRc2xMc3dBQ3p4RUl4bmhzeTJ3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgxOTI1YTMwNmZkN2U5N2MyZTRmZjdmNGM4OTIyYjM1NTk5YzVkMjJiMGVhYTZiMmU3ZGU5MmM1MmE3MGE4NDUifQ=="
+        },
+        {
+          "id": "47685d2a-ea5f-11f0-9292-0a9fa6976011",
+          "title": "2017 Donruss Football Patrick Mahomes II ROOKIE RC #327 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 126000,
+          "valueDisplay": "$1,260.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNVdEY2NjZnMVBXZ3N5VElIUjBiWktqdi9vUDVZRXFYMVZnV2VTWmo3aS9VendWMmRvRTNSOEx1MERvbFdtSmpHVXdJallWTkVuTlQwaC96NGFNUkNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImI0NmE3MTJmZTI4ODEzYjU3OTg5Mjc3ZWNkZTkwYWM3YTAyOWFkOWFhODgzNDE0M2FlYzY4MTdjMzc0MmVjZmUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNVdEY2NjZnMVBXZ3N5VElIUjBiWktqdi9vUDVZRXFYMVZnV2VTWmo3aTlnZ3FKOWRXMVhaaGozR0F0UlFmRUowMEVnejZGWFh0ZXdwdk42VUNpc05BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA5NTMwZTgzYjQ0NmIwYWQzYTJmNjM1ZTkzMGIwMmFkZDRkODI2MjY3MTI0OTk3MzE4ODNmMjJlNzFiOGQwY2EifQ=="
+        },
+        {
+          "id": "478c9faa-ea5f-11f0-ac05-0a9fa6976011",
+          "title": "2023 Select XRC Caleb Williams ROOKIE #501 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 109100,
+          "valueDisplay": "$1,091.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2NmthdWgzK1d0cVdtUUc2dnhPNTRZM09rUjhBT1NTTmZKdGhucXZtQ0dZQWNualNiWlpKdTVDd0sxK0IvN05tdm9Lck9JMXhUeTZxY0JpWFArcFhnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImFkMmZhOWVlZGFkMGVkNTU2OWQwYjcxODBiNTdlODhlZjA3MjMwN2VmNDkzNzIwZmY1YWU4OWNkMmFhZWE0MzkifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2NmthdWgzK1d0cVdtUUc2dnhPNTRZM09rUjhBT1NTTmZKdGhucXZtQ0Z1c1B2S0tOSEUxeEdselpZRHZ3clVxTjZOVmZqWmI5UGN3UTVjQ1h2OHN3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImFmODZlOGM4YmVmNzMwNjJmMmRmYTA1M2ViYzk0Y2VjYmY2ZTQ5ZmRhNGFlNmYxNDhlYTJlNmQzZjEyMDE5OTQifQ=="
+        },
+        {
+          "id": "479d1e8e-ea5f-11f0-9f1a-0a9fa6976011",
+          "title": "2024 Panini Prizm Manga Vertical Christian McCaffrey #M-CMC PSA 8 NM-MT",
+          "tier": "CHASE",
+          "value": 96300,
+          "valueDisplay": "$963.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpkbWg4ZzY0VXF3bVpBd2ZhbW41STdWbWNMSEdVOFB2SDl4YTJickRQYzdkK0MxRzlJbHhBUU55WWtCTXh6c0IzRE5xQUlEdmlHRWJSSUN0L3FqUGNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImExYmIwYWJiMTE0NGQ1NWE0NWVhOTgzYzk5YzU2M2I3MjNhNDViODEyNzRjMmQwZjY4MTk1ZWVhMmUwMTEyNmUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpkbWg4ZzY0VXF3bVpBd2ZhbW41STdWbWNMSEdVOFB2SDl4YTJickRQYzZrdGlqTEtDZ29td2pRdExha2wwamFnYWQvSUFYUGgyMlhVWlN3VTIvbTlBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUyNjRiZmZmYTA2ZWU5NjM1OTgxNTNhNjBmMjIzOTliMTk1YzhmMTk0ZTY0NjQ2NjZmODdjYzEwOGI1M2Y2MmYifQ=="
+        }
+      ]
+    },
+    {
       "productId": "bc5aef09-1a2c-4819-8784-4d52de745fa3",
       "repackId": "775dfe0e-c7b7-4bae-8fae-949258a69c22",
       "title": "Football: Infinity Pack $1,000",
@@ -147,8 +261,8 @@
       "repackId": "4cbd75dd-4669-4561-a887-36e38ddac500",
       "title": "Pokemon: Infinity Pack $1,000",
       "price": 1000,
-      "evRatio": 0.979,
-      "trueEV": 978.54,
+      "evRatio": 0.976,
+      "trueEV": 975.68,
       "remaining": {
         "GRAIL": 6,
         "CHASE": 35,
@@ -423,6 +537,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpqVGNLVWRDY2hHcEdUN3ZXSjAwSDJKVmhnTkNFSzJiMk9pSTFuSlhkV3E4NGNoM1hkanIyQy9TVzRRaWswWk1Ca2IrNkt1YjVBY0ozVW8xbFYzK09RPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjY1MzMxN2ZiZDNhZTkzMzdlYjkyZThiNGQ2ZjE3ZGZiODZiMzBmY2QwZTVkZDcxY2Q3OTg5YzA4OTgwY2VhZTkifQ=="
         },
         {
+          "id": "3a5c2330-19a5-11f1-88b6-8ea9b472eab5",
+          "title": "2021 Pokemon Sword & Shield Evolving Skies Alt Art Rayquaza VMAX #218 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 171000,
+          "valueDisplay": "$1,710.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Illkc0ducTRFZWxJN3c2cjUwMGtHRkNBb3ZCV1VhTjJTOTZienp2K0o5US9xclhqdnpMYTVRNDlvcnV3c0FJSTJQTFVMSTlDcjJVT0c5bG8wMDFRYmNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA5ZGYxY2YzN2ExOWQ4NmFkYTRjNTM5NWU3YjhjNTVjZmUyNTg1ODYxZjUyYWUwNGM1NTBhN2IyMjg0MWNlZGYifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Illkc0ducTRFZWxJN3c2cjUwMGtHRkNBb3ZCV1VhTjJTOTZienp2K0o5UTh1cElFY1kyOWNaNTBXQUJzM1Rna1k4UUwrdnJUc0JxOU13ZXB3bVRSVmNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQxNzc1M2VjNWExMDdhM2Q4YThkMDBmOWU2NmRmMDBhNTE3OTFjZTUxMjVjYTljNWZlMDhmNWU1NTUyYjVlMWUifQ=="
+        },
+        {
           "id": "3a59583a-19a5-11f1-9ecf-8ea9b472eab5",
           "title": "1999 Pokemon Base Set Shadowless 1st Edition Holo Hitmonchan #7 CGC 8 NM-MT",
           "tier": "CHASE",
@@ -430,15 +553,6 @@
           "valueDisplay": "$1,686.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdTVuUzQ4TVJ2c1JHV3MyMTVQWkNSRW9MdUhSOVd5Q1h5TmYrMmg4OG93Q3NqdGlZb1d2R0hBYXYwOFFZbTdLQkNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImE2NWRjYjNkNGVkNDQ4YjI1Y2NlMGQ2NDY0NDNkNDNhNzE0MmJmNzNjMWUzN2MzMWQwNGVkZTk5YzlkNTViODQifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdTVuUzQ4TVJ2c1JHV3MyMTVQWkNSRXF5b0pZMVBRNUY3OWdITVpxdjVpMTNXTlJkZkt6Y21NdlVBK2w2SmNrM0VRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImViZTkzYWY2MzRiZDE1MTNiM2Y1ZDIwMTZkOGZjZmUyNWEyYTllYTc5NjQ2NzM0YWE0MjA2NGU1MDY2NmVmYmUifQ=="
-        },
-        {
-          "id": "3a5c2330-19a5-11f1-88b6-8ea9b472eab5",
-          "title": "2021 Pokemon Sword & Shield Evolving Skies Alt Art Rayquaza VMAX #218 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 168600,
-          "valueDisplay": "$1,686.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Illkc0ducTRFZWxJN3c2cjUwMGtHRkNBb3ZCV1VhTjJTOTZienp2K0o5US9xclhqdnpMYTVRNDlvcnV3c0FJSTJQTFVMSTlDcjJVT0c5bG8wMDFRYmNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA5ZGYxY2YzN2ExOWQ4NmFkYTRjNTM5NWU3YjhjNTVjZmUyNTg1ODYxZjUyYWUwNGM1NTBhN2IyMjg0MWNlZGYifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Illkc0ducTRFZWxJN3c2cjUwMGtHRkNBb3ZCV1VhTjJTOTZienp2K0o5UTh1cElFY1kyOWNaNTBXQUJzM1Rna1k4UUwrdnJUc0JxOU13ZXB3bVRSVmNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQxNzc1M2VjNWExMDdhM2Q4YThkMDBmOWU2NmRmMDBhNTE3OTFjZTUxMjVjYTljNWZlMDhmNWU1NTUyYjVlMWUifQ=="
         },
         {
           "id": "52dcb238-19a2-11f1-84f2-027a910c6e1a",
@@ -533,126 +647,12 @@
       ]
     },
     {
-      "productId": "39f78c3d-30e1-411b-9aac-ae21dc1b6798",
-      "repackId": "01ae9ffd-060f-461c-9e1e-b917eaf47b7a",
-      "title": "Football: Ultra Pack $500",
-      "price": 500,
-      "evRatio": 0.971,
-      "trueEV": 485.27,
-      "remaining": {
-        "GRAIL": 0,
-        "CHASE": 4,
-        "BASE": 16
-      },
-      "totalRemaining": 20,
-      "odds": {
-        "grail": 0,
-        "chase": 20,
-        "base": 80
-      },
-      "cards": [
-        {
-          "id": "4782e780-ea5f-11f0-949c-0a9fa6976011",
-          "title": "2024 Panini Prizm Purple Ice Jayden Daniels ROOKIE /225 #347 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 135000,
-          "valueDisplay": "$1,350.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkV3RnZPR2NRd3pKbkdLYzBLSGU1RlRETUVCcitVbnF2d0FSR0ZxT25ib2EwMTNHQUx2a1VNMTc4a3dSZUFYWlNVVnV3THBUSDYybG5tb1pQbEI5eFRBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjEzNGIwMDg1NGQ5NmU2NmU5MjBkMWE1MTM4NDU1MmJlYmExZmJkNDA5Zjk1MDMyNjdjODI0YTY5NmU5Mjc5ZWQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkV3RnZPR2NRd3pKbkdLYzBLSGU1RlRETUVCcitVbnF2d0FSR0ZxT25ib1lvekp5cHFjQ2hyN3NtTlVDT3VjN09VMUlRc2xMc3dBQ3p4RUl4bmhzeTJ3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgxOTI1YTMwNmZkN2U5N2MyZTRmZjdmNGM4OTIyYjM1NTk5YzVkMjJiMGVhYTZiMmU3ZGU5MmM1MmE3MGE4NDUifQ=="
-        },
-        {
-          "id": "47685d2a-ea5f-11f0-9292-0a9fa6976011",
-          "title": "2017 Donruss Football Patrick Mahomes II ROOKIE RC #327 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 126000,
-          "valueDisplay": "$1,260.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNVdEY2NjZnMVBXZ3N5VElIUjBiWktqdi9vUDVZRXFYMVZnV2VTWmo3aS9VendWMmRvRTNSOEx1MERvbFdtSmpHVXdJallWTkVuTlQwaC96NGFNUkNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImI0NmE3MTJmZTI4ODEzYjU3OTg5Mjc3ZWNkZTkwYWM3YTAyOWFkOWFhODgzNDE0M2FlYzY4MTdjMzc0MmVjZmUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNVdEY2NjZnMVBXZ3N5VElIUjBiWktqdi9vUDVZRXFYMVZnV2VTWmo3aTlnZ3FKOWRXMVhaaGozR0F0UlFmRUowMEVnejZGWFh0ZXdwdk42VUNpc05BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA5NTMwZTgzYjQ0NmIwYWQzYTJmNjM1ZTkzMGIwMmFkZDRkODI2MjY3MTI0OTk3MzE4ODNmMjJlNzFiOGQwY2EifQ=="
-        },
-        {
-          "id": "478c9faa-ea5f-11f0-ac05-0a9fa6976011",
-          "title": "2023 Select XRC Caleb Williams ROOKIE #501 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 109100,
-          "valueDisplay": "$1,091.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2NmthdWgzK1d0cVdtUUc2dnhPNTRZM09rUjhBT1NTTmZKdGhucXZtQ0dZQWNualNiWlpKdTVDd0sxK0IvN05tdm9Lck9JMXhUeTZxY0JpWFArcFhnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImFkMmZhOWVlZGFkMGVkNTU2OWQwYjcxODBiNTdlODhlZjA3MjMwN2VmNDkzNzIwZmY1YWU4OWNkMmFhZWE0MzkifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2NmthdWgzK1d0cVdtUUc2dnhPNTRZM09rUjhBT1NTTmZKdGhucXZtQ0Z1c1B2S0tOSEUxeEdselpZRHZ3clVxTjZOVmZqWmI5UGN3UTVjQ1h2OHN3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImFmODZlOGM4YmVmNzMwNjJmMmRmYTA1M2ViYzk0Y2VjYmY2ZTQ5ZmRhNGFlNmYxNDhlYTJlNmQzZjEyMDE5OTQifQ=="
-        },
-        {
-          "id": "479d1e8e-ea5f-11f0-9f1a-0a9fa6976011",
-          "title": "2024 Panini Prizm Manga Vertical Christian McCaffrey #M-CMC PSA 8 NM-MT",
-          "tier": "CHASE",
-          "value": 96300,
-          "valueDisplay": "$963.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpkbWg4ZzY0VXF3bVpBd2ZhbW41STdWbWNMSEdVOFB2SDl4YTJickRQYzdkK0MxRzlJbHhBUU55WWtCTXh6c0IzRE5xQUlEdmlHRWJSSUN0L3FqUGNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImExYmIwYWJiMTE0NGQ1NWE0NWVhOTgzYzk5YzU2M2I3MjNhNDViODEyNzRjMmQwZjY4MTk1ZWVhMmUwMTEyNmUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpkbWg4ZzY0VXF3bVpBd2ZhbW41STdWbWNMSEdVOFB2SDl4YTJickRQYzZrdGlqTEtDZ29td2pRdExha2wwamFnYWQvSUFYUGgyMlhVWlN3VTIvbTlBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUyNjRiZmZmYTA2ZWU5NjM1OTgxNTNhNjBmMjIzOTliMTk1YzhmMTk0ZTY0NjQ2NjZmODdjYzEwOGI1M2Y2MmYifQ=="
-        }
-      ]
-    },
-    {
-      "productId": "39f78c3d-30e1-411b-9aac-ae21dc1b6798",
-      "repackId": "01ae9ffd-060f-461c-9e1e-b917eaf47b7a",
-      "title": "Football: Ultra Pack $500",
-      "price": 500,
-      "evRatio": 0.971,
-      "trueEV": 485.27,
-      "remaining": {
-        "GRAIL": 0,
-        "CHASE": 4,
-        "BASE": 16
-      },
-      "totalRemaining": 20,
-      "odds": {
-        "grail": 0,
-        "chase": 20,
-        "base": 80
-      },
-      "cards": [
-        {
-          "id": "4782e780-ea5f-11f0-949c-0a9fa6976011",
-          "title": "2024 Panini Prizm Purple Ice Jayden Daniels ROOKIE /225 #347 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 135000,
-          "valueDisplay": "$1,350.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkV3RnZPR2NRd3pKbkdLYzBLSGU1RlRETUVCcitVbnF2d0FSR0ZxT25ib2EwMTNHQUx2a1VNMTc4a3dSZUFYWlNVVnV3THBUSDYybG5tb1pQbEI5eFRBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjEzNGIwMDg1NGQ5NmU2NmU5MjBkMWE1MTM4NDU1MmJlYmExZmJkNDA5Zjk1MDMyNjdjODI0YTY5NmU5Mjc5ZWQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkV3RnZPR2NRd3pKbkdLYzBLSGU1RlRETUVCcitVbnF2d0FSR0ZxT25ib1lvekp5cHFjQ2hyN3NtTlVDT3VjN09VMUlRc2xMc3dBQ3p4RUl4bmhzeTJ3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgxOTI1YTMwNmZkN2U5N2MyZTRmZjdmNGM4OTIyYjM1NTk5YzVkMjJiMGVhYTZiMmU3ZGU5MmM1MmE3MGE4NDUifQ=="
-        },
-        {
-          "id": "47685d2a-ea5f-11f0-9292-0a9fa6976011",
-          "title": "2017 Donruss Football Patrick Mahomes II ROOKIE RC #327 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 126000,
-          "valueDisplay": "$1,260.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNVdEY2NjZnMVBXZ3N5VElIUjBiWktqdi9vUDVZRXFYMVZnV2VTWmo3aS9VendWMmRvRTNSOEx1MERvbFdtSmpHVXdJallWTkVuTlQwaC96NGFNUkNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImI0NmE3MTJmZTI4ODEzYjU3OTg5Mjc3ZWNkZTkwYWM3YTAyOWFkOWFhODgzNDE0M2FlYzY4MTdjMzc0MmVjZmUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNVdEY2NjZnMVBXZ3N5VElIUjBiWktqdi9vUDVZRXFYMVZnV2VTWmo3aTlnZ3FKOWRXMVhaaGozR0F0UlFmRUowMEVnejZGWFh0ZXdwdk42VUNpc05BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA5NTMwZTgzYjQ0NmIwYWQzYTJmNjM1ZTkzMGIwMmFkZDRkODI2MjY3MTI0OTk3MzE4ODNmMjJlNzFiOGQwY2EifQ=="
-        },
-        {
-          "id": "478c9faa-ea5f-11f0-ac05-0a9fa6976011",
-          "title": "2023 Select XRC Caleb Williams ROOKIE #501 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 109100,
-          "valueDisplay": "$1,091.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2NmthdWgzK1d0cVdtUUc2dnhPNTRZM09rUjhBT1NTTmZKdGhucXZtQ0dZQWNualNiWlpKdTVDd0sxK0IvN05tdm9Lck9JMXhUeTZxY0JpWFArcFhnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImFkMmZhOWVlZGFkMGVkNTU2OWQwYjcxODBiNTdlODhlZjA3MjMwN2VmNDkzNzIwZmY1YWU4OWNkMmFhZWE0MzkifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2NmthdWgzK1d0cVdtUUc2dnhPNTRZM09rUjhBT1NTTmZKdGhucXZtQ0Z1c1B2S0tOSEUxeEdselpZRHZ3clVxTjZOVmZqWmI5UGN3UTVjQ1h2OHN3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImFmODZlOGM4YmVmNzMwNjJmMmRmYTA1M2ViYzk0Y2VjYmY2ZTQ5ZmRhNGFlNmYxNDhlYTJlNmQzZjEyMDE5OTQifQ=="
-        },
-        {
-          "id": "479d1e8e-ea5f-11f0-9f1a-0a9fa6976011",
-          "title": "2024 Panini Prizm Manga Vertical Christian McCaffrey #M-CMC PSA 8 NM-MT",
-          "tier": "CHASE",
-          "value": 96300,
-          "valueDisplay": "$963.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpkbWg4ZzY0VXF3bVpBd2ZhbW41STdWbWNMSEdVOFB2SDl4YTJickRQYzdkK0MxRzlJbHhBUU55WWtCTXh6c0IzRE5xQUlEdmlHRWJSSUN0L3FqUGNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImExYmIwYWJiMTE0NGQ1NWE0NWVhOTgzYzk5YzU2M2I3MjNhNDViODEyNzRjMmQwZjY4MTk1ZWVhMmUwMTEyNmUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpkbWg4ZzY0VXF3bVpBd2ZhbW41STdWbWNMSEdVOFB2SDl4YTJickRQYzZrdGlqTEtDZ29td2pRdExha2wwamFnYWQvSUFYUGgyMlhVWlN3VTIvbTlBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUyNjRiZmZmYTA2ZWU5NjM1OTgxNTNhNjBmMjIzOTliMTk1YzhmMTk0ZTY0NjQ2NjZmODdjYzEwOGI1M2Y2MmYifQ=="
-        }
-      ]
-    },
-    {
       "productId": "6985f25f-291f-4fea-811a-5a58d3633811",
       "repackId": "8bea4c34-f295-45a6-a759-8e1812cb42c2",
       "title": "Pokemon: Ultra Pack $500",
       "price": 500,
-      "evRatio": 0.97,
-      "trueEV": 484.98,
+      "evRatio": 0.972,
+      "trueEV": 486.1,
       "remaining": {
         "GRAIL": 14,
         "CHASE": 105,
@@ -678,8 +678,8 @@
           "id": "902f67dc-1986-11f1-8320-4af77b28aa05",
           "title": "2021 Pokemon Japanese Sword & Shield Promo Stamp Box Pikachu #227 PSA 10 GEM MINT",
           "tier": "GRAIL",
-          "value": 340000,
-          "valueDisplay": "$3,400.00",
+          "value": 369999,
+          "valueDisplay": "$3,699.99",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNoN1lXOTU1WDIxdjBWRDNvcEQxQS9ualdaV3Qxb0xmWjlkU1IxaEltQVhlTGs0QUhaMjhUK2F6M2Fmbk9CU3BEWmFNLzBlb2tSakEwYW9nRTNWcEh3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgzNWRlMTkyNTViYjM2OTViZmYwYWIxYzE3MDNlN2E3NWJkZjUxYjJhNTFkZDhlNWQxZTA5ZTAzNjk5NGU5YzIifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNoN1lXOTU1WDIxdjBWRDNvcEQxQS9ualdaV3Qxb0xmWjlkU1IxaEltQVdLL010d1lvRERHN09PUitUOGhzQmNiS21VR093eHVsYUkxUUJUa1k1cjd3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImVhMWE0ZmNkYjk3NGFhYWE0YTI2MDk5MDg0ZGQyMWEzYjVhY2Y0ZTdkNzQ4OTRiNzkxZGEwNGZhMTAzMzMzNjUifQ=="
         },
@@ -891,15 +891,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdTVuUzQ4TVJ2c1JHV3MyMTVQWkNSRXJLZFE0OXZvczMwbHZaU1BLUTU5azhnbUREMWxkd2JBVFpocmZBdllkQ2NBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImRhNDBkNGZmMzE3MzQ1ODI5NjI3MDk3NTQwNTU4NDIxNWZmMTg1MDJjNmRiMmM3NDI3MjY0YzhlYTI2ZjM4NDIifQ=="
         },
         {
-          "id": "2119d5b4-1984-11f1-964e-8ea9b472eab5",
-          "title": "1999 Pokemon Base Set Holo Charizard #4 PSA 8 NM-MT",
-          "tier": "CHASE",
-          "value": 122800,
-          "valueDisplay": "$1,228.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1uSnYzOFYvYUNCb240UjcrOXVKMnJSMnF5Wjc5aTdSeEUwd1NMRDVFdXlGTkhUMDY3Wi9EczVGaksxdS9qMXZGLzhCMlNoUHY0cHZEVUZuUW9wWCtnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQ4M2EyM2QxOTE3ZGE5OWJmOTc1OGJmYjFiNDA0OTNlN2MwMWFlMjQ0YzBjMDVmMjBiNmU5MmFlYzY3NDZkZjEifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1uSnYzOFYvYUNCb240UjcrOXVKMnJSMnF5Wjc5aTdSeEUwd1NMRDVFdXkrbDdlR291R0MvWkVybnJPQklHaDdGZnBVd3FMUWdzNE4zYmJ6NUJUd0RRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU3ZTk2M2M5MWJmYzhjNzRkMjgwMDZhNDQ0MzM4Nzk5NGJiZjg3ZDdkOGU2ZmE0OThhZGRjMGYyNTU4MDZmOGYifQ=="
-        },
-        {
           "id": "0902c3fa-1984-11f1-b267-8ea9b472eab5",
           "title": "2025 Pokemon SV Destined Rivals SIR Team Rocket's Mewtwo ex #231 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -934,6 +925,15 @@
           "valueDisplay": "$1,200.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InZHMWxxQy9HejFXZjlBUXdJekRWdzl5VWVBOFpZV0JLVkNlVlpiNlFNSThnM0VJb251My82VFNzajF5SWdPVXlXay84bkhsQWxLdndNY0tpNUNzUWd3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJjZjlmNTdiY2U5MTQ2MWE0ZWMyNGM3MWJjMGYwM2E0ZDk3MThhOGRmMTQ3MWE5NWUyZjVkYTg0NTIxMzM4ZGMifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InZHMWxxQy9HejFXZjlBUXdJekRWdzl5VWVBOFpZV0JLVkNlVlpiNlFNSStIU0ZlZHJMQUNETUl6WHR2dEJ3Nm5vbHRDT1NXVUpoMTZLMlRka2cwMkJnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA2MDNkZTA1ZmQ1NTdkODI5MGQ3YzQxZjJhN2VhMzc2NmUyYjY5YjY3MmQ1MWU1YjgzMWJhZmMxYWQyMGNkNGIifQ=="
+        },
+        {
+          "id": "2119d5b4-1984-11f1-964e-8ea9b472eab5",
+          "title": "1999 Pokemon Base Set Holo Charizard #4 PSA 8 NM-MT",
+          "tier": "CHASE",
+          "value": 120000,
+          "valueDisplay": "$1,200.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1uSnYzOFYvYUNCb240UjcrOXVKMnJSMnF5Wjc5aTdSeEUwd1NMRDVFdXlGTkhUMDY3Wi9EczVGaksxdS9qMXZGLzhCMlNoUHY0cHZEVUZuUW9wWCtnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQ4M2EyM2QxOTE3ZGE5OWJmOTc1OGJmYjFiNDA0OTNlN2MwMWFlMjQ0YzBjMDVmMjBiNmU5MmFlYzY3NDZkZjEifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1uSnYzOFYvYUNCb240UjcrOXVKMnJSMnF5Wjc5aTdSeEUwd1NMRDVFdXkrbDdlR291R0MvWkVybnJPQklHaDdGZnBVd3FMUWdzNE4zYmJ6NUJUd0RRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU3ZTk2M2M5MWJmYzhjNzRkMjgwMDZhNDQ0MzM4Nzk5NGJiZjg3ZDdkOGU2ZmE0OThhZGRjMGYyNTU4MDZmOGYifQ=="
         },
         {
           "id": "902c243c-1986-11f1-bf31-4af77b28aa05",
@@ -1015,6 +1015,15 @@
           "valueDisplay": "$1,100.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpqVGNLVWRDY2hHcEdUN3ZXSjAwSDFOWnhpaXRSb3RrOHBhU0Y3Tm9ZMzcrMXFVYWV5akU3enpNUHdsbVp5T3NpZzlnVklrS2hlZnRNVGVnVi9sQXdRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjkzYmQwZTUzNWZhMmNmZTI3Nzg1NzdlMDNlYWU2NjA1MzQxNjc4YjY0MDQ4MTc2OTFlNTU0OWY0OGJlY2FjNDMifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpqVGNLVWRDY2hHcEdUN3ZXSjAwSDFOWnhpaXRSb3RrOHBhU0Y3Tm9ZMzVQbzljRnpiZmxIT0VZZ0RxOGo5ZTg4TnNvN0pGQS9VSWJaUGxVNkVrc09BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjlmZWU4YmY0NWMyNzA0MWFjMjU2MmFhMmY4ODhhMDcyNzczMDFiNTI2MWMyMjU3YmJiODZjNjZmM2FjODA2YzAifQ=="
+        },
+        {
+          "id": "14e0f8b8-1984-11f1-827b-8ea9b472eab5",
+          "title": "2022 Pokemon Sword & Shield Silver Tempest Alt Art Lugia V #186 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 109900,
+          "valueDisplay": "$1,099.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFLVjZ1dmJFcXRETCs1ZEJuL0VzMWx6TndVdW1lbzFtNENRU2Nrbm1qamxld0t0b0g3eEJyenNucW1EU3BtSEdWd1VkYUNxMG5jVHBmb3FTVGNzK3RnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImVkOGZlOWQ5ZDY5YWZhMjA4NTc2ZGJjNDAwYzY3MTI0YjQ1ZGFmOTQ2NDFkYjAxNjNjYWE0ZmE2NTk1MjRjNTgifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFLVjZ1dmJFcXRETCs1ZEJuL0VzMWx6TndVdW1lbzFtNENRU2Nrbm1qamtUemVZYmxlV1Qrc1c3Rk90clJyeGdJelNOSXc0YldtQmV2am5mNTFKdDRRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImM2YmQwYjg5MzkyYjIzNzRiNWI1Mjk5ZjVjNzBmOTg3MTk0MWVlZjZkMWQ4YjE1ODA3Y2MzODA5ZTljY2VhYWIifQ=="
         },
         {
           "id": "14dc9ac0-1984-11f1-b65f-8ea9b472eab5",
@@ -1105,6 +1114,15 @@
           "valueDisplay": "$1,055.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjVXVDJLMVVzaHZ5T1EwaEFIZllpTzhhZ09jQkJwNmUvL283cDk1ZnhoNVQwUzR6MDNIU0R1YmlYNlZaaHR1d2ZnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE3NGUyMmVjOTAyYWQxM2U1MWIxNmFmNzQxNjkwN2JhYTI1MzJiMTJhN2E5ZmM3NzNlMDQyZWNkYmRkN2IxOGIifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjVXVDJLMVVzaHZ5T1EwaEFIZllpTzlmZE53R2ZYdmNEeExad1BaTXE0UHFVUnNrRFJQR05rVTIwUHZHOUhEZmhBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU4Mzk5YzY3ZmU2MjU0N2U1OTE2OGYzMjhjMjY5MTQyNTg5ZmIyMWEyZDMzM2M4YTkyN2M2MWJhZGUxZDA3MWUifQ=="
+        },
+        {
+          "id": "21173dae-1984-11f1-97c8-8ea9b472eab5",
+          "title": "2022 Pokemon Japanese Sword & Shield Paradigm Trigger Full Art Lugia V #110 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 105147,
+          "valueDisplay": "$1,051.47",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNoN1lXOTU1WDIxdjBWRDNvcEQxQS9ualdaV3Qxb0xmWjlkU1IxaEltQVhERUdaNXF5SktiT2NnT2ppTEpIT0tMVDMyaE5wU3UzN2dXNEJpemJ6cE9BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUyYjNmYTY3NDNlYzI2YmNlMTZmMmQ4YmUzOTlkYzA4NGY3ZjM1ZjI2N2EzNmYxZmQ3NmRmZWJmZDVjZGYyNDEifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNoN1lXOTU1WDIxdjBWRDNvcEQxQS9ualdaV3Qxb0xmWjlkU1IxaEltQVdMaDhzcmkyNnVhZXJWL0V4eVpYTGJheEpWOVE4NFJuNDRWeXVmWWJaV2VBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJhOGU5NzZiNzc3NTEzNzUyYmUzZDBhNThlYjM3OWI4OGU2YWYzNmEwZTY3MGNiMTUzZGI2N2E0MjRmMDFjYjkifQ=="
         },
         {
           "id": "090281ba-1984-11f1-b984-8ea9b472eab5",
@@ -1206,6 +1224,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL01GOEVOVTBzNTltOG9OT0ZIM0dLbC9Qbm5kekRQQ0E3ZWI0NE4zeTJ2Z2l4N2R4NVpqSGdUcVRleVVQZEhqK29RPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjNkMWY2YzNkZjUzNmI3YzRlNzRhOGRkMzJjNjhmMGViMDEyMzE0MjY4YTdhZWEzMjFjZTRiMGIzODAxYmFmNWIifQ=="
         },
         {
+          "id": "2119cc5e-1984-11f1-9ebe-8ea9b472eab5",
+          "title": "2019 Pokemon SM Promo Power Partnership Tins Full Art Mewtwo & Mew GX #SM191 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 100000,
+          "valueDisplay": "$1,000.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd5ckg3NlkyUDU1bWhYRzdQM0VYOWtSMjUwM0pyK1ROdjk1Y01nQWtGY0NYZy80VTY4ci9zNHNHdFpXWHVuY2hDdHAvaWJzRXpKVlJHZzdnOTdWQWVnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgzYzc1MjIzYmVlMWM3Y2VmNDNjMDliMzQwNmRiNTk4N2YwOTA5MjM1MTEyNTU5ZWIyMWE0MTViNTBkOGFlMDQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd5ckg3NlkyUDU1bWhYRzdQM0VYOWtSMjUwM0pyK1ROdjk1Y01nQWtGY0JkYWhuaEw2ZHoyTzlaellpbXFiNUpLTDBWMEg4R1Y0ZW1rM3VNVTZmMUx3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImEwNmZjYTgxMGVhNGU0ZDgyNTcxOWM1NDQ5M2NkMmYyZjg4Y2RlODRiZDc3MTk0MjBmMmY5YjYwMTk0MzQxMDcifQ=="
+        },
+        {
           "id": "0901a3f8-1984-11f1-9799-8ea9b472eab5",
           "title": "2021 Pokemon Japanese 25th Anniversary Promo Reshiram #20 BGS 10 PRISTINE",
           "tier": "CHASE",
@@ -1224,15 +1251,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZldUQvZ1ZnYmlTVlI2NFNKK2xUbTRUU1ptdzBFN1ozVXRmelQvdk9jZWx2dm94RXRnY0FRV1Q4WFhFbzdGdXRRYzk5S0pZN0owUlI2RG8xakdFRjJ3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjM0NzhiZGFlZWM2YjhmYThhYjhjYWY4MTNiMGE0Mjc0ZDIxMmZmZDJlMGM0Zjg2NmI1MGNlODdlYTVhM2I1NDIifQ=="
         },
         {
-          "id": "21173dae-1984-11f1-97c8-8ea9b472eab5",
-          "title": "2022 Pokemon Japanese Sword & Shield Paradigm Trigger Full Art Lugia V #110 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 99000,
-          "valueDisplay": "$990.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNoN1lXOTU1WDIxdjBWRDNvcEQxQS9ualdaV3Qxb0xmWjlkU1IxaEltQVhERUdaNXF5SktiT2NnT2ppTEpIT0tMVDMyaE5wU3UzN2dXNEJpemJ6cE9BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUyYjNmYTY3NDNlYzI2YmNlMTZmMmQ4YmUzOTlkYzA4NGY3ZjM1ZjI2N2EzNmYxZmQ3NmRmZWJmZDVjZGYyNDEifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNoN1lXOTU1WDIxdjBWRDNvcEQxQS9ualdaV3Qxb0xmWjlkU1IxaEltQVdMaDhzcmkyNnVhZXJWL0V4eVpYTGJheEpWOVE4NFJuNDRWeXVmWWJaV2VBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJhOGU5NzZiNzc3NTEzNzUyYmUzZDBhNThlYjM3OWI4OGU2YWYzNmEwZTY3MGNiMTUzZGI2N2E0MjRmMDFjYjkifQ=="
-        },
-        {
           "id": "2117e3a8-1984-11f1-b32f-8ea9b472eab5",
           "title": "2015 Pokemon XY Ancient Origins Full Art Tyranitar EX #91 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -1240,15 +1258,6 @@
           "valueDisplay": "$990.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InlPQzFsZ3lDOWpvdkJwY2FaMTM3cHV5MHc5amgwNXBwVk9FTWtMdFBVcGoyL2RweUpDQkRVNXRmQlZSbzJsTGk0Z0lQYW5LMFoxVFQrRnpPMGdsQXFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijg4ODJlOWI2MjJiYTdiMGQxYzg5ZWE0YzZkYjRhM2ZmNTczYzZhNjg0MGQyMTRmMTZjMDIyNjY2NDgzMWI5ODIifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InlPQzFsZ3lDOWpvdkJwY2FaMTM3cHV5MHc5amgwNXBwVk9FTWtMdFBVcGhZM2pwMjNEaUJ0ZTE0eHA2NHljTDVVcmE0VUN3eXduL3lDcjNPSFVKbGlRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhhM2I3YWEzZGVhZjlkZmUyMGY2YmZjODc1NWJjZTkxOGFkYWQ0YzA2YmNjMjIxMTg0NDVmMTI3NGJiZjIyYzEifQ=="
-        },
-        {
-          "id": "2119cc5e-1984-11f1-9ebe-8ea9b472eab5",
-          "title": "2019 Pokemon SM Promo Power Partnership Tins Full Art Mewtwo & Mew GX #SM191 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 99000,
-          "valueDisplay": "$990.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd5ckg3NlkyUDU1bWhYRzdQM0VYOWtSMjUwM0pyK1ROdjk1Y01nQWtGY0NYZy80VTY4ci9zNHNHdFpXWHVuY2hDdHAvaWJzRXpKVlJHZzdnOTdWQWVnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgzYzc1MjIzYmVlMWM3Y2VmNDNjMDliMzQwNmRiNTk4N2YwOTA5MjM1MTEyNTU5ZWIyMWE0MTViNTBkOGFlMDQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd5ckg3NlkyUDU1bWhYRzdQM0VYOWtSMjUwM0pyK1ROdjk1Y01nQWtGY0JkYWhuaEw2ZHoyTzlaellpbXFiNUpLTDBWMEg4R1Y0ZW1rM3VNVTZmMUx3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImEwNmZjYTgxMGVhNGU0ZDgyNTcxOWM1NDQ5M2NkMmYyZjg4Y2RlODRiZDc3MTk0MjBmMmY5YjYwMTk0MzQxMDcifQ=="
         },
         {
           "id": "90268324-1986-11f1-8d0b-4af77b28aa05",
@@ -1267,15 +1276,6 @@
           "valueDisplay": "$988.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjliTXdrdm02bUl4bWhSY0o4ZThqblhXMFBHSTNJb3ZrYk1haktpejZKdnd6WE54b1lNYStRdWdwKzJucmVDT3ZYa3E1aFRmb1B1My9Da01FQ2Q0WThnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImM3N2Y0ZGE3NDE1MzMxZjdhNjMzNzljNGE4YjFmMWYwYTQ4OTZjMGYzYzdlMmNmN2EzOGRjODViYTJlYWZhNjEifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjliTXdrdm02bUl4bWhSY0o4ZThqblhXMFBHSTNJb3ZrYk1haktpejZKdnpWb1RrZ1VTK0tCd1RxeHdTQnpOM2pIQUwrZmxnakh2WTQ1NTVXc1FUQTJRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijc1YWQ2ZTExNDYyZmM2NThkMzNlZWZmZDY0YTAxYWZjOWU2Zjk3MDQzYmZmZDM5ZjU3MzY4MDJiNmIxMGZmY2IifQ=="
-        },
-        {
-          "id": "14e0f8b8-1984-11f1-827b-8ea9b472eab5",
-          "title": "2022 Pokemon Sword & Shield Silver Tempest Alt Art Lugia V #186 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 98500,
-          "valueDisplay": "$985.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFLVjZ1dmJFcXRETCs1ZEJuL0VzMWx6TndVdW1lbzFtNENRU2Nrbm1qamxld0t0b0g3eEJyenNucW1EU3BtSEdWd1VkYUNxMG5jVHBmb3FTVGNzK3RnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImVkOGZlOWQ5ZDY5YWZhMjA4NTc2ZGJjNDAwYzY3MTI0YjQ1ZGFmOTQ2NDFkYjAxNjNjYWE0ZmE2NTk1MjRjNTgifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFLVjZ1dmJFcXRETCs1ZEJuL0VzMWx6TndVdW1lbzFtNENRU2Nrbm1qamtUemVZYmxlV1Qrc1c3Rk90clJyeGdJelNOSXc0YldtQmV2am5mNTFKdDRRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImM2YmQwYjg5MzkyYjIzNzRiNWI1Mjk5ZjVjNzBmOTg3MTk0MWVlZjZkMWQ4YjE1ODA3Y2MzODA5ZTljY2VhYWIifQ=="
         },
         {
           "id": "14e4b548-1984-11f1-ac11-8ea9b472eab5",
@@ -1800,8 +1800,8 @@
       "repackId": "d3f9111d-c4a0-4cbe-94ce-7091c0a71bc2",
       "title": "Baseball: Infinity Pack $1,000",
       "price": 1000,
-      "evRatio": 0.957,
-      "trueEV": 956.73,
+      "evRatio": 0.956,
+      "trueEV": 955.7,
       "remaining": {
         "GRAIL": 1,
         "CHASE": 7,
@@ -2259,8 +2259,8 @@
       "repackId": "5fe3d20c-5871-459b-9b4a-af1b04e3266d",
       "title": "Basketball: Mega Pack $250",
       "price": 250,
-      "evRatio": 0.883,
-      "trueEV": 220.77,
+      "evRatio": 0.884,
+      "trueEV": 221.03,
       "remaining": {
         "GRAIL": 11,
         "CHASE": 94,
@@ -2407,6 +2407,15 @@
           "valueDisplay": "$565.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRCUWdWWW5OWHZ4M2NJTDQ2T1BOc2FxbHZFWWNLdm5SRHJ3N1dYa0p6Z2pNVEVJbUlnZnFDaTkzWGJmYUJidEFtbnRDdjROVFdrQll6SDJhRlBrMnNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImZhMzdjOWMzMGJiNzA0YWIzOWMyZDljOWVkOGVmYWNjMWIzMDA4NDhlZWQ0NjRlMzFlOTI2ZTU5N2ZhYjkwMTEifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRCUWdWWW5OWHZ4M2NJTDQ2T1BOc2FxbHZFWWNLdm5SRHJ3N1dYa0p6Z2pWOUs3b3BvbXprd0pzalVLYktLSm42Ylp2S0ZWdkNRVXl1RXE2b2RsM2NnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE4ZDJkYjhlNDk1NzM1ZmQ5N2VmOTVkNmI2OWZiYWZhYWYzZDJlNTM3Yzk0N2NhNDYwZmQ5Njk5MDMzNDNmYzEifQ=="
+        },
+        {
+          "id": "2334e1f8-1967-11f1-99dc-8ea9b472eab5",
+          "title": "1988 Fleer Basketball Michael Jordan #17 PSA 9 MINT",
+          "tier": "CHASE",
+          "value": 54400,
+          "valueDisplay": "$544.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlI2YlJsS0xkUUxHT0FZWU5kblBWVW1mS3BJdm9xSFlETHVRSWZxQkZrZkVWQXVXdkwzOHUvanJkSFNhbDQ0eUFIL2J4Q09zbnhNbWp4K1BlR0M2SlNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjM5Y2NjZjQyZWY0Njk5MDYzZjJjNzIzMDA4ZWZlN2Y4YTMxYmM5MTI4ZDYyMGU3ZmNiYjE3YzAyNDU2YzQ5MDQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlI2YlJsS0xkUUxHT0FZWU5kblBWVW1mS3BJdm9xSFlETHVRSWZxQkZrZkhndG03VWR4emJiZkI2SUhzME9wSXJSZU5oZ2hGcmJTeWVQSXVyNG8wZU1RPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImI1MzIzMTBhYjE4OGM1YjMzZDkyNWFhMzc5YWIwNGFiYTk0ZTRiODFlNDE3MWNjOTdjYjJkYzgyMDkzOWZkM2YifQ=="
         },
         {
           "id": "78187410-1966-11f1-a9b8-8ea9b472eab5",
@@ -2758,15 +2767,6 @@
           "valueDisplay": "$463.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IitkL05rV1VNbldOc3A4WmZuYXc5bkxQVEdJMUNiNHZ1eDU0RWRPVG1KVncxOTdmL09ad1FkYlFpRlZoNDFnVG5ES0c2RUlFL2JBczZsdG9KVTJZZit3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjBlYTc2YTUzOTM3ZmEzYWNlNTE1ZTUwYjc3OTc0NzU4MjhiZmRhMzcyZTQzZDIxNzk5MGZjNWRhNjk4ZjYxMWYifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IitkL05rV1VNbldOc3A4WmZuYXc5bkxQVEdJMUNiNHZ1eDU0RWRPVG1KVnhSQ3M4STNKY25YOXA1clZ4a1ZpRE9IbERyU25nR01XSHR4UWFRT0lsWXVnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjViNDZmNjNlNzk1M2RhZDJmZTZkZjA1YjQ3YzNmNzYyYTBkZmJiZjZiZjZkZmFmMTIyYjNlNGE2ZjIxM2RiNWEifQ=="
-        },
-        {
-          "id": "2334e1f8-1967-11f1-99dc-8ea9b472eab5",
-          "title": "1988 Fleer Basketball Michael Jordan #17 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 46298,
-          "valueDisplay": "$462.98",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlI2YlJsS0xkUUxHT0FZWU5kblBWVW1mS3BJdm9xSFlETHVRSWZxQkZrZkVWQXVXdkwzOHUvanJkSFNhbDQ0eUFIL2J4Q09zbnhNbWp4K1BlR0M2SlNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjM5Y2NjZjQyZWY0Njk5MDYzZjJjNzIzMDA4ZWZlN2Y4YTMxYmM5MTI4ZDYyMGU3ZmNiYjE3YzAyNDU2YzQ5MDQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlI2YlJsS0xkUUxHT0FZWU5kblBWVW1mS3BJdm9xSFlETHVRSWZxQkZrZkhndG03VWR4emJiZkI2SUhzME9wSXJSZU5oZ2hGcmJTeWVQSXVyNG8wZU1RPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImI1MzIzMTBhYjE4OGM1YjMzZDkyNWFhMzc5YWIwNGFiYTk0ZTRiODFlNDE3MWNjOTdjYjJkYzgyMDkzOWZkM2YifQ=="
         },
         {
           "id": "781720b0-1966-11f1-93dd-8ea9b472eab5",
@@ -3225,18 +3225,18 @@
       "repackId": "8f49d2cf-1e36-40ac-b8ee-814391c74108",
       "title": "Basketball: $75",
       "price": 75,
-      "evRatio": 0.87,
-      "trueEV": 65.26,
+      "evRatio": 0.874,
+      "trueEV": 65.58,
       "remaining": {
         "GRAIL": 1,
         "CHASE": 18,
-        "BASE": 93
+        "BASE": 92
       },
-      "totalRemaining": 112,
+      "totalRemaining": 111,
       "odds": {
-        "grail": 0.89,
-        "chase": 16.07,
-        "base": 83.04
+        "grail": 0.9,
+        "chase": 16.22,
+        "base": 82.88
       },
       "cards": [
         {
@@ -3519,8 +3519,8 @@
       "repackId": "f147af39-a73f-477e-95da-a7763a4c5b58",
       "title": "Basketball: Super Pack $150",
       "price": 150,
-      "evRatio": 0.839,
-      "trueEV": 125.87,
+      "evRatio": 0.838,
+      "trueEV": 125.66,
       "remaining": {
         "GRAIL": 7,
         "CHASE": 57,
@@ -3642,6 +3642,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImgySVNjN1E0cGhmc0FxRlRVK0N1K2FBUEYvVG1mY1kxcTd0M2N0aktkUFNzRjhBa0o3bXdGZ3FXN2IzZWVucHAweW1Wb3BuUjVHSTBlK0k4NWwrVTFBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjAzNzIxNzAwMjY1ZWNiNzdkZGQ3MDMwYzM5ZmY3YzljZDg2ZDgyYzA5MzNmNDk5NDZiNTYzNjhmZTU4YmZjZTQifQ=="
         },
         {
+          "id": "4c478c8a-1f07-11f1-84f9-9e3a7345d875",
+          "title": "1993 Nike Warner Brothers The Scream Team Michael Jordan PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 28800,
+          "valueDisplay": "$288.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikt2R0NuSTdnNEF3NE95eHZkemJWRHVpNzB2Y0FteG5Kcm5XbjJ5M25VN2dBYVZZaHNHRUxrU1M3Um9WVFNybWFHa0lBRG12eHhxZzZ0Rm9DMkhERHR3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJjZTNhOTcyNmE0Njc0MmQyNjE1MGYzYjM5ZThkNWQwZWM3ZWZjODgyM2JlMWYxNWJiZWQ2M2MxYWQzZTUzNTQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikt2R0NuSTdnNEF3NE95eHZkemJWRHVpNzB2Y0FteG5Kcm5XbjJ5M25VN2hFV29uaXJSbEZoY0JBQ3RQNEluV3lkT01sVWR6TWNwY1hGL1h0emkyeCtBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhjNWU4MDZhMmI0NTg3MTNlNTUwZDM5MjdiNWVmNjIwMzM0NzQwNjI2ZDI1M2IxNTUyYThkYWY2ZDc1NmM4NTEifQ=="
+        },
+        {
           "id": "4c4eb546-1f07-11f1-923d-9e3a7345d875",
           "title": "1993 Hoops 5th Anniversary Michael Jordan #28 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -3667,15 +3676,6 @@
           "valueDisplay": "$286.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZGc1RpMWcxNHNKZWhxQjIySEdWYndpTUgzVkw0MER4cTZuY0NMK1hMc2VXbWR2Z2toTDd4SUl5VVFoc1l6MmozSWpWS0NLeWh3NUxXVGF6dXU4WHN3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImMzYmNkNjJlMjI4ZTE3OWI5NmE3MjgwZTEwYjM2MGM1N2I1ZmI3N2JmODQwMWE4ZjUyMjFjZWU4ZDk2OWY2NjAifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZGc1RpMWcxNHNKZWhxQjIySEdWYndpTUgzVkw0MER4cTZuY0NMK1hMc2NFeFJNQTRoT0FLRDRPNm5xRHFBM2x6UnFaZGNTQ0taeEFIY2lSWExTSzJ3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhiYmNjN2NmMDhhZTkxMTY4NTdhNDkwN2FiNzE2OTE2NDk3ZTM5ZWJkZjQ3MDY1YTNmYjQ1NTZlMTE5NGZmNmIifQ=="
-        },
-        {
-          "id": "4c478c8a-1f07-11f1-84f9-9e3a7345d875",
-          "title": "1993 Nike Warner Brothers The Scream Team Michael Jordan PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 28600,
-          "valueDisplay": "$286.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikt2R0NuSTdnNEF3NE95eHZkemJWRHVpNzB2Y0FteG5Kcm5XbjJ5M25VN2dBYVZZaHNHRUxrU1M3Um9WVFNybWFHa0lBRG12eHhxZzZ0Rm9DMkhERHR3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJjZTNhOTcyNmE0Njc0MmQyNjE1MGYzYjM5ZThkNWQwZWM3ZWZjODgyM2JlMWYxNWJiZWQ2M2MxYWQzZTUzNTQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikt2R0NuSTdnNEF3NE95eHZkemJWRHVpNzB2Y0FteG5Kcm5XbjJ5M25VN2hFV29uaXJSbEZoY0JBQ3RQNEluV3lkT01sVWR6TWNwY1hGL1h0emkyeCtBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhjNWU4MDZhMmI0NTg3MTNlNTUwZDM5MjdiNWVmNjIwMzM0NzQwNjI2ZDI1M2IxNTUyYThkYWY2ZDc1NmM4NTEifQ=="
         },
         {
           "id": "5b4db01a-1f07-11f1-9129-9e3a7345d875",
@@ -4116,8 +4116,8 @@
       "repackId": "d84a98eb-e303-41b6-b5a0-e140ef749a77",
       "title": "Football: Super Pack $150",
       "price": 150,
-      "evRatio": 0.838,
-      "trueEV": 125.67,
+      "evRatio": 0.837,
+      "trueEV": 125.56,
       "remaining": {
         "GRAIL": 6,
         "CHASE": 31,
@@ -4170,8 +4170,8 @@
           "id": "36bcd4a6-1b24-11f1-a0f1-8ea9b472eab5",
           "title": "2017 Donruss Football Patrick Mahomes II ROOKIE #327 PSA 9 MINT",
           "tier": "CHASE",
-          "value": 36000,
-          "valueDisplay": "$360.00",
+          "value": 34000,
+          "valueDisplay": "$340.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd5ckg3NlkyUDU1bWhYRzdQM0VYOWtSMjUwM0pyK1ROdjk1Y01nQWtGY0RYQ2RxdWs0RnByWWlMWjJ4b1BaT2xWcjBneWIrSFprSDV4ZjZpaE1wOVpBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImVhYTNlOGNkNmYxOTg5NmE3ODMyYzQ4NDFlZDFhNDI1YTRkNWNlNDNhNGU4ZGVkZDExZGEzNjljODhjZmNhZDYifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd5ckg3NlkyUDU1bWhYRzdQM0VYOWtSMjUwM0pyK1ROdjk1Y01nQWtGY0E1eHBZSGlPd0F4TUQvbGpJdEVRb0c5K3ZOcW5wVlFEKzFSR2YrenBtMGVBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjQ2NDE4Njc5ZTk0NjMyZWQ5MTBiZjkwNTZjZjZmNjVhNzI3MjFhOGU5YTFjNjkzNmM2MjgyNTlmNjliN2QwOTkifQ=="
         },
@@ -4470,8 +4470,8 @@
       "repackId": "74589cb1-b791-4edd-ad34-4ba71980a5ec",
       "title": "Baseball: Super Pack $150",
       "price": 150,
-      "evRatio": 0.837,
-      "trueEV": 125.51,
+      "evRatio": 0.836,
+      "trueEV": 125.34,
       "remaining": {
         "GRAIL": 4,
         "CHASE": 50,
@@ -4755,15 +4755,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkgvZUpWNzhWUjlaRllOQkFpeHlUdlYyTUxQTUJRaTZhVStyOHl5azN2ZlVFSDI1bkpSdXZFRldDREJuTVNybCthVkVYQ2I5TzJNQ1dFYVFUWkdVWndnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNlZjI3MThjMmYxNGIzMzY4NTg1YzUxMmRkNjE4M2I4ODc4MGNkNmJjYTgwMTRmOTlkN2ZhZDVkYmM5YjVjNTQifQ=="
         },
         {
-          "id": "95179634-1f08-11f1-847f-b656b03e5215",
-          "title": "2017 Topps Chrome Aaron Judge ROOKIE #169 BGS 9.5 GEM MINT",
-          "tier": "CHASE",
-          "value": 26500,
-          "valueDisplay": "$265.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFTWVpbmtkOXJZRGdJa0tlMWFuMktoTXRtQWRKVVZjMk5UOE1hM0kwT1NRWGpuRitrTlkwaVJTc3MxVzcxV1NLVnlaZ3F0OHoydjZ6dnRNMVIxODdBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjVmMTUzZmUxMGYwMjc2MzM0YzY0ZWY5YmVlM2NjYWQ5ZTFjNDA4Nzg5YmM3Mjk1MjJhZWI1NjJiODQyYzNlNzUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFTWVpbmtkOXJZRGdJa0tlMWFuMktoTXRtQWRKVVZjMk5UOE1hM0kwT1NEL1dPb0l1WDZmMDZleGNPSzNpRmg4ZC9yYkIwTFg1ZDRjNDZ2b0tnbWFnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgyNzk1OTQ5YzI3OGEwNzk0N2JlNjU5YTNhN2I4YWY0ZTRiZjA0ODUxMDdiNGFiNzhmMzU2ZWNmOTU4ZjgwMGYifQ=="
-        },
-        {
           "id": "a21900de-1f08-11f1-a285-b656b03e5215",
           "title": "2023 Topps Chrome Platinum Speckle Refractor Gunnar Henderson ROOKIE /150 PSA 10",
           "tier": "CHASE",
@@ -4962,6 +4953,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlRoK1VQVmFSTFExaVFQYmZsRHlWQ1hQa2N1MXhjUElDUFkyeUU2Y1BVSG1vcFpvUHp6WU94SFpFczdXT3NUblNCbXZSOGthcllUamFZTDNMSWoxanFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImEyMjExNWMwN2JmNTQ1MTgyMjMyMWI5NjFkZmMwM2QyMjA2NDkwYTg4ZDVlZDllYjM1ZTg4MjI5NDljODAzYjMifQ=="
         },
         {
+          "id": "95179634-1f08-11f1-847f-b656b03e5215",
+          "title": "2017 Topps Chrome Aaron Judge ROOKIE #169 BGS 9.5 GEM MINT",
+          "tier": "CHASE",
+          "value": 22200,
+          "valueDisplay": "$222.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFTWVpbmtkOXJZRGdJa0tlMWFuMktoTXRtQWRKVVZjMk5UOE1hM0kwT1NRWGpuRitrTlkwaVJTc3MxVzcxV1NLVnlaZ3F0OHoydjZ6dnRNMVIxODdBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjVmMTUzZmUxMGYwMjc2MzM0YzY0ZWY5YmVlM2NjYWQ5ZTFjNDA4Nzg5YmM3Mjk1MjJhZWI1NjJiODQyYzNlNzUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFTWVpbmtkOXJZRGdJa0tlMWFuMktoTXRtQWRKVVZjMk5UOE1hM0kwT1NEL1dPb0l1WDZmMDZleGNPSzNpRmg4ZC9yYkIwTFg1ZDRjNDZ2b0tnbWFnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgyNzk1OTQ5YzI3OGEwNzk0N2JlNjU5YTNhN2I4YWY0ZTRiZjA0ODUxMDdiNGFiNzhmMzU2ZWNmOTU4ZjgwMGYifQ=="
+        },
+        {
           "id": "a20f8324-1f08-11f1-bdde-b656b03e5215",
           "title": "2024 Topps Heavy Lumber Relic Mike Trout BAT PATCH AUTO #HLAMT PSA 6 EXMT",
           "tier": "CHASE",
@@ -4977,8 +4977,8 @@
       "repackId": "12c0e59f-765e-4ca7-882e-d6d3000bd46c",
       "title": "Pokemon: Mega Pack $250",
       "price": 250,
-      "evRatio": 0.814,
-      "trueEV": 203.38,
+      "evRatio": 0.812,
+      "trueEV": 203.03,
       "remaining": {
         "GRAIL": 11,
         "CHASE": 101,
@@ -5085,8 +5085,8 @@
           "id": "f891cf4a-1bd4-11f1-85f1-f27dd1bfd17e",
           "title": "1999 Pokemon Game Holo Charizard #4 PSA 8 NM-MT",
           "tier": "GRAIL",
-          "value": 122800,
-          "valueDisplay": "$1,228.00",
+          "value": 120000,
+          "valueDisplay": "$1,200.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFLVjZ1dmJFcXRETCs1ZEJuL0VzMWx6TndVdW1lbzFtNENRU2Nrbm1qam05Wm9JK2dzUitrUU5ld3FnUnN2bUZxWjM2STJpQUdWcVZydUhNbSs2dEF3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImYxZjk5MmExYjFjYjA0NGUwYzQ0ZGQ4MDE0MTNmODFlOWNkNGFjMzdiYTc1YTBmNjMyYTY5MGYwMTQ1NjBmMDQifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFLVjZ1dmJFcXRETCs1ZEJuL0VzMWx6TndVdW1lbzFtNENRU2Nrbm1qamt3cEhUZ1pNeDV3UmxuQUdxSnUrUDBDUGVBWVUvT3BpUlVRQXNTM1g4ZEpRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNmZGRjYmRlZDg2ZWY3YjgxOTJlZGU3Y2NmYzI3OTdmNjY5MjUwMjgwM2I4YjJlM2I0YTg0NmRiNTY0YzdiZDcifQ=="
         },
@@ -5208,6 +5208,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRIclVZM3lLV3czNHBMV3Z0MUZvYW9Rd2Q4dzNEWXRUK0t2azFyeE1yakRGRWg0aDNqQWRZREFWZ1BJZmtsR3EzbXVjTFk1KzJiMUh4WGNabERIRUtBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjVjMGU1OWRmMjEyZTQ4MjY5MzViMDgyZmFhYmQxYWU3OWIyZDgzNDdmM2NkMTE5YjEyNWIwMDljOGQxMTViNTgifQ=="
         },
         {
+          "id": "f88b886a-1bd4-11f1-b57b-f27dd1bfd17e",
+          "title": "2023 Pokemon Scarlet & Violet 151 IR Squirtle #170 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 57499,
+          "valueDisplay": "$574.99",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dm04NFJuMXZ2NTZDQldhTDYwQisyMTlhWXVEWUFZbW9iSmxVeFc5QTVBNjZJdUtZQzNndlIxZEZhVjZYMkhTV0tRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjZkY2ZlZDYyNmNhYzBjMjhiMmUxMjEyNWEwOTJkOTgwYmI5MjZmOTE1NjgyZTMwYzJkNDJhZWFmYWQwOWEwZjUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dm04NFJuMXZ2NTZDQldhTDYwQisyMTk1QlFTcHRXUWx6MWJpb1BYSzZBd2hRNWZMaFMyWGdybXJMcHpTZ2RzajBBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjdmYzk3ODc0ZDI3ZTZiZGMyNWE2YmNmYmM0YmY5ZGVlNWRmN2Q1YWM3MTNkYmQ4MGZhZjUzZDM3OGU3MzAxYTkifQ=="
+        },
+        {
           "id": "a7bcae6a-1bd3-11f1-9ba6-8aa7552ef83a",
           "title": "2006 Pokemon EX Legend Maker Holo Mew ex #88 PSA 8 NM-MT",
           "tier": "CHASE",
@@ -5226,15 +5235,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFpeFpSejdzZjVXb0JBRkJzMS9mclVJcWFBTTlyb0lkR2M4S1hsNGlWRTJMNURLNENxOTZWS0RFV3piNURqeHF6QUluK2ExcWJERHlYYmJVU3FjRW93PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjEwZWYxYjAxMzQ3ZjdlZDhlZWQxYzQ1NTAyYzExNjY5MDY4NTc4NDU4MTFkYmNjN2IyNzUwMGJkNzhlZWYzMWIifQ=="
         },
         {
-          "id": "ebd90da4-1bd4-11f1-a024-f27dd1bfd17e",
-          "title": "2019 Pokemon SM Cosmic Eclipse Full Art Togepi & Igglybuff & Cleffa GX #143a PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 55000,
-          "valueDisplay": "$550.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dnU4K0ZKZ3dBT25VeXBsbXp2UW5Eb3g5UmtteUxNaWUwKzdqRnBrckxBbEV6VGQrQ3VIMGtmc0NyQ0I0eEZFK09RPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImE5NGRjNjk5ZDA5Y2FlMzkwMzQ1NWI3MmRlZDE5MDhiNmIwYTBjNWUyODFlMjUzMDU4NzdlNDg3NmEzNmFjZWQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dnU4K0ZKZ3dBT25VeXBsbXp2UW5Eb3pQV2lmQmp6WjFMeTZtakJQdURXN0tqam9jTm16WUdZUnpSN1BiaE5XRXRnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQ5NGI5NGY3MjQwNGY0YTc0MTc0YjM1NTdlNGMxMzE0NDcxY2M2NzYwOWU2OGNiMTM4NmJiZDQ0NmYzNDJlNzEifQ=="
-        },
-        {
           "id": "f88fd8a2-1bd4-11f1-9f11-f27dd1bfd17e",
           "title": "2000 Pokemon Team Rocket 1st Edition Holo Dark Dragonite #5 PSA 8 NM-MT",
           "tier": "CHASE",
@@ -5244,15 +5244,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlV5ejNZR0dRUENYNWMrTGtHS0xnK25aUWMvSE80emJhb2pzRVc0Rk02VHloMUZwOFRUQktWcHB1QjEwU2l6c1V0MnIyWHZNNnBaRmtUTi90NGVIbGdBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjU4MjljNGQ2YmM4MjQwYWFkZjI5NmUyZGIxNzkzNmJmYWE4NDVkYWJhZDFlMDY0ZGFiZjg0NWQwNzA5ZjY1ODgifQ=="
         },
         {
-          "id": "f88b886a-1bd4-11f1-b57b-f27dd1bfd17e",
-          "title": "2023 Pokemon Scarlet & Violet 151 IR Squirtle #170 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 54900,
-          "valueDisplay": "$549.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dm04NFJuMXZ2NTZDQldhTDYwQisyMTlhWXVEWUFZbW9iSmxVeFc5QTVBNjZJdUtZQzNndlIxZEZhVjZYMkhTV0tRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjZkY2ZlZDYyNmNhYzBjMjhiMmUxMjEyNWEwOTJkOTgwYmI5MjZmOTE1NjgyZTMwYzJkNDJhZWFmYWQwOWEwZjUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dm04NFJuMXZ2NTZDQldhTDYwQisyMTk1QlFTcHRXUWx6MWJpb1BYSzZBd2hRNWZMaFMyWGdybXJMcHpTZ2RzajBBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjdmYzk3ODc0ZDI3ZTZiZGMyNWE2YmNmYmM0YmY5ZGVlNWRmN2Q1YWM3MTNkYmQ4MGZhZjUzZDM3OGU3MzAxYTkifQ=="
-        },
-        {
           "id": "f88938da-1bd4-11f1-a23d-f27dd1bfd17e",
           "title": "1999 Pokemon Jungle Prerelease Holo Clefable #1 PSA 5 EX",
           "tier": "CHASE",
@@ -5260,15 +5251,6 @@
           "valueDisplay": "$546.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlRwTEttLzhHQldMNk9FOTdGekNYNFNBN2NyZlA2aENvZmVlejY0VTQrMENES0lNVmNLalNWMkN1NTYrTndRVGZRYjN3alYxQUUxd1RXdHFYbTc1dTZRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJlMzMzYzA4ODA5MDA4NTAyYTc4YTU5NDhjMWZlNjM3YThiMTE0NzMwOTg4OTQ1M2RlMzI2ODY3ZTU3MWJhMjYifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlRwTEttLzhHQldMNk9FOTdGekNYNFNBN2NyZlA2aENvZmVlejY0VTQrMEJaUE95MkdLMUJTOFVIVXB6RGhJcW4yZXBhN1EvVWZHeDBaWTk3Ti9kTTdRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE1MTJiZTczMDY5ZjU5YTY0ZTZmMTQzNjAxMGE5MmYyOTM5NjlhN2I5NjVjODBlMzg3N2FjZjQ3ZDM3NWZjZmYifQ=="
-        },
-        {
-          "id": "a7c07284-1bd3-11f1-ac51-8aa7552ef83a",
-          "title": "2019 Pokemon Sun & Moon Promo Tag Team Full Art Eevee & Snorlax GX #SM169 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 54000,
-          "valueDisplay": "$540.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlV4K1NPb1E3UkVoL2ZFcm1lTFU4UjBTMi9maHh3UThRV0pMWDh1ZjR1MytwOTlLaGZ3ZDVpdGhPN2NURDJDZGVNTDBnOU9CZUlFMktTc1pDVlRzZDZRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjU5NWExYmZjYjdlMGFjMzFiNGJkNzY3YmZjYTNjMTFhNGUzNmM2OWRlYjgwMzMwNjBmMDkyM2MxY2M2MzY1YjYifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlV4K1NPb1E3UkVoL2ZFcm1lTFU4UjBTMi9maHh3UThRV0pMWDh1ZjR1My9LME4zUXR6ckxDUnc1UFYrTncxajVLeXJLL0RjRXB1QlhDTWw2ajhxMGNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA1YjE2N2MwYTRhMDUzZTkzZGYxNzAxYjY2MGNkZTc2MWQxMGMxOGZkMjZmYmUzMDNjNjRjYjQ4YjVhMzAwMTQifQ=="
         },
         {
           "id": "f8926392-1bd4-11f1-bc4a-f27dd1bfd17e",
@@ -5289,15 +5271,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJpaVJQZ3phY2h2V1U4SFg3RFJTYXVnaGxGTVBqcHZ4QnVtdml4cHdyR1M5QWpLQjgrdFRoelVtKy9VS1RtaWRYMVZPamNQTXZ1bGEyM0hzZEUyVU5nPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNkYjJhNDAyOTg5Y2Y5MTViNzA2MzQ1NzJmYTBjMWQ1Y2VjODkzMmRiYTdkZTEzYzNjZmIzMDMwMzQzOTUxNjgifQ=="
         },
         {
-          "id": "f88c13de-1bd4-11f1-8760-f27dd1bfd17e",
-          "title": "2025 Pokemon Scarlet & Violet Prismatic Evolutions SIR Eevee ex #167 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 52000,
-          "valueDisplay": "$520.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImIzcUQ3Z0NMdlU5Wm1pOGxFMm80dUtnSkRFN1IrR09Tb1pOYzByNVdXRTRzR3FaUjZKMG1WUEtyT09saWFxTnUyMStEZnpBZUUzRHYvc2tSdml5WXFnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhiN2JlY2Y3NGQyNDcwYmY3ZTYwZmYzMzM3NGJkNDc2NWY5OTA3ZmJjY2NmNTRhNDBiYzA5MjBiOTgzNWE1Y2QifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImIzcUQ3Z0NMdlU5Wm1pOGxFMm80dUtnSkRFN1IrR09Tb1pOYzByNVdXRTduL2lSS3NVNjNhZjVXQ3R4bEg5Z2dzQnlYTEZhVmVNTjdYd0huTktCck13PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE0ZjBiODRhZTVlN2EzMDQwZGE0ZmU3MTFjMDllMGU5YzQyZjJiZGNlYTQyNWZlMzAzOGYyM2QwMTRiNjYxY2IifQ=="
-        },
-        {
           "id": "f88da1cc-1bd4-11f1-93ea-f27dd1bfd17e",
           "title": "2001 Pokemon Neo Revelation Holo Houndoom #8 CGC 9.5 MINT+",
           "tier": "CHASE",
@@ -5305,6 +5278,15 @@
           "valueDisplay": "$512.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik4xUFZZbW95MllHbVhmOUpRL2I5Y3pNd2podngwd0ptMjgvWlpLNGc0VTNQbUMwa3Nxb21tVjNtUm5McDFMeVFqekY5b0NYN1BHVUNraEdLM2RqQ1dBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJlNWRiMDFmMjVkYjk4NDJiMmNmNTEwNDViYTBjMzIxNmVjMTYwYzNmZmUzNjFiZTYwYzg4ZTgwYmI1NmIwZGUifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik4xUFZZbW95MllHbVhmOUpRL2I5Y3pNd2podngwd0ptMjgvWlpLNGc0VTIwTDRjVk13MCtiNXNjWmxGUm1wZlFHUW5keUxIV1hrMU1TaDE0WHpSeThBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjUxZTYyZjFkNjU4NjlmN2ZiNGMxMjVhOWYwODMzMGRiZTJkMDg4NDdlYWViYmY3ODQ2ZWU5ZTc0Y2Q3NzVlZmMifQ=="
+        },
+        {
+          "id": "a7c07284-1bd3-11f1-ac51-8aa7552ef83a",
+          "title": "2019 Pokemon Sun & Moon Promo Tag Team Full Art Eevee & Snorlax GX #SM169 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 51000,
+          "valueDisplay": "$510.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlV4K1NPb1E3UkVoL2ZFcm1lTFU4UjBTMi9maHh3UThRV0pMWDh1ZjR1MytwOTlLaGZ3ZDVpdGhPN2NURDJDZGVNTDBnOU9CZUlFMktTc1pDVlRzZDZRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjU5NWExYmZjYjdlMGFjMzFiNGJkNzY3YmZjYTNjMTFhNGUzNmM2OWRlYjgwMzMwNjBmMDkyM2MxY2M2MzY1YjYifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlV4K1NPb1E3UkVoL2ZFcm1lTFU4UjBTMi9maHh3UThRV0pMWDh1ZjR1My9LME4zUXR6ckxDUnc1UFYrTncxajVLeXJLL0RjRXB1QlhDTWw2ajhxMGNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA1YjE2N2MwYTRhMDUzZTkzZGYxNzAxYjY2MGNkZTc2MWQxMGMxOGZkMjZmYmUzMDNjNjRjYjQ4YjVhMzAwMTQifQ=="
         },
         {
           "id": "a7c0f4d4-1bd3-11f1-9613-8aa7552ef83a",
@@ -5332,15 +5314,6 @@
           "valueDisplay": "$500.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImtnNjlsZUpuVCtSVFJkVmFDUFEvcUdHMmh3REpLVmVBZ3pYS0FYVFRvdHpCWEduWUI5SUJuV05hSHNoamFMa0t1NGtKQ0dkbnVKUHJkT1VFZ3libDdBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjFlM2UzZDg2YWNhMjZiOTE4YzZhYmQ5NDliMzExMGU2NmEzMjA1MmM4ZTZmMTRhODkyNmZkNjg1ZjZjNzcxY2UifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImtnNjlsZUpuVCtSVFJkVmFDUFEvcUdHMmh3REpLVmVBZ3pYS0FYVFRvdHdINmlORGlpcnNpS3d0eXo0S0JLeHVadFNCQUo5SUN1UXFlODhLc0JJRnVnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjY5MWZkMzYxM2VlNDM0MmE1NmVhOTYzMjU2OWUzZjE3NjcxZmIwN2Y5Y2FiMjI4M2IwYjZiNTIyODEwYTk5MzQifQ=="
-        },
-        {
-          "id": "ebdd7ac4-1bd4-11f1-b5e1-f27dd1bfd17e",
-          "title": "2019 Pokemon Sun & Moon Cosmic Eclipse Full Art Rosa #236 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 50000,
-          "valueDisplay": "$500.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InlPQzFsZ3lDOWpvdkJwY2FaMTM3cHRDTHFLQmQyeFlvWXdYSFc4Y1BiVlVaWkV4YTFhVS9mUmdWMkphUUJGQzJac21LRHQ0LzIvVHhIYjg2Zm1BVUJRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU5OTFkMTMwZjgxNWZlYjFmNmNhYzZmYmI5YmI0ZjExNWQxNjBlZjE5MjQ1M2Y2MGUyMzU1ZGJkMWVhNzc2MjIifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InlPQzFsZ3lDOWpvdkJwY2FaMTM3cHRDTHFLQmQyeFlvWXdYSFc4Y1BiVlhsSHVwVERUK0g0Sk8vbUxhVXJDMWp3TUFoUHJwMXFVYVI2NjFIVUoyNS9nPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjRhMjIxNmNmOTE4MDYyODJiZWRiNjAxNWVhODFkNGIwN2E1Yjg1Mjg2MjEzNDBkMjFlMGE1NzZlMmYwNWJlYmQifQ=="
         },
         {
           "id": "ebdd5148-1bd4-11f1-83ce-f27dd1bfd17e",
@@ -5388,6 +5361,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd5ckg3NlkyUDU1bWhYRzdQM0VYOW1BbUp2MzQzM0dPOWhUWjJ0RzVNQUFxMjlRdzArRmRlK3FRWHBUVEx4RDBXOHNmbjlnTU5idFhFNzJMU3hrVUtRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjkwOWI5NTM4YjdhMWY4MDY4ZDFkMTYzZWMxOWIyOTMyYjIzZjZhN2I0ODI1NTk5MjVmMWYxNTU0YjJhZjViZGMifQ=="
         },
         {
+          "id": "ebd90da4-1bd4-11f1-a024-f27dd1bfd17e",
+          "title": "2019 Pokemon SM Cosmic Eclipse Full Art Togepi & Igglybuff & Cleffa GX #143a PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 49200,
+          "valueDisplay": "$492.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dnU4K0ZKZ3dBT25VeXBsbXp2UW5Eb3g5UmtteUxNaWUwKzdqRnBrckxBbEV6VGQrQ3VIMGtmc0NyQ0I0eEZFK09RPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImE5NGRjNjk5ZDA5Y2FlMzkwMzQ1NWI3MmRlZDE5MDhiNmIwYTBjNWUyODFlMjUzMDU4NzdlNDg3NmEzNmFjZWQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dnU4K0ZKZ3dBT25VeXBsbXp2UW5Eb3pQV2lmQmp6WjFMeTZtakJQdURXN0tqam9jTm16WUdZUnpSN1BiaE5XRXRnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQ5NGI5NGY3MjQwNGY0YTc0MTc0YjM1NTdlNGMxMzE0NDcxY2M2NzYwOWU2OGNiMTM4NmJiZDQ0NmYzNDJlNzEifQ=="
+        },
+        {
           "id": "9b913b60-1bd3-11f1-89c2-8aa7552ef83a",
           "title": "2002 Pokemon-E Expedition Base Set Reverse Foil Charizard R #40 BGS 9 MINT",
           "tier": "CHASE",
@@ -5431,6 +5413,15 @@
           "valueDisplay": "$480.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IitkL05rV1VNbldOc3A4WmZuYXc5blBXZ0RVSlNzVUVaWjhOMVpKMUpTa3FkYmtUekQ1aDVERXpZejRLcDJhZDhleEx6bGs4dllvLzZKaUNRaDRXT093PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQwYTYxMTQxOGQxYjU3OTkxODZiMjYzZmY0NzU0Yjc4NzQzODc3YjU1YjM4ZmEwNzgyMDhjNDNhZWE5MTllNWQifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IitkL05rV1VNbldOc3A4WmZuYXc5blBXZ0RVSlNzVUVaWjhOMVpKMUpTa29pVTIxUVRGcjd0OXBBOHF1ak9vWGc1VjRuOEhiVUROdTBZRXhENGNLdlhBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImM2MTIzY2UwYWI0ZmQwYWZiNjY1M2E4ZmQ3NjE0NTEzNzAzZDc2ZTg4MmNkZmFlZDJiN2JiMjBjZTBhZDFhMjIifQ=="
+        },
+        {
+          "id": "f88c13de-1bd4-11f1-8760-f27dd1bfd17e",
+          "title": "2025 Pokemon Scarlet & Violet Prismatic Evolutions SIR Eevee ex #167 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 48000,
+          "valueDisplay": "$480.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImIzcUQ3Z0NMdlU5Wm1pOGxFMm80dUtnSkRFN1IrR09Tb1pOYzByNVdXRTRzR3FaUjZKMG1WUEtyT09saWFxTnUyMStEZnpBZUUzRHYvc2tSdml5WXFnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhiN2JlY2Y3NGQyNDcwYmY3ZTYwZmYzMzM3NGJkNDc2NWY5OTA3ZmJjY2NmNTRhNDBiYzA5MjBiOTgzNWE1Y2QifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImIzcUQ3Z0NMdlU5Wm1pOGxFMm80dUtnSkRFN1IrR09Tb1pOYzByNVdXRTduL2lSS3NVNjNhZjVXQ3R4bEg5Z2dzQnlYTEZhVmVNTjdYd0huTktCck13PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE0ZjBiODRhZTVlN2EzMDQwZGE0ZmU3MTFjMDllMGU5YzQyZjJiZGNlYTQyNWZlMzAzOGYyM2QwMTRiNjYxY2IifQ=="
         },
         {
           "id": "9b986a7a-1bd3-11f1-bde6-8aa7552ef83a",
@@ -5892,6 +5883,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0ZtSlNLV0RmV0FIM09RMVBiRHBqdkVyaG1URVBpWlUxbTRzcFhiczB5M21pTitLMnQrb2xzV2EvNW5Ham1UZEpnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQ3M2UwZjMwYzEzNjBhMWZhNGVlNDFkZjliMTM0ZDA2ZGQyZTk4NTNiMmYzOTNiNDQwMzA2YWViYTFmNmQ3MzEifQ=="
         },
         {
+          "id": "ebdd7ac4-1bd4-11f1-b5e1-f27dd1bfd17e",
+          "title": "2019 Pokemon Sun & Moon Cosmic Eclipse Full Art Rosa #236 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 42000,
+          "valueDisplay": "$420.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InlPQzFsZ3lDOWpvdkJwY2FaMTM3cHRDTHFLQmQyeFlvWXdYSFc4Y1BiVlVaWkV4YTFhVS9mUmdWMkphUUJGQzJac21LRHQ0LzIvVHhIYjg2Zm1BVUJRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU5OTFkMTMwZjgxNWZlYjFmNmNhYzZmYmI5YmI0ZjExNWQxNjBlZjE5MjQ1M2Y2MGUyMzU1ZGJkMWVhNzc2MjIifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InlPQzFsZ3lDOWpvdkJwY2FaMTM3cHRDTHFLQmQyeFlvWXdYSFc4Y1BiVlhsSHVwVERUK0g0Sk8vbUxhVXJDMWp3TUFoUHJwMXFVYVI2NjFIVUoyNS9nPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjRhMjIxNmNmOTE4MDYyODJiZWRiNjAxNWVhODFkNGIwN2E1Yjg1Mjg2MjEzNDBkMjFlMGE1NzZlMmYwNWJlYmQifQ=="
+        },
+        {
           "id": "f889eba4-1bd4-11f1-8dfb-f27dd1bfd17e",
           "title": "2025 Pokemon SV Destined Rivals SIR Team Rocket's Mewtwo ex #231 PSA 8 NM-MT",
           "tier": "CHASE",
@@ -5964,6 +5964,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjdGc3d5bUZ5a1ZBZm1hRUhLR1dkcXVROVR6REdQUGhaRWd2SUJ3c3E2RUhvdmpIaHE2VjJGUm9PQ1E4UlRiMC9TdkJqT2dLdC85SkhqTDUxa0tMNDNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImZhMjU0NDBlNzg1MGY5YTBkOTUwMGEwNWIxODI1YWI3MTMzMTQ4OTIyN2ExNGFhZTBmMDM1Y2MzODViZjIzNDIifQ=="
         },
         {
+          "id": "a7bcbcac-1bd3-11f1-a5fd-8aa7552ef83a",
+          "title": "2022 Pokemon Sword & Shield Brilliant Stars Alt Art Charizard V #154 CGC 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 36000,
+          "valueDisplay": "$360.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1CV1EwVmVUeDBwZ3lZMEJJSGQ2RnZqNVZkVDhFYWFRYWZ5b3ZhRng0MmhpdmJTaTdmYlpvOWV6MS9jNTdNb2xYUU94Rys0dDVDNTM3UndwKzZIcGNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUxNjBiNmE3NmE5Nzg0ODdjMmRkMjY3Y2Y0ZmJhMjJjYWI4MmJiZGE1Y2VhYjkzNzhhZWRmN2Y5ODlmOGY3YTQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1CV1EwVmVUeDBwZ3lZMEJJSGQ2RnZqNVZkVDhFYWFRYWZ5b3ZhRng0MmpadFdhMi9xS0Z5djNSbU5VRTArVGUxVEFuamdaaFgxR0tPRXNtT0Q1eVZRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNkYTEzZmRjNmQyMjBlNjM2ZWE4MTM0NzA1OWYxN2UwNTM0ZGExZmJmZDU4NmUyYTc2MGE2YjA3MjI0OWJlNzMifQ=="
+        },
+        {
           "id": "ebe3733e-1bd4-11f1-80d4-f27dd1bfd17e",
           "title": "2001 Pokemon Japanese VS 1st Edition Holo Rocket's Entei #95 PSA 9 MINT",
           "tier": "CHASE",
@@ -5982,15 +5991,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IndzckQwTUc0SFhKR1NuVlVrU2VZNmpyOGJEcjJnQjVBZDhwRVFkL1AyQzJPaVZJTlloTnFuUFZ1M3REZ3JHTTJKK3Fwalh0RUZqZFo5d3NwNG1EN05nPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjRlNTIwNTc2ZjQwOTViMzFiNzljYjVmODAxMjY0NWE4MjBlYzJlYjVkOGIxM2JiZGFjOGQxNzk0NWM2NmYzYjgifQ=="
         },
         {
-          "id": "a7bcbcac-1bd3-11f1-a5fd-8aa7552ef83a",
-          "title": "2022 Pokemon Sword & Shield Brilliant Stars Alt Art Charizard V #154 CGC 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 34300,
-          "valueDisplay": "$343.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1CV1EwVmVUeDBwZ3lZMEJJSGQ2RnZqNVZkVDhFYWFRYWZ5b3ZhRng0MmhpdmJTaTdmYlpvOWV6MS9jNTdNb2xYUU94Rys0dDVDNTM3UndwKzZIcGNRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUxNjBiNmE3NmE5Nzg0ODdjMmRkMjY3Y2Y0ZmJhMjJjYWI4MmJiZGE1Y2VhYjkzNzhhZWRmN2Y5ODlmOGY3YTQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1CV1EwVmVUeDBwZ3lZMEJJSGQ2RnZqNVZkVDhFYWFRYWZ5b3ZhRng0MmpadFdhMi9xS0Z5djNSbU5VRTArVGUxVEFuamdaaFgxR0tPRXNtT0Q1eVZRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNkYTEzZmRjNmQyMjBlNjM2ZWE4MTM0NzA1OWYxN2UwNTM0ZGExZmJmZDU4NmUyYTc2MGE2YjA3MjI0OWJlNzMifQ=="
-        },
-        {
           "id": "f88f12dc-1bd4-11f1-a34c-f27dd1bfd17e",
           "title": "2023 Pokemon Sword & Shield Crown Zenith Gold Rare Origin Forme Palkia VSTAR CGC 10 PRISTINE",
           "tier": "CHASE",
@@ -6006,8 +6006,8 @@
       "repackId": "cb91fc8d-1c2d-45c2-9a12-b86b2a84607e",
       "title": "Football: Mega Pack $250",
       "price": 250,
-      "evRatio": 0.81,
-      "trueEV": 202.39,
+      "evRatio": 0.809,
+      "trueEV": 202.31,
       "remaining": {
         "GRAIL": 0,
         "CHASE": 22,
@@ -6147,15 +6147,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjQ3MThJTGRmZzRGaldNRnBQUXFNd2Y3cDRwSndKdVNMd2JQL0xnZmZvUUs3SmlDSXVOblVHUW1KbXVXVmVuVFlCUHlldFRzT280TkNwS3NjSFRHWUJRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImM2ZWY5ZTNkZDc4N2Q0OGE3ZjVkNWQ4YThmODFiOTQxYTYyMGNiN2E2M2Q1ZGZhYjE5MjZjZGExNDg5OGZjOGQifQ=="
         },
         {
-          "id": "3ebcd33e-1743-11f1-a249-ea99ecc88e3e",
-          "title": "2024 Select Premier Level Neon Green Prizm Brian Thomas Jr. ROOKIE /49 #143 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 45300,
-          "valueDisplay": "$453.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5VaklrdFpRSUcwWVhiS1V4dDIwMEJCYmdiQjN5Y0ozcXdCSVJmbmJMY0EwdDVEdDM2SHFjQkw5c0hvRVMraHMzdEhoZEZqNEszUGlabDhzMkc0Vkp3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU5MTY0NGY2MTc4MTgxMzA2ZmI5NWIwNWEwZTE3ZDc4MmNjMjdhNjY3NTc5ZjNmOGYyMDhmMTZhNzVkY2NkNmQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5VaklrdFpRSUcwWVhiS1V4dDIwMEJCYmdiQjN5Y0ozcXdCSVJmbmJMY0NIWXptMGFwdUYxUnNXT3hYOGtTbXpPTTF4REpoZXJXM2c2MU80N0d3K1JnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjVhZGI5MTg2MThkY2VhZGJkNjRhY2I5MmQ5ZDIzZjAwMzc1MWNmNDU1YzRlOTY1YThhOWExODhiNDg0ZDFlNzAifQ=="
-        },
-        {
           "id": "4b9b58be-1743-11f1-a188-ea99ecc88e3e",
           "title": "2017 Donruss Optic '81 Tribute Green Matthew Stafford 1/5 #28 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -6163,6 +6154,15 @@
           "valueDisplay": "$447.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M09Tc0p2c0ZqcHlJOVVzSGhneEc4bmowS3dtaGx2MnA3VXQ3eTZTZGd0aGFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJhMmU1YWYzODQ2NTdlYmY1YWVjZjcyMzFiNjZjMzNlOWNiZGY4MDUyYzAyOGVjM2M0OTYyNTFlMDExZWE2NTYifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M05MRGtUNGVoVjBIWUltR3gwVURXcjN1TjV4VFJEMFlVenFJRlFXaVNDQy9BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQxZmE4YTgzYjQwMzliOTZmMDIwOGNmY2M4MTRjNWJhZjJmYzZjZGI0NWViZWFhNjg3NTgyYTc0M2VhMDcyNGEifQ=="
+        },
+        {
+          "id": "3ebcd33e-1743-11f1-a249-ea99ecc88e3e",
+          "title": "2024 Select Premier Level Neon Green Prizm Brian Thomas Jr. ROOKIE /49 #143 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 44600,
+          "valueDisplay": "$446.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5VaklrdFpRSUcwWVhiS1V4dDIwMEJCYmdiQjN5Y0ozcXdCSVJmbmJMY0EwdDVEdDM2SHFjQkw5c0hvRVMraHMzdEhoZEZqNEszUGlabDhzMkc0Vkp3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU5MTY0NGY2MTc4MTgxMzA2ZmI5NWIwNWEwZTE3ZDc4MmNjMjdhNjY3NTc5ZjNmOGYyMDhmMTZhNzVkY2NkNmQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5VaklrdFpRSUcwWVhiS1V4dDIwMEJCYmdiQjN5Y0ozcXdCSVJmbmJMY0NIWXptMGFwdUYxUnNXT3hYOGtTbXpPTTF4REpoZXJXM2c2MU80N0d3K1JnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjVhZGI5MTg2MThkY2VhZGJkNjRhY2I5MmQ5ZDIzZjAwMzc1MWNmNDU1YzRlOTY1YThhOWExODhiNDg0ZDFlNzAifQ=="
         },
         {
           "id": "3ec2ab7e-1743-11f1-acd8-ea99ecc88e3e",
@@ -6225,18 +6225,18 @@
       "repackId": "d55af7f2-222f-464e-83fc-4155c7699aa5",
       "title": "Pokemon: Super Pack $150",
       "price": 150,
-      "evRatio": 0.804,
-      "trueEV": 120.55,
+      "evRatio": 0.803,
+      "trueEV": 120.38,
       "remaining": {
         "GRAIL": 17,
         "CHASE": 185,
-        "BASE": 1285
+        "BASE": 1284
       },
-      "totalRemaining": 1487,
+      "totalRemaining": 1486,
       "odds": {
         "grail": 1.14,
-        "chase": 12.44,
-        "base": 86.42
+        "chase": 12.45,
+        "base": 86.41
       },
       "cards": [
         {
@@ -6510,6 +6510,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImgySVNjN1E0cGhmc0FxRlRVK0N1K1hpZDErN0RXQVpjdzRuTUVXYWNibEQwbC8zcWNueWlXVStnVGtkV1M5MGJuZUg0eVpDTDBXbVBwMDFQL1locDd3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImMwZGI3MDg3YzRkMTZhNTNjYmQ0ZTU1ZGUxZmNhNTM2NDM2YjA4MDIxZmZiMGQ4NzNmZjk4ODlhODBmZDVjMDIifQ=="
         },
         {
+          "id": "2dbb8176-1bf2-11f1-b040-7601f83ac48b",
+          "title": "2023 Pokemon Scarlet & Violet 151 IR Psyduck #175 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 36500,
+          "valueDisplay": "$365.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjZlRzBnaWR6U1BqUU5FTEFwdUQ4ZVZJWU9oMm5sQWZ2MG5iOFRGY2dTOGdnRkV4MlBkcU9zelJUVlBpeXR2N3Z1YWtIbFJpOVIxQUNBOGdqd2NqUDFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijk2NDk2NWQ0M2I1NmFlZjQ4ZjVlYTA3MzRhODExM2U0NTMxZDIyOTM1YzU4ZmEwN2VkM2RiNWQ0OTJlNWRhNzIifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjZlRzBnaWR6U1BqUU5FTEFwdUQ4ZVZJWU9oMm5sQWZ2MG5iOFRGY2dTOGg0RTF5NHVrN3E2WXZWVjQ2WXkwRU9SMUYrbERoempMSXdLYk9zMVRQWjdBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU4MDFkMGQzZWIwYTMyNGIxZmNmMTUwNDg1M2U0OGM4NDE3OTdmNTYxMWIzNTcyY2ExNGMxZjA3Y2JjNmMxYTgifQ=="
+        },
+        {
           "id": "0fd8c87a-1d79-11f1-b504-b60a9cb23d3c",
           "title": "1999 Pokemon Base Set Holo Blastoise #2 PSA 8 NM-MT",
           "tier": "CHASE",
@@ -6589,15 +6598,6 @@
           "valueDisplay": "$351.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpoYzBmYVZ1T0V5Yit6TUpTZ3VOdS93VjFXSE1oNVdqK0ZENkU2YUs3R1JjdmIrOXVVS3pZM0JrRTVTWkRZdUxMWTdOUHFsdnFYRDc2aUQ5U0xMbWlnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJmZDdhZTg0MjExNTJlMzU4YWE1NjA5ZTYyNTNiOGE3YTRlNzM5NzUzN2FiYzU0NGM3ZWJhZTVjZWU0NWEyZDAifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpoYzBmYVZ1T0V5Yit6TUpTZ3VOdS93VjFXSE1oNVdqK0ZENkU2YUs3R1RKcUtFUVJKN2l2ODJ1MzFmNEN6WTAvN2F4R0wwSmkrYytmMEZQVlVhM2ZnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImM1MzAxNDU2YjA4NzFjZGYzOTU5MGM5N2NlYzc2ODQzMzc4ZGQyZGQ4NzBlNzRkMTQzYmExODFlM2E1NzEzMDkifQ=="
-        },
-        {
-          "id": "2dbb8176-1bf2-11f1-b040-7601f83ac48b",
-          "title": "2023 Pokemon Scarlet & Violet 151 IR Psyduck #175 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 35000,
-          "valueDisplay": "$350.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjZlRzBnaWR6U1BqUU5FTEFwdUQ4ZVZJWU9oMm5sQWZ2MG5iOFRGY2dTOGdnRkV4MlBkcU9zelJUVlBpeXR2N3Z1YWtIbFJpOVIxQUNBOGdqd2NqUDFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijk2NDk2NWQ0M2I1NmFlZjQ4ZjVlYTA3MzRhODExM2U0NTMxZDIyOTM1YzU4ZmEwN2VkM2RiNWQ0OTJlNWRhNzIifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjZlRzBnaWR6U1BqUU5FTEFwdUQ4ZVZJWU9oMm5sQWZ2MG5iOFRGY2dTOGg0RTF5NHVrN3E2WXZWVjQ2WXkwRU9SMUYrbERoempMSXdLYk9zMVRQWjdBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU4MDFkMGQzZWIwYTMyNGIxZmNmMTUwNDg1M2U0OGM4NDE3OTdmNTYxMWIzNTcyY2ExNGMxZjA3Y2JjNmMxYTgifQ=="
         },
         {
           "id": "0bc8a2da-1c45-11f1-bc62-7601f83ac48b",
@@ -6915,33 +6915,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dm5jQ1JwSFpiZGNUTHFub09ZUWR6ZXk2OEpiRVZKdzZSWmZLenc0WEZFM2NSUnppN0M0eU1JaEF3Z1R5VksrYWh3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQ1MTE5MjEwNmJhNzcxYjBiYzFmZDAxY2M0MmY2M2UyODUwZDk5YjY2NjkxODA5ZGRiOWZhMDA4OWM4OWRlMWUifQ=="
         },
         {
-          "id": "0236da50-1bf2-11f1-88e0-7601f83ac48b",
-          "title": "2022 Pokemon Sword & Shield Lost Origin CHR Pikachu #TG05 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 31100,
-          "valueDisplay": "$311.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdXlPTEdyWVNsTEhQL3BkRS9Fa1RvbnFZVDVrOUFuc3lXYjkwaVV0S1huVVJkYThKVkx4MTZHcGFFUnZ0Nkl1SXlBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImE5MTIxYjZkMzYxNGMwYzZkMGRmNjQ4ZmUzN2NiODYyOTE2ZDU5YTgxZDg5MTJiNzFkZWRkZjc0Zjg0MzNkOGMifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdXlPTEdyWVNsTEhQL3BkRS9Fa1RvbnB5TmU5QzV4S0Q2dXNRRmxEOFFuSHY1cEZlNXpPbit6RUNoREhWUVlZNnVRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjllOGE0Mjc2NGMxNTQyMDA2MWVmMWIzNTAzOTA4Y2EwN2VkMTk3MzBjZWYxNDFmZTY2N2VhYjU1MDY0ZjU0YjcifQ=="
-        },
-        {
-          "id": "2871f526-205a-11f1-9300-b656b03e5215",
-          "title": "2022 Pokemon Sword & Shield Lost Origin CHR Pikachu #TG05 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 31100,
-          "valueDisplay": "$311.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5VaklrdFpRSUcwWVhiS1V4dDIwMEUrbTM5dFQ5REdWUnBUUCtsb0hWWVY1YkM0K2J4YklhY1crWW8vend1NUZSNjFJU01QT3k2ZnNrSzNHeGplZ2VRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE4ZTEwNWZiZDRmYmM4MzQ1ZjFhODNhZTRlMjQyZGU5YzdhZTRlYmRjMDVjMTJlMGZiYzdjNzUzOWFhZjQ5MzkifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5VaklrdFpRSUcwWVhiS1V4dDIwMEUrbTM5dFQ5REdWUnBUUCtsb0hWWVV3REMrSEtNOHZ4ZUovaUtyejhiU2tOSmhIMzYzQS9NNHZ4RWkrUFVtbUlBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImVlMzNkMGM5NTAwMWM2Mzc4ODFjZGI5YWY4YzNkMDYzOGY3ZDkzOTE2NDBiM2U1ZTRjNDI0OTk1YjgyMTRiMmMifQ=="
-        },
-        {
-          "id": "677d5c2a-1f19-11f1-9ae0-b656b03e5215",
-          "title": "2019 Pokemon Sun & Moon Unified Minds Full Art Slowpoke & Psyduck GX #218 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 31000,
-          "valueDisplay": "$310.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdTVrSFMzcFF0YTIzdjFLV3BLdXdTZGFKTXB1WVNHSURwajNrLzAxcEptbE9KdVUva2p2VmdXYTduTmhSbHhoYVVBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjQ5NDVmMDgxNDU3M2I4MGQ0ZGNlNmY4OGNkYWJmZmYyZTAyNzg5ODlhMWI2ODRlODM2ZjA3Y2VhNDcwNjhjM2IifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdTVrSFMzcFF0YTIzdjFLV3BLdXdTZGJxYnhwT0dFRkFFTDNiT3Y1SFRjL0pFRUt0eHBtK1NSWldybDRIRmlUQmVRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjIzZDc3ZDhiMmJkMzIxM2E5N2EyNTQ1YjIyM2VlZjg2OGJmODU4OGVkNDRmZWNlZjUwNDU3ZjA5NGZjZjRmMDcifQ=="
-        },
-        {
           "id": "1b3c31a8-1f49-11f1-8ff7-be4cbc6eac93",
           "title": "2019 Pokemon Sun & Moon Promo Power Partnership Tins Mewtwo & Mew GX #SM191 PSA 9 MINT",
           "tier": "CHASE",
@@ -6958,15 +6931,6 @@
           "valueDisplay": "$310.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkZNZUNKd1FiMWJlbjZ1NDRLdVFQSUhqLzNLYk5zZHk3d2hDTnhRcXdLSU9xdUJGenllelBXc2dmQVk3ZEdOOE0zK013TUhUY1NRQXoxUkJMcnB5TnFnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhhYmRjMzA1OTc1NTJkM2MwMzkxNjBiMDIzMmE3NDM0MzMyZWJkOTVlYTNlN2NlMGMxMjc2NmM5ZWNlYzFmYTQifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkZNZUNKd1FiMWJlbjZ1NDRLdVFQSUhqLzNLYk5zZHk3d2hDTnhRcXdLSU10RDAyekp1TGVjWUltUVkwKzdDOVpWSG1JUXRoWVNFL1pXOVdNa3FuRWp3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjgyYjAyMDE2ODU5NmY3YmU3ZjcwYWE3NGJmMjhjNDhhMGNlMDZkOGY3NmIwZjgyMTQ5NzE4MjBiYTY1NTc2MmUifQ=="
-        },
-        {
-          "id": "1e83d2a2-20cb-11f1-8573-9e3a7345d875",
-          "title": "2019 Pokemon Sun & Moon Unified Minds Full Art Slowpoke & Psyduck GX #218 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 31000,
-          "valueDisplay": "$310.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjJwSDdXR1pHeG13NjRwRGVJMW1MVDVlM2paWXlsQW5NVE1yWjRHQVYxMFY5QWtXMHJrRDcxM3N1V2JpcjFSc3pBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjQ4Y2MwYjZlNmE3NWU0YWUzMTllZTcyYmU0ZjJhOWRlZWE2YTM1YWRjNTkzYWUxNjQyODE1N2NjZjVhYTQ3NjgifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjJwSDdXR1pHeG13NjRwRGVJMW1MVDdQc1Bmcy9zNXVKOVFqQmV1TVRjaWY2dGMyN3k3dVFYRDczZFR6S21hdlhBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijc3ODUxYTMxZTllMWUxODE3N2QyNjEwZDM0ZTdjNDBiNTY1OTkxMDA0Y2QyNDBkZDA3MjFhMDM1ZWFmMThkN2UifQ=="
         },
         {
           "id": "1f010566-1bf2-11f1-9bc7-7601f83ac48b",
@@ -7021,6 +6985,24 @@
           "valueDisplay": "$308.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImgySVNjN1E0cGhmc0FxRlRVK0N1K2FocEZmTFZYL2VDcUxicGY5TWcyZldhUGkxQktqbEdxcmxhd240elNsak1TdHlOMUFyalhqSXJuSE5IZTZpbzFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQ2ODQ1OGMwOTkwYmRiOWQwZjQxYjQ2YWZjZmU2Mjg5ZTA1ZTU2MzA2N2YxMjZkMGY3M2ZlZWE3MTk1ZmRjN2UifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImgySVNjN1E0cGhmc0FxRlRVK0N1K2FocEZmTFZYL2VDcUxicGY5TWcyZlVhRzhoSUh2d21BK2RLWGZjM1VBckUxUExSYTZoTUdlV21UblIvZVlwOWh3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjY0M2ZjMzE0NjVmZjNhNjA1NjZjMmRjODA3N2FkYWQ5ZDY0Y2U2NGI5YTdjYzUyMWEzMDYzZTljN2E1MjgzYzEifQ=="
+        },
+        {
+          "id": "0236da50-1bf2-11f1-88e0-7601f83ac48b",
+          "title": "2022 Pokemon Sword & Shield Lost Origin CHR Pikachu #TG05 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 30620,
+          "valueDisplay": "$306.20",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdXlPTEdyWVNsTEhQL3BkRS9Fa1RvbnFZVDVrOUFuc3lXYjkwaVV0S1huVVJkYThKVkx4MTZHcGFFUnZ0Nkl1SXlBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImE5MTIxYjZkMzYxNGMwYzZkMGRmNjQ4ZmUzN2NiODYyOTE2ZDU5YTgxZDg5MTJiNzFkZWRkZjc0Zjg0MzNkOGMifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdXlPTEdyWVNsTEhQL3BkRS9Fa1RvbnB5TmU5QzV4S0Q2dXNRRmxEOFFuSHY1cEZlNXpPbit6RUNoREhWUVlZNnVRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjllOGE0Mjc2NGMxNTQyMDA2MWVmMWIzNTAzOTA4Y2EwN2VkMTk3MzBjZWYxNDFmZTY2N2VhYjU1MDY0ZjU0YjcifQ=="
+        },
+        {
+          "id": "2871f526-205a-11f1-9300-b656b03e5215",
+          "title": "2022 Pokemon Sword & Shield Lost Origin CHR Pikachu #TG05 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 30620,
+          "valueDisplay": "$306.20",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5VaklrdFpRSUcwWVhiS1V4dDIwMEUrbTM5dFQ5REdWUnBUUCtsb0hWWVY1YkM0K2J4YklhY1crWW8vend1NUZSNjFJU01QT3k2ZnNrSzNHeGplZ2VRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE4ZTEwNWZiZDRmYmM4MzQ1ZjFhODNhZTRlMjQyZGU5YzdhZTRlYmRjMDVjMTJlMGZiYzdjNzUzOWFhZjQ5MzkifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5VaklrdFpRSUcwWVhiS1V4dDIwMEUrbTM5dFQ5REdWUnBUUCtsb0hWWVV3REMrSEtNOHZ4ZUovaUtyejhiU2tOSmhIMzYzQS9NNHZ4RWkrUFVtbUlBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImVlMzNkMGM5NTAwMWM2Mzc4ODFjZGI5YWY4YzNkMDYzOGY3ZDkzOTE2NDBiM2U1ZTRjNDI0OTk1YjgyMTRiMmMifQ=="
         },
         {
           "id": "b6c7f0f0-2069-11f1-9c84-b656b03e5215",
@@ -7446,6 +7428,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IitkL05rV1VNbldOc3A4WmZuYXc5blArLzA3N05zaTJoVVM0VytUWW5qMnhra2VrRm5TVjJhK0JCVWdTK2F1OVk4dDFyN2xOWTVpK0QyRHNZTHU5SnpRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijk4NTY2MWJmYzU1YmFmZTRiYzI2ZjJkMWZiM2M0NTViNzhjZjFiMmM0MThhZWQ2ZjY2ZTIyZDY3YjkxMDgyODUifQ=="
         },
         {
+          "id": "677d5c2a-1f19-11f1-9ae0-b656b03e5215",
+          "title": "2019 Pokemon Sun & Moon Unified Minds Full Art Slowpoke & Psyduck GX #218 PSA 9 MINT",
+          "tier": "CHASE",
+          "value": 28500,
+          "valueDisplay": "$285.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdTVrSFMzcFF0YTIzdjFLV3BLdXdTZGFKTXB1WVNHSURwajNrLzAxcEptbE9KdVUva2p2VmdXYTduTmhSbHhoYVVBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjQ5NDVmMDgxNDU3M2I4MGQ0ZGNlNmY4OGNkYWJmZmYyZTAyNzg5ODlhMWI2ODRlODM2ZjA3Y2VhNDcwNjhjM2IifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImpEdlpyWWJwbTBKSENyV1l1TElJdTVrSFMzcFF0YTIzdjFLV3BLdXdTZGJxYnhwT0dFRkFFTDNiT3Y1SFRjL0pFRUt0eHBtK1NSWldybDRIRmlUQmVRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjIzZDc3ZDhiMmJkMzIxM2E5N2EyNTQ1YjIyM2VlZjg2OGJmODU4OGVkNDRmZWNlZjUwNDU3ZjA5NGZjZjRmMDcifQ=="
+        },
+        {
           "id": "08be1308-1f3e-11f1-b92f-be4cbc6eac93",
           "title": "2023 Pokemon Sword & Shield Crown Zenith Gold Rare Arceus VSTAR #GG70 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -7462,6 +7453,15 @@
           "valueDisplay": "$285.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZpbkw2RWhTZ0tWZExHdGQ5MzAxcCtKS2hKd3hRMERuS2lZcEdHSElSOFkyV05UTGo0ZTBiZUdwM09wRTd6SGRUM0tnOWFoRGF5a1pTNFVtMXhVbWZ3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImZiZTg5YWE2ZWQyMjRmODFlM2M4MGM4MzYwNTViN2Q1NzU1ODJjZTczMGY2ZjFmODYyNzZiNmNiNGUyNDA2NjMifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZpbkw2RWhTZ0tWZExHdGQ5MzAxcCtKS2hKd3hRMERuS2lZcEdHSElSOFpXc1FIVnFrM2VTekJDWlpIY0VLUnI5NFVWYzA2WHByUEs0aUwxckxrVjJnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImIzYTNiOWI3YzVlNDc0Yjc5OTVlM2QzNzJiNzEwMjJmY2UzNTNlYTAxMjAxMjI5MzNhMjIyNDYwNjc0Yjg0MWQifQ=="
+        },
+        {
+          "id": "1e83d2a2-20cb-11f1-8573-9e3a7345d875",
+          "title": "2019 Pokemon Sun & Moon Unified Minds Full Art Slowpoke & Psyduck GX #218 PSA 9 MINT",
+          "tier": "CHASE",
+          "value": 28500,
+          "valueDisplay": "$285.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjJwSDdXR1pHeG13NjRwRGVJMW1MVDVlM2paWXlsQW5NVE1yWjRHQVYxMFY5QWtXMHJrRDcxM3N1V2JpcjFSc3pBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjQ4Y2MwYjZlNmE3NWU0YWUzMTllZTcyYmU0ZjJhOWRlZWE2YTM1YWRjNTkzYWUxNjQyODE1N2NjZjVhYTQ3NjgifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjJwSDdXR1pHeG13NjRwRGVJMW1MVDdQc1Bmcy9zNXVKOVFqQmV1TVRjaWY2dGMyN3k3dVFYRDczZFR6S21hdlhBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijc3ODUxYTMxZTllMWUxODE3N2QyNjEwZDM0ZTdjNDBiNTY1OTkxMDA0Y2QyNDBkZDA3MjFhMDM1ZWFmMThkN2UifQ=="
         },
         {
           "id": "3b03d928-1bf2-11f1-9da7-7601f83ac48b",
@@ -7707,6 +7707,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1uSnYzOFYvYUNCb240UjcrOXVKMm5HZGdaWWNTOG84aHN6cGJubTVjK0l2K3lTSVVuK2pnTWxVbWcxK3pHSXBIcG5lRm1jZFhHMGFBUzZKN2k1eG53PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjM2MjAzYjU4ZGFmYmY4OTBlZjdjMTFlNWViMzU0MDllM2RlYWM0YTY5ZTYzMTJhNmVmOThkYTY2NTQzNWQ4NDkifQ=="
         },
         {
+          "id": "106200aa-1bf2-11f1-bda5-7601f83ac48b",
+          "title": "2021 Pokemon SWSH Shining Fates Vault Full Art Shiny Charizard VMAX #SV107 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 26000,
+          "valueDisplay": "$260.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJpaVJQZ3phY2h2V1U4SFg3RFJTYXJLc1NzVHZPV1hML1hoY0ZlYTViVytmajlCdkc1YzcveFBjam5EakpNMVI5TjRtOTZUdVZsQkM3ZytGRzRqZU9BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImE2NzEwNjhmYWE5NjQ1MGJjMGJhNjVlZjI1NDUyZTk5NDBlMTE5ODM5ZDkyYTlkZjUyY2Q4YmI2NzAwODA3NDQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJpaVJQZ3phY2h2V1U4SFg3RFJTYXJLc1NzVHZPV1hML1hoY0ZlYTViVyszYUlWQXVXZ2pRSURlS2tpTm15ZVo2anE1QkNrMDhBODZEK1gxTHpSNXZBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQ2MGY4ZjliNTczMmI3MjQwNzU3MzFmZDJkODI2MjRmODM4ZTQ0ZTI2Y2VmNWY0YTA1MjBkNmI3NDgzZjFmMTEifQ=="
+        },
+        {
           "id": "76ae2dc4-2099-11f1-9b98-be4cbc6eac93",
           "title": "1998 Pokemon Japanese CD Promo Holo Snorlax #143 PSA 9 MINT",
           "tier": "CHASE",
@@ -7824,15 +7833,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImIzcUQ3Z0NMdlU5Wm1pOGxFMm80dU9kRDhkc2Z1NVZsc2pxNWp0elhwSXMrNk5ZQXZtSjA0QVhtVFIvZW5zTG5HdUtCUjdrMyt5UEpOaHdOeDFxQTF3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjM3NGY1NzkzMDJiYTQxOWZkMDdiODMxN2Q3N2IzMDZlZTUwMGU3OTg5NDZlNDU3Mjc4Njk0ZDE2YWUzMDkwMTEifQ=="
         },
         {
-          "id": "106200aa-1bf2-11f1-bda5-7601f83ac48b",
-          "title": "2021 Pokemon SWSH Shining Fates Vault Full Art Shiny Charizard VMAX #SV107 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 24800,
-          "valueDisplay": "$248.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJpaVJQZ3phY2h2V1U4SFg3RFJTYXJLc1NzVHZPV1hML1hoY0ZlYTViVytmajlCdkc1YzcveFBjam5EakpNMVI5TjRtOTZUdVZsQkM3ZytGRzRqZU9BPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImE2NzEwNjhmYWE5NjQ1MGJjMGJhNjVlZjI1NDUyZTk5NDBlMTE5ODM5ZDkyYTlkZjUyY2Q4YmI2NzAwODA3NDQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJpaVJQZ3phY2h2V1U4SFg3RFJTYXJLc1NzVHZPV1hML1hoY0ZlYTViVyszYUlWQXVXZ2pRSURlS2tpTm15ZVo2anE1QkNrMDhBODZEK1gxTHpSNXZBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQ2MGY4ZjliNTczMmI3MjQwNzU3MzFmZDJkODI2MjRmODM4ZTQ0ZTI2Y2VmNWY0YTA1MjBkNmI3NDgzZjFmMTEifQ=="
-        },
-        {
           "id": "0ca52a6a-2029-11f1-88b7-9e3a7345d875",
           "title": "2008 Pokemon Diamond & Pearl Black Star Promo Holo Darkrai #DP19 PSA 8 NM-MT",
           "tier": "CHASE",
@@ -7842,20 +7842,11 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImlRRFFMdEEvTE5PS2VIdGJmNVJFRjJaaTgvZWFuTFAwWFFoUmlqM0Z6citiTEsxbWt3Sm5KYm9BcW5RSnlLTGZXZm45NGtxbm90RllNS0xRV3lGdjJBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjRhN2NkNDI5NDA4MzI4OWE0NzYzNDgwMTdjNGJhNmM0OTEwYzVmMjlhMzA2OWYzNTQ3M2UwNDc1NjNmZDcwZDUifQ=="
         },
         {
-          "id": "7f603ca2-1f39-11f1-958d-b656b03e5215",
-          "title": "2025 Pokemon Japanese Scarlet & Violet Alt Art Cynthia's Garchomp Ex #87 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 24000,
-          "valueDisplay": "$240.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjJwSDdXR1pHeG13NjRwRGVJMW1MVDUvK0M1US9uZWV5UFlzeS91Z1hqaTl4ODJBUkMzR2hMRUlZaUUrTU1lb2hnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjVjM2ZiNTlhNWIwY2YxNTBlMTZlNDgzZjkzNDA5N2RiNmRjMGZiZjA1YjJlNjMxZDRlNDgyNjYyOTE3OTIxODIifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjJwSDdXR1pHeG13NjRwRGVJMW1MVDdOSmNRajQ4dkFHL3lPWGs1dUdyb2p1T2FVVi9PUGVjcGpQTXZQSVRyUjNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjFkMTU2ZmVhNGJiNDgxN2M2ZTNmOGNkZmUxZjhmMzFjOGU1YjlhMzA2YWI0OWYwMzQxZWM2YWQ0ZGI3NDk1NWYifQ=="
-        },
-        {
           "id": "02378478-1bf2-11f1-9c60-7601f83ac48b",
           "title": "2025 Pokemon Mega Evolution SIR Mega Venusaur EX #177 PSA 10 GEM MINT",
           "tier": "CHASE",
-          "value": 23700,
-          "valueDisplay": "$237.00",
+          "value": 24000,
+          "valueDisplay": "$240.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkY2MFBkK3BiK256NVNXT2Y2anJ0MXFUdmx3SmJlRXR1TFhHYXhMYmVnSnZ3ZTgzWmdnYmRGR0xSQ0VLcTUxcTJuMlNyekwyeDYwd0ZWZ016MytBZmNnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjJiNmMyZGMxOWQ3OTczMWUwNGZlMDRmZTk4YTMxMmE5MjgxYjU0YjExZTRmMjM2NjkzYzY3ZmEzZjA2NWU4NDMifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkY2MFBkK3BiK256NVNXT2Y2anJ0MXFUdmx3SmJlRXR1TFhHYXhMYmVnSnNZUnJkVnNBOW14MVlDL1Irbk1IMVNQeEN5ZENZNWhiVHdYRUlQUlQ5QVZBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhiNDc2ODJjOWI1OWZiZWM4MDVhZjdkNzdlZTk5MWQ3ZjNiMWY3NzlhNDdlMmI4MWI1YTQ0NjkwYmI4YTEyYzgifQ=="
         },
@@ -7863,10 +7854,19 @@
           "id": "023aecda-1bf2-11f1-9c07-7601f83ac48b",
           "title": "2025 Pokemon Mega Evolution SIR Mega Venusaur ex #177 PSA 10 GEM MINT",
           "tier": "CHASE",
-          "value": 23700,
-          "valueDisplay": "$237.00",
+          "value": 24000,
+          "valueDisplay": "$240.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InIrSjRkcnVrWGwzMWNBUnE5cnVJcnhyc1BLdlY5cEVpMEEyTklPWDhBM3BWWmhnK2pxbStBUkRhd1FQTlRxNmwvOURBd0tXMUNCbjd6Unp4TlgreWlnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjY5NjQ5NTgyMGVlNTFiNmJiYjNiMjViN2E2ZTdlMzdiYWMwZWViZTM0MDdjNDlkNWY2ODRhMGZhNmI2ZWYzYzYifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InIrSjRkcnVrWGwzMWNBUnE5cnVJcnhyc1BLdlY5cEVpMEEyTklPWDhBM291Mm5DL1JWNlJVc0c4RFdzU0NxRTlpbHBXMC95WGVlc1ptbnBwcVc1bzJnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJhZTBmMmZmNTc2MzM2MmIwMTEwNjUyMWNiODM4YWFhYjMxMjg1NzNkYzViNmU5YThmNzViZmJmZmVjMDk4ZmIifQ=="
+        },
+        {
+          "id": "7f603ca2-1f39-11f1-958d-b656b03e5215",
+          "title": "2025 Pokemon Japanese Scarlet & Violet Alt Art Cynthia's Garchomp Ex #87 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 24000,
+          "valueDisplay": "$240.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjJwSDdXR1pHeG13NjRwRGVJMW1MVDUvK0M1US9uZWV5UFlzeS91Z1hqaTl4ODJBUkMzR2hMRUlZaUUrTU1lb2hnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjVjM2ZiNTlhNWIwY2YxNTBlMTZlNDgzZjkzNDA5N2RiNmRjMGZiZjA1YjJlNjMxZDRlNDgyNjYyOTE3OTIxODIifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IllNYVV6TGNQQ0ZtbDhyYWp6OGlvbjJwSDdXR1pHeG13NjRwRGVJMW1MVDdOSmNRajQ4dkFHL3lPWGs1dUdyb2p1T2FVVi9PUGVjcGpQTXZQSVRyUjNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjFkMTU2ZmVhNGJiNDgxN2M2ZTNmOGNkZmUxZjhmMzFjOGU1YjlhMzA2YWI0OWYwMzQxZWM2YWQ0ZGI3NDk1NWYifQ=="
         },
         {
           "id": "10652e74-1bf2-11f1-9077-7601f83ac48b",
@@ -7896,15 +7896,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InljN0ZyUG5zN3NtSVNsQ3lQTXZQNlJNQjZWanlhT1BXZzRjQmp4VkZGRk16S3ZFSTliNE9kdU5wMUpkTmk0NFo3c1Z3RERsYk1EQkt6OFJoWUNWWTV3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjViNDIxMzZhMjE4NGI5MzNlZjM5ZWNlMjEyYzU5MzY0ODVlNmUwY2UxM2I0NDNiOTNmMWIwOGFiYzcwZDNiYTgifQ=="
         },
         {
-          "id": "3b0976bc-1bf2-11f1-9583-7601f83ac48b",
-          "title": "2023 Pokemon Scarlet & Violet 151 SIR Blastoise Ex #200 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 22499,
-          "valueDisplay": "$224.99",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpqVGNLVWRDY2hHcEdUN3ZXSjAwSDJKVmhnTkNFSzJiMk9pSTFuSlhkV3EzQ1JGRTlCM1NhblJHdE9yZldodXErVGk0Q3BESlUxZXhybXRqSGxsWmRnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijg1MTZhYzQxZjBjZGYzYzkwNWJhOWRjNDM2NjdiYTY2ZWM2NGY4ODM2MGQyNDA5NDMxMjhkMGNjNmE4YWNlZGYifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpqVGNLVWRDY2hHcEdUN3ZXSjAwSDJKVmhnTkNFSzJiMk9pSTFuSlhkV29MS2FPVmpCNVZucjlWN1dQMUJrVHZiY1NRRXZQc0c5VFVlOFV1MFNDRlRnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUxZDIyMWQwNjdjMGIwMzQ3ZDA0NGJkYmUxYmNkOWY3MjFiMWViNTIwNjc0NDRmNGUxNmNkOTM2ODExMmZmZjUifQ=="
-        },
-        {
           "id": "0d389b5e-1f0e-11f1-8ba0-be4cbc6eac93",
           "title": "2015 Pokemon XY Roaring Skies Full Art M Rayquaza EX #105 PSA 7 NRMT",
           "tier": "CHASE",
@@ -7912,6 +7903,15 @@
           "valueDisplay": "$222.50",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlpIQVErb2lYSi9iWHpXTHcyYWI0clBFM0ZuNXRFOGdVemhaVGFPRFM4VzAvK0pISVhsazNla2NvUUNIS0sySEpGa0kyZDRnRUVXczdhWmcrLzR3ZWZnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjAyNDk1YjcyNDFjMmY4NTM1MjdmNjBkZTM2YjE1ZjFlYjRhZjFlMWMyMWUwY2I1NmM0MTA4MWZjMmY3MjdlOGEifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlpIQVErb2lYSi9iWHpXTHcyYWI0clBFM0ZuNXRFOGdVemhaVGFPRFM4VzJ5bXR2MVl1dzYvM0pzVnBlVmRoVXJsL3BycXlGcW9xeVBLU1A3M2x6aUlRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjFmZWRlNjU4NDUxM2IyNGNkN2IxYWUxOThhM2RmYmY5ZTI4MTMyOGRmYTQ4NDJiYzdjNTVhZTkyNTMzZGUzOGUifQ=="
+        },
+        {
+          "id": "3b0976bc-1bf2-11f1-9583-7601f83ac48b",
+          "title": "2023 Pokemon Scarlet & Violet 151 SIR Blastoise Ex #200 PSA 9 MINT",
+          "tier": "CHASE",
+          "value": 21000,
+          "valueDisplay": "$210.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpqVGNLVWRDY2hHcEdUN3ZXSjAwSDJKVmhnTkNFSzJiMk9pSTFuSlhkV3EzQ1JGRTlCM1NhblJHdE9yZldodXErVGk0Q3BESlUxZXhybXRqSGxsWmRnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijg1MTZhYzQxZjBjZGYzYzkwNWJhOWRjNDM2NjdiYTY2ZWM2NGY4ODM2MGQyNDA5NDMxMjhkMGNjNmE4YWNlZGYifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpqVGNLVWRDY2hHcEdUN3ZXSjAwSDJKVmhnTkNFSzJiMk9pSTFuSlhkV29MS2FPVmpCNVZucjlWN1dQMUJrVHZiY1NRRXZQc0c5VFVlOFV1MFNDRlRnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImUxZDIyMWQwNjdjMGIwMzQ3ZDA0NGJkYmUxYmNkOWY3MjFiMWViNTIwNjc0NDRmNGUxNmNkOTM2ODExMmZmZjUifQ=="
         },
         {
           "id": "54ec5aa0-1683-11f1-94d1-0a58a9feac02",
@@ -8065,7 +8065,7 @@
       "title": "Baseball: Ultra Pack $500",
       "price": 500,
       "evRatio": 0.78,
-      "trueEV": 389.94,
+      "trueEV": 390,
       "remaining": {
         "GRAIL": 5,
         "CHASE": 47,
@@ -8553,8 +8553,8 @@
       "repackId": "5e62f657-7cc5-4111-9f47-75ba61ec8ec8",
       "title": "Pokemon: $75",
       "price": 75,
-      "evRatio": 0.752,
-      "trueEV": 56.38,
+      "evRatio": 0.754,
+      "trueEV": 56.52,
       "remaining": {
         "GRAIL": 8,
         "CHASE": 56,
@@ -8589,8 +8589,8 @@
           "id": "1fb5bd8a-20a2-11f1-b8e0-9e3a7345d875",
           "title": "2023 Pokemon Sword & Shield Crown Zenith Alt Art Mewtwo VSTAR #GG44 PSA 10 GEM MINT",
           "tier": "GRAIL",
-          "value": 42999,
-          "valueDisplay": "$429.99",
+          "value": 43500,
+          "valueDisplay": "$435.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1uSnYzOFYvYUNCb240UjcrOXVKMnV2NEd3MWtLdk96b1I1dmd5R0FURzkyaEhza3psbTlYRU5HU2U5M3VabVdUcHFSaXBBQnJ6REoxWGRDR25VMWFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjZkYTZkYzAyNzk4YzkyZjVjMzAwMDU4Mzk1MTRmMmU3ZjBlZWQ2MjRhYmZhMmNlNDdiNTAwZGZhZWRmZGQyZjgifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1uSnYzOFYvYUNCb240UjcrOXVKMnV2NEd3MWtLdk96b1I1dmd5R0FURzhseDFsTXFLSjUvTDFpK1ZWRUp2ejFqMXBYK3k5eVh3THRDdEZBWFptQUpBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImM1YzAyYTQxMzc4YzhkOTdjNWNkMmFjY2MwNmFhNjIxYjJmZTljZjNmMTg0OTc3MWM2ODQ1Y2EwYTk0MWE4YTAifQ=="
         },
@@ -8598,8 +8598,8 @@
           "id": "1fb61e2e-20a2-11f1-81ad-9e3a7345d875",
           "title": "2023 Pokemon Sword & Shield Crown Zenith Full Art Mewtwo VSTAR #GG44 PSA 10 GEM MINT",
           "tier": "GRAIL",
-          "value": 42999,
-          "valueDisplay": "$429.99",
+          "value": 43500,
+          "valueDisplay": "$435.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZJWEt1SVNCSisyeC9SVEJWQTRxRGxLbEcybW55Uk8rWDBoSmtXVUZWVmZjWlNXMktOcERlMmQvcjBVTnpXQnF3RS9QM09VWWVaRFVzMUlZRVBwTmhRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQyNTUzZTIxNWExZjAyMTk5ODBlMGIyYjdkM2NlM2M0YWJiZDc3MDA1MTAyMjI5MmU0ODMyOTYzYWI1YzlmNTUifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZJWEt1SVNCSisyeC9SVEJWQTRxRGxLbEcybW55Uk8rWDBoSmtXVUZWVmZPQjZlZ2Z0M2FHRG9sMkpLZnYwL0xicmI4eERLazRiaHgzM3YrMkladkNnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjMxYzY3NWUyN2ZhZjc5MWJhNmVjNGFlZWU2NzliYjhlMTVmZDhhOGJlMWMxNDgzODU4MDIyMzM4YjAzNmJlMWEifQ=="
         },
@@ -8613,6 +8613,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRkcGp0MkdaQzk2YlY3b0hJRk92QndkZTBGdXBBUm5wS3Y2SVZrb3hJdFViQ09BS2c0ODE0NStHTE1qVHh6SmpwcXNySS9mTThpVHh6OUhOYm9DNzRnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImJkZDY0MDU4MmYyMGNhNTIzNDdhYzRhMTJiZTgzNTkyNmIzMzVhOGVmZTU4MTdkNjhkZDhiMGRmMjRkYWNmNjEifQ=="
         },
         {
+          "id": "1fb7fcbc-20a2-11f1-bf48-9e3a7345d875",
+          "title": "2023 Pokemon Sword & Shield Crown Zenith Gold Rare Giratina VSTAR #GG69 PSA 10 GEM MINT",
+          "tier": "GRAIL",
+          "value": 40000,
+          "valueDisplay": "$400.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhzTExMNW9TOEZaRTVNODNIZW1lYkVRbmsvTWpXZjgwMld4ek82dHArRWFXNjVxbU5qKzFlTmwvWm4wSjU0cW5oZUxEK1g1b3BPWVg0NFB0WFZ5cndnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjYyNTE0ZjkyNDZlOTM0ZGQ4ODQ3ZTIxM2Y1NDMxZmNiNDRmMzE3YjAwODVhNTZjOTk3NTgyZmVmMWRmYWVhNzgifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhzTExMNW9TOEZaRTVNODNIZW1lYkVRbmsvTWpXZjgwMld4ek82dHArRWFNT1BKc285QlhnOEoxdTBkdCs3RUtJWUEzY01pczFvWGRNVkZkMkNkRmN3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImI5NmQ5MThiN2M4ZjQxZjJhZmU1MTZjMzBjZDkyMWFhMWM0NDJmYWU0OTE4MTU0NTg2MWE3ZjI4YzgxZDlhMTQifQ=="
+        },
+        {
           "id": "1fb57a8c-20a2-11f1-92e6-9e3a7345d875",
           "title": "2025 Pokemon Scarlet & Violet Destined Rivals Prerelease Misty's Gyarados #49 PSA 10 GEM MINT",
           "tier": "GRAIL",
@@ -8620,15 +8629,6 @@
           "valueDisplay": "$395.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1uSnYzOFYvYUNCb240UjcrOXVKMnJ6bEFZeFVOVUthZEdNaHRHSlhFd0dMczE1eFNlQ1BhekFsSVYrQ25FZlVxWnJuVkljREQ0SUtvbWhYblc2RWxnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijk0NmU3NWM3YTFkYWFkYzVkYTE2NjBiOGNjYjBlMTg2YjFjM2M1MGU1NWY4Y2VjMjBmNzc1ODUwZGZiOWRjMDMifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik1uSnYzOFYvYUNCb240UjcrOXVKMnJ6bEFZeFVOVUthZEdNaHRHSlhFd0cvRGNVUW1wQmovSCtBeXFuU1h6UmpKQ0ZrNUh6by9oRlRQekZIL3gzNWh3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhkZGRlYjFjYjVlMTJjZjQyMmRiZTZjMGEyOWE3NTVkZGU1NzlkNGI5NjcxN2U0MDUwMDRhMjY4OWU1NTk3NTIifQ=="
-        },
-        {
-          "id": "1fb7fcbc-20a2-11f1-bf48-9e3a7345d875",
-          "title": "2023 Pokemon Sword & Shield Crown Zenith Gold Rare Giratina VSTAR #GG69 PSA 10 GEM MINT",
-          "tier": "GRAIL",
-          "value": 39500,
-          "valueDisplay": "$395.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhzTExMNW9TOEZaRTVNODNIZW1lYkVRbmsvTWpXZjgwMld4ek82dHArRWFXNjVxbU5qKzFlTmwvWm4wSjU0cW5oZUxEK1g1b3BPWVg0NFB0WFZ5cndnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjYyNTE0ZjkyNDZlOTM0ZGQ4ODQ3ZTIxM2Y1NDMxZmNiNDRmMzE3YjAwODVhNTZjOTk3NTgyZmVmMWRmYWVhNzgifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhzTExMNW9TOEZaRTVNODNIZW1lYkVRbmsvTWpXZjgwMld4ek82dHArRWFNT1BKc285QlhnOEoxdTBkdCs3RUtJWUEzY01pczFvWGRNVkZkMkNkRmN3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImI5NmQ5MThiN2M4ZjQxZjJhZmU1MTZjMzBjZDkyMWFhMWM0NDJmYWU0OTE4MTU0NTg2MWE3ZjI4YzgxZDlhMTQifQ=="
         },
         {
           "id": "1fb63a12-20a2-11f1-bdec-9e3a7345d875",
@@ -8721,24 +8721,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhzTExMNW9TOEZaRTVNODNIZW1lYkVRbmsvTWpXZjgwMld4ek82dHArRVpETHRsV2E0ckFGMEdNbFdTSU54Wm52dXlNczJaNm5JMGRIYzdNd2N4Vk93PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjU3MjNlN2Q2NzVlOGFhYzE3YWY1MzRhMWI3MzEwYmRlNGU5NDRkNmMwMTkyNTExMzRiZjNkMjY0Y2I3MDg2ZDIifQ=="
         },
         {
-          "id": "0fe1a61c-20a2-11f1-8021-9e3a7345d875",
-          "title": "2021 Pokemon Sword & Shield Celebrations Classic Holo Shining Magikarp #66 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 14999,
-          "valueDisplay": "$149.99",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0NlUUhsRUlxc3FXTEpGSDhkUUQrZVRNRWgySzIwOUpvQ1JVbUdtb0h1SURRUUZzOVNjbS9YTEs0NkpoRVRDNitnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImMzYjRhZGRkMGU0ZjYzNjJjZmUzNDA1OWQxOGU1NWI4MWI5ZGMwZTBhNGE0MDdjY2YwYzM4ZGY4YTE2ZDM5ZWQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0NlUUhsRUlxc3FXTEpGSDhkUUQrZVRtZHFSS1JwWTdDT0hyR0F1WWJwazRSc1dOMjBNN1VkdDQ0QW52TDRMdFFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU3YmFjNTBmM2NiYjNiODc1Y2E4OTlhNDc3ODIwYTA1ZGZiMmViOWEwOGU3ODAzMmJmYWEzZTRlNzk5YTM3ZmUifQ=="
-        },
-        {
-          "id": "0fe501ae-20a2-11f1-b671-9e3a7345d875",
-          "title": "2025 Pokemon Scarlet & Violet Destined Rivals Team Rocket's Tyranitar #96 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 14999,
-          "valueDisplay": "$149.99",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M016dXZYRVNBejR4TWYvSlBsK1F1a1hjNmpoY21RMjRISDBNTFBvTlhzYjNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjNkZGQ1OWViMDIxMTRjMWNmYzk1YTJmNWVhZjY1OTE1ZDk0OTc3ODFkZWViYTBmYTMwMDlmMjFjNDBkNWM2OTAifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M00yQUNnbmQ4WFB5SWhCR1lJcXZLZmNjYnhjQnRVaXJnVEE2Zk52OC9jbUVBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjdlYmQxZDIzNGJhNzhhMzZjNWY5MmJiYTM1YTkwMzFjNDViYTYzZjZiOTQzZDM3ZjE0ZjVhNmI5ZDQ2MmIwMzQifQ=="
-        },
-        {
           "id": "0fe8067e-20a2-11f1-92c5-9e3a7345d875",
           "title": "2019 Pokemon Japanese Sun & Moon Double Blaze Holo Snorlax #76 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -8811,6 +8793,24 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlhYUzBZT0lYUk9YTW12TXk5cTlsUzN3VW9LdldVaVBDQkhHbEFYWHZ0TEdPUDNqMkJHWHZ3MzhaTi9JZGovbWgxWk8yc1c2V1c3eHpvaWhiemxmcjBnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjdmODMwNjhkN2Q0MTM3MDYyNjI4ODMxZGEyMjQ4ZTJjOTg0Mjg4NTdiOWUwMDQ2ZWRhNmE0MTgyMjY2MDYwM2QifQ=="
         },
         {
+          "id": "0fe501ae-20a2-11f1-b671-9e3a7345d875",
+          "title": "2025 Pokemon Scarlet & Violet Destined Rivals Team Rocket's Tyranitar #96 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 14500,
+          "valueDisplay": "$145.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M016dXZYRVNBejR4TWYvSlBsK1F1a1hjNmpoY21RMjRISDBNTFBvTlhzYjNBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjNkZGQ1OWViMDIxMTRjMWNmYzk1YTJmNWVhZjY1OTE1ZDk0OTc3ODFkZWViYTBmYTMwMDlmMjFjNDBkNWM2OTAifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M00yQUNnbmQ4WFB5SWhCR1lJcXZLZmNjYnhjQnRVaXJnVEE2Zk52OC9jbUVBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjdlYmQxZDIzNGJhNzhhMzZjNWY5MmJiYTM1YTkwMzFjNDViYTYzZjZiOTQzZDM3ZjE0ZjVhNmI5ZDQ2MmIwMzQifQ=="
+        },
+        {
+          "id": "1fb82bd8-20a2-11f1-8a48-9e3a7345d875",
+          "title": "2025 Pokemon Scarlet & Violet White Flare SIR Keldeo ex #167 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 14499,
+          "valueDisplay": "$144.99",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M1Ayc2tvV0ZUQ054KzRMMExwUUI3U1g1RE9jbGR2VXE5TGd0QkxYd3J3VzR3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA2MGFkNDlmOTRmY2FiZWRlNWM2YmRmZmVlOTVhODRkOWVhOWQ1YTU5YWRjYjQxMDllZGRkN2EzNmUyMTA4M2IifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M013VktpY21qb1o4eTdBZzcrMW1wOTRWR3lnTStocmd3TEVvdElIbnZINTJBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE5NWY0NzhkODIyYmQ2YTNhZGEzYjc0NzdiZTRkZGFiMjg4NDM2MWEzYTMwMzIxZjVhNzkwNzQwNmM0MjNjZWQifQ=="
+        },
+        {
           "id": "0fe2d550-20a2-11f1-8548-9e3a7345d875",
           "title": "2025 Pokemon Mega Evolution SIR Mega Kangaskhan EX #182 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -8829,6 +8829,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlcxaTV5dzJoTFR4NkxjMmF3bHp0V1FUb1N6Um1aUmpyVXBHZ093SmUvSjNIVFhjbnE3WWRPalhhMmliNE05MDNxdm5RVXFnQWd6RE9RWi9MMnpjNnF3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImFhNjhjMjY0NmI1MWFmZjBlNmJjMzVjZjdhZDYyZjE3MzliOGVkNGRkYzAyMTg5ZmM1Y2FjMDJkZDYyYzQ1ZGQifQ=="
         },
         {
+          "id": "0fe4cfa4-20a2-11f1-a923-9e3a7345d875",
+          "title": "2025 Pokemon Scarlet & Violet Prismatic Evolutions SIR Palafin EX #151 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 14250,
+          "valueDisplay": "$142.50",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlI2YlJsS0xkUUxHT0FZWU5kblBWVW9pM1pLY2ZSUmFhQ1FhbWRxWmFCR25Dem05c3FMMzlSVTZyUDd4R1JGLzNxQ1gvOFpBVWJuUXRSRGdTMEtiZFZnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQxMWE2NzE3N2FjYTI2YWNlNGZiMjEyMWYxM2JmMTI2MDUxYmE0ZGRhNmQ1ODFjZjg4ZDVmMmU1OWVmYjdmNzIifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlI2YlJsS0xkUUxHT0FZWU5kblBWVW9pM1pLY2ZSUmFhQ1FhbWRxWmFCR21CdDJWaG5tTEE4YmlKVWk0VVJacTNtRE9aeDlXZVUvemlNOVZhTXVoQ1BnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijc1NWFmMDQ1MjY0YWJkZTg4MDEwZGFlNTMxMTkxZTUzZWY1NzkwZGE1NWI0NDQwNmRjYWU2ZDRlOTBmZDM1NGMifQ=="
+        },
+        {
           "id": "1fb4736c-20a2-11f1-b8ea-9e3a7345d875",
           "title": "2023 Pokemon Chinese Sun & Moon Shining Synergy Supreme Full Art Gengar Mimikyu GX #33 PSA 10",
           "tier": "CHASE",
@@ -8836,15 +8845,6 @@
           "valueDisplay": "$142.50",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlpIQVErb2lYSi9iWHpXTHcyYWI0ckR4djYydUtCM1ZnV0NMVnozWURJNkE2N29acjhEemxhdU5kbTgvR1FYdzlOWWlScEZ5Z1dqRGkxZ3UrcVg1TUtRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNiMDVkYzNhMzA0MjFmYjQ4NmQyMDc0YTQ5NGM0ZGFjZDRkODRiZGQ1Yjk0OWE3NTRiOTQ5ODMzZTMyYjU2MTQifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlpIQVErb2lYSi9iWHpXTHcyYWI0ckR4djYydUtCM1ZnV0NMVnozWURJNkNLcGxzQy9Nbm1zOTBHRkVkVnVVSGRuTHg3R3NTZ202cmtsT09zTFF1KzR3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE2NTQ4YWFmYjljYjU0ZmM3NGI5MTI1NTRiZjE1YTUyMGM0ZjU4NWM0NmFjYTFlYzIxYjgwMDRmZDdjOGUxMDAifQ=="
-        },
-        {
-          "id": "1fb76b44-20a2-11f1-aeb9-9e3a7345d875",
-          "title": "2025 Pokemon Scarlet & Violet Black Bolt IR Seismitoad #105 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 14250,
-          "valueDisplay": "$142.50",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik52bURwRFpZYTE5SjM2UFdaOU9LNXl0Z3pJelMvYzZSVmtHTUp3N0oxS2FjKzZFN1ZZcGNSa3h5cHB5ci80YmdjYm5nTFhsdU1oejExa0gwWmkvZ0lRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijc3MzQ2MWZhNWVhN2Y3ZmIzNWFiNTY0ODRlYTE0NDA3OTBkOGYxMTE5OGUwZmJiN2E3YWMwMmY1ZWRhZjU3ZjAifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik52bURwRFpZYTE5SjM2UFdaOU9LNXl0Z3pJelMvYzZSVmtHTUp3N0oxS2IwVVFFeVBCR3d1NUFyaFhqS2tVRjNoVmFWaWl1RzlpUUdaQ0ZkYkRXdmd3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImM0MTZlNmIwNTEyMGY0MmUyNzFlOGVlYTczNGFiNmM0NTA5ODY3NWIyZDVkY2YxNDY1Zjg1MmQ1MmEzNTlmNjYifQ=="
         },
         {
           "id": "0fe7176e-20a2-11f1-ae07-9e3a7345d875",
@@ -8928,15 +8928,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IitkL05rV1VNbldOc3A4WmZuYXc5blBXZ0RVSlNzVUVaWjhOMVpKMUpTa3B1ZUhwUEV0dW5ldEsySFkvVnlKd2NIc2VER3NGRUtvY3JwdzkwVjJGTFVBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNkOWRlMzExODE2MzQ4Y2Y0YmY0MDQ3OTQ0MTRlMDVlZDg1ZGFjMzhhZTlhOGUzZGVjZGRkNWJhODgyODViMTkifQ=="
         },
         {
-          "id": "1fb82bd8-20a2-11f1-8a48-9e3a7345d875",
-          "title": "2025 Pokemon Scarlet & Violet White Flare SIR Keldeo ex #167 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 13999,
-          "valueDisplay": "$139.99",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M1Ayc2tvV0ZUQ054KzRMMExwUUI3U1g1RE9jbGR2VXE5TGd0QkxYd3J3VzR3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjA2MGFkNDlmOTRmY2FiZWRlNWM2YmRmZmVlOTVhODRkOWVhOWQ1YTU5YWRjYjQxMDllZGRkN2EzNmUyMTA4M2IifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0VjZzhydTZtTWZvSGZjdnpFcUR1M013VktpY21qb1o4eTdBZzcrMW1wOTRWR3lnTStocmd3TEVvdElIbnZINTJBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjE5NWY0NzhkODIyYmQ2YTNhZGEzYjc0NzdiZTRkZGFiMjg4NDM2MWEzYTMwMzIxZjVhNzkwNzQwNmM0MjNjZWQifQ=="
-        },
-        {
           "id": "1fba994a-20a2-11f1-81c1-9e3a7345d875",
           "title": "2023 Pokemon Scarlet & Violet 151 SIR Zapdos ex #202 PSA 9 MINT",
           "tier": "CHASE",
@@ -8944,15 +8935,6 @@
           "valueDisplay": "$139.99",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRPVWQ0VkZQRFZydmxRcnlsamp0aTdUdy9XRVZJc2x2L005U3VXYkNFYUs0T0tGRHZwbVdxQ3dOaVh2aEVidGJRUENWOWllNTU4Zy9TQ3h6cGhGcHFnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjIyNzUwNjdhZmMxMWJhY2UxZDMyOWIxY2M2ZjcyNDY5OTViM2Y3NTFhNzc5OGM2MDU1Yjc3YmJiYmZlMjdlMTMifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRPVWQ0VkZQRFZydmxRcnlsamp0aTdUdy9XRVZJc2x2L005U3VXYkNFYUtpQ1BQWElJZEpEd0ZTMTZzMHBvZFNxTHVXN3RQUU1MSlBOaHYwTFpqbFlnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU0MjA2ODlkMGQ2YjZhZWQ1NzU4Y2YwNDBmMTMxMGM2NWJlZTAzNzE3MmRhZmViNDE5ZTk1ZDc1MGYxNTNmMjUifQ=="
-        },
-        {
-          "id": "1fb89c8a-20a2-11f1-a043-9e3a7345d875",
-          "title": "2023 Pokemon Sword & Shield Crown Zenith Alt Art Entei V #GG36 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 13800,
-          "valueDisplay": "$138.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dm5jQ1JwSFpiZGNUTHFub09ZUWR6ZXlpT0pEU3BMK0xKbFRjWG8zQnBsRHYvMWM4WHBVK2xLNmRVVW80cTVVdUhBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNjMWYwODI3YTczYTc0NTUwY2Y3MDQ0NDg0OWY2ZTNhYjM1NDVmODdlNWE3NjhkNzM5NTdkNmEzNzUxOThiM2YifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dm5jQ1JwSFpiZGNUTHFub09ZUWR6ZXg0dm5QeDVJV0NyK1ZJUzNPTkp3d2htUThGcEpmelhUUTBnRUlxckxKSCtBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjU0ZmU2YTczMjE5NTNhMGFlYzQ4ZDgyOTNiNjM5ZGQyM2EyMDRlZmIyZDE3NTcwMjI1MDRhNDY5Y2MzZTdmZjIifQ=="
         },
         {
           "id": "0fe9a6aa-20a2-11f1-9ca5-9e3a7345d875",
@@ -9036,15 +9018,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImIzcUQ3Z0NMdlU5Wm1pOGxFMm80dUtnSkRFN1IrR09Tb1pOYzByNVdXRTU4U0UrWDJ5eEhQZDlhckFyanpVY0FWMkhGSEhPOFhrMG5OeWZjQ1FOcjBnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQyYzJlYTQ3ODE2YzQyNGVjMTRmZjRhYjMxZGZjODFkZThjOTQ3NzY3MGE4ZjJiZGUxMTc5YTlhODFmZDk3OTAifQ=="
         },
         {
-          "id": "0fe4cfa4-20a2-11f1-a923-9e3a7345d875",
-          "title": "2025 Pokemon Scarlet & Violet Prismatic Evolutions SIR Palafin EX #151 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 13250,
-          "valueDisplay": "$132.50",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlI2YlJsS0xkUUxHT0FZWU5kblBWVW9pM1pLY2ZSUmFhQ1FhbWRxWmFCR25Dem05c3FMMzlSVTZyUDd4R1JGLzNxQ1gvOFpBVWJuUXRSRGdTMEtiZFZnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQxMWE2NzE3N2FjYTI2YWNlNGZiMjEyMWYxM2JmMTI2MDUxYmE0ZGRhNmQ1ODFjZjg4ZDVmMmU1OWVmYjdmNzIifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlI2YlJsS0xkUUxHT0FZWU5kblBWVW9pM1pLY2ZSUmFhQ1FhbWRxWmFCR21CdDJWaG5tTEE4YmlKVWk0VVJacTNtRE9aeDlXZVUvemlNOVZhTXVoQ1BnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijc1NWFmMDQ1MjY0YWJkZTg4MDEwZGFlNTMxMTkxZTUzZWY1NzkwZGE1NWI0NDQwNmRjYWU2ZDRlOTBmZDM1NGMifQ=="
-        },
-        {
           "id": "1fb8d998-20a2-11f1-84ec-9e3a7345d875",
           "title": "2020 Pokemon Sun & Moon Promo Tag Team Full Art Umbreon & Darkrai GX #SM241 PSA 8 NM-MT",
           "tier": "CHASE",
@@ -9052,6 +9025,15 @@
           "valueDisplay": "$132.11",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjAvdHFsY1ZBVitNRWttNWZvdjNuTDRzYkcwaWFyVndrUldFUlIyWUYvVkFlUnJvN2E2MVpnSjhsRkY2eWJaMXBlWTY3RnBuVmZldkFGSWRSRXlSU2FnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImY1ODVhMjQ2ZTVkN2NkOGIwZDMzMTUzNDFiM2EzZjNjM2RiODA5MTM5ZmJjYmRkMzhhODAxOWQ2ZDEwYWMwMjAifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjAvdHFsY1ZBVitNRWttNWZvdjNuTDRzYkcwaWFyVndrUldFUlIyWUYvVkE4TDJPU2pxTjVJMktSdk1SQmcyajJCb29xRnMwTU93YzlsbHhLaDlvR2ZnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNjMGMwODMzZmVhZjdlODZmMTUwMWJiNGIyNmRlNjA0YjA5MjUxY2UwMzc0NWY0ZDRjYmJhYmFjMWUzMmFhZWMifQ=="
+        },
+        {
+          "id": "1fb89c8a-20a2-11f1-a043-9e3a7345d875",
+          "title": "2023 Pokemon Sword & Shield Crown Zenith Alt Art Entei V #GG36 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 13200,
+          "valueDisplay": "$132.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dm5jQ1JwSFpiZGNUTHFub09ZUWR6ZXlpT0pEU3BMK0xKbFRjWG8zQnBsRHYvMWM4WHBVK2xLNmRVVW80cTVVdUhBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImNjMWYwODI3YTczYTc0NTUwY2Y3MDQ0NDg0OWY2ZTNhYjM1NDVmODdlNWE3NjhkNzM5NTdkNmEzNzUxOThiM2YifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjJnQkFWTVBQdEp1Y2h6UExXTWJ5dm5jQ1JwSFpiZGNUTHFub09ZUWR6ZXg0dm5QeDVJV0NyK1ZJUzNPTkp3d2htUThGcEpmelhUUTBnRUlxckxKSCtBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjU0ZmU2YTczMjE5NTNhMGFlYzQ4ZDgyOTNiNjM5ZGQyM2EyMDRlZmIyZDE3NTcwMjI1MDRhNDY5Y2MzZTdmZjIifQ=="
         },
         {
           "id": "1fb8bba2-20a2-11f1-9f8d-9e3a7345d875",
@@ -9079,6 +9061,15 @@
           "valueDisplay": "$130.27",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL01GOEVOVTBzNTltOG9OT0ZIM0dLbCsyUzYyVmZTZmNZTE5Tc2crR2dFaStDcGh5bTM5eHpoeWN4Sng4MW1HbUVBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjRmMDQ0MTg3NzcwZDIzMTVhN2YyZjhiMDBjOWJiMjdlYjk5YzU0ODIwMzI3MjlkZTExYTc5NWI3OTJjOWI1NjcifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL01GOEVOVTBzNTltOG9OT0ZIM0dLbC93U1dNTnI1aEkwaitCY25BM1N5bzFSRU9tQWcrTWVnN1p1TEovOUptbVRBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImQyN2ExOTk0NjQ0NWRmMmI5YzA3MTEyM2I4OWQ1ODczMmNkZjEyYTU0MTM3ZDIxMjRiMDQxYTQ0NWE0OWM4MTUifQ=="
+        },
+        {
+          "id": "0fe1a61c-20a2-11f1-8021-9e3a7345d875",
+          "title": "2021 Pokemon Sword & Shield Celebrations Classic Holo Shining Magikarp #66 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 13000,
+          "valueDisplay": "$130.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0NlUUhsRUlxc3FXTEpGSDhkUUQrZVRNRWgySzIwOUpvQ1JVbUdtb0h1SURRUUZzOVNjbS9YTEs0NkpoRVRDNitnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImMzYjRhZGRkMGU0ZjYzNjJjZmUzNDA1OWQxOGU1NWI4MWI5ZGMwZTBhNGE0MDdjY2YwYzM4ZGY4YTE2ZDM5ZWQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0NlUUhsRUlxc3FXTEpGSDhkUUQrZVRtZHFSS1JwWTdDT0hyR0F1WWJwazRSc1dOMjBNN1VkdDQ0QW52TDRMdFFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImU3YmFjNTBmM2NiYjNiODc1Y2E4OTlhNDc3ODIwYTA1ZGZiMmViOWEwOGU3ODAzMmJmYWEzZTRlNzk5YTM3ZmUifQ=="
         },
         {
           "id": "0fe1db8c-20a2-11f1-8c75-9e3a7345d875",
@@ -9126,6 +9117,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilk0dWF3RXRCbGJlQ0pkMjJWQmFqL0NlUUhsRUlxc3FXTEpGSDhkUUQrZVJLMWlqRVpjWEZuYWhLZ3Q0czZJMmRnMERUcXNNWkZUMGNScmVwcmt1ckpRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhjNjUzYzdkOTQ0MDlhODdiZWVlMzdhZjU3YTZkNDVjZTI4ODJmYzdjOTU1Mzk0MGQ0ODI2YjIyODc3OWI0OGYifQ=="
         },
         {
+          "id": "1fb76b44-20a2-11f1-aeb9-9e3a7345d875",
+          "title": "2025 Pokemon Scarlet & Violet Black Bolt IR Seismitoad #105 PSA 9 MINT",
+          "tier": "CHASE",
+          "value": 12509,
+          "valueDisplay": "$125.09",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik52bURwRFpZYTE5SjM2UFdaOU9LNXl0Z3pJelMvYzZSVmtHTUp3N0oxS2FjKzZFN1ZZcGNSa3h5cHB5ci80YmdjYm5nTFhsdU1oejExa0gwWmkvZ0lRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6Ijc3MzQ2MWZhNWVhN2Y3ZmIzNWFiNTY0ODRlYTE0NDA3OTBkOGYxMTE5OGUwZmJiN2E3YWMwMmY1ZWRhZjU3ZjAifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik52bURwRFpZYTE5SjM2UFdaOU9LNXl0Z3pJelMvYzZSVmtHTUp3N0oxS2IwVVFFeVBCR3d1NUFyaFhqS2tVRjNoVmFWaWl1RzlpUUdaQ0ZkYkRXdmd3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6ImM0MTZlNmIwNTEyMGY0MmUyNzFlOGVlYTczNGFiNmM0NTA5ODY3NWIyZDVkY2YxNDY1Zjg1MmQ1MmEzNTlmNjYifQ=="
+        },
+        {
           "id": "0fe0c256-20a2-11f1-a726-9e3a7345d875",
           "title": "2019 Pokemon SM Hidden Fates Full Art Moltres & Zapdos & Articuno GX #66 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -9151,7 +9151,7 @@
       "title": "Baseball: $75",
       "price": 75,
       "evRatio": 0.741,
-      "trueEV": 55.6,
+      "trueEV": 55.55,
       "remaining": {
         "GRAIL": 2,
         "CHASE": 27,
@@ -9336,15 +9336,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRkcGp0MkdaQzk2YlY3b0hJRk92Qjh2MkY2Z3pWN2JQU2RkTUJ2ZWZ4eDJDbmloVE42STd3aHcwSFdscllJbXRDWU5hcVFqWU0rZForSkdaZTBnSGx3PT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjZjYTkzYjU2NjE3NzFmZDZkYzY1ZDdmMmJkMzk5ZTNhOTc3NjIxYjVmMjY4MmE4MGVmMTBiY2I5ZTliNGFlOWQifQ=="
         },
         {
-          "id": "1b3b3f9c-20b0-11f1-bd20-9e3a7345d875",
-          "title": "1983 Topps Ryne Sandberg ROOKIE #83 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 13500,
-          "valueDisplay": "$135.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNXbytBcE14NFRjVEFkWHJ2ZE80SHN6QWhNTFFBb21MRCtpLyt3bktIUzN6ZWswcUhzaXZiOFI0SjgxZlVXT2RRRFQ1NGtZaE9xUUtHSXVuT3pjVVFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjllOWE5MWIwNTdiNjA3MjQ2MDM4MGVlNWUyMjg1NjVmNWYzMTFjMzBkNjI5MWU2OTE4Njg4MDM4ZjBjMGZkYTgifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNXbytBcE14NFRjVEFkWHJ2ZE80SHN6QWhNTFFBb21MRCtpLyt3bktIUzNMbzhJMXVvMURnZi9Tc1BxSW10MlFMbFRDeldDNzNwQ0ErNTJNeXpTU05RPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjFkN2IyY2RjYzQxMzdkNjUyNDYzNjlkNGQwNTBmZGNjNjMxODVjMGViNWU2YTg1ZjMzZThhMzQ2YTg5Y2M1ZmQifQ=="
-        },
-        {
           "id": "1b3e953e-20b0-11f1-92aa-9e3a7345d875",
           "title": "2024 Bowman's Best Blue Xfractor Pete Crow-Armstrong ROOKIE /150 #17 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -9424,6 +9415,15 @@
           "valueDisplay": "$130.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IndYK2pIWUlVeVA3eHQ5VHVOVDZDSXZPSUhxZXM2RWF4VXJ5dW9naThXeHFxTFBKVC9QTlpWQnpTR3RaWnh1ODFWazc5ZGVCQklPT3dQU3hpYkdEQmJnPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjhjOTdkYWU0MTYyOWI4ODMzY2JkM2RkN2QwZTcyNGMyNDZjMWFlMDBiZTE1YjA1YTkyZDE5NTUwZmRmOWYxNmEifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IndYK2pIWUlVeVA3eHQ5VHVOVDZDSXZPSUhxZXM2RWF4VXJ5dW9naThXeHBNczFQUDBEclUvYkZDS1pOY2Qya2gxQWNhQ0UxdkZZeU4za2VDY0pIKzVBPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjAzMDIwNzgyNmIwNTZhM2I1NWFlMmE2NWI1ZWU4NjU2ODU0NWVmODk4Y2YwYzFhZDdkYzQ1NTQ2YTczMWY2MzYifQ=="
+        },
+        {
+          "id": "1b3b3f9c-20b0-11f1-bd20-9e3a7345d875",
+          "title": "1983 Topps Ryne Sandberg ROOKIE #83 PSA 9 MINT",
+          "tier": "CHASE",
+          "value": 12250,
+          "valueDisplay": "$122.50",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNXbytBcE14NFRjVEFkWHJ2ZE80SHN6QWhNTFFBb21MRCtpLyt3bktIUzN6ZWswcUhzaXZiOFI0SjgxZlVXT2RRRFQ1NGtZaE9xUUtHSXVuT3pjVVFRPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjllOWE5MWIwNTdiNjA3MjQ2MDM4MGVlNWUyMjg1NjVmNWYzMTFjMzBkNjI5MWU2OTE4Njg4MDM4ZjBjMGZkYTgifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNXbytBcE14NFRjVEFkWHJ2ZE80SHN6QWhNTFFBb21MRCtpLyt3bktIUzNMbzhJMXVvMURnZi9Tc1BxSW10MlFMbFRDeldDNzNwQ0ErNTJNeXpTU05RPT0iLCJpdiI6IitlMSsvNjFNUEdsNDRoNi9pMmFXWWc9PSIsIm1hYyI6IjFkN2IyY2RjYzQxMzdkNjUyNDYzNjlkNGQwNTBmZGNjNjMxODVjMGViNWU2YTg1ZjMzZThhMzQ2YTg5Y2M1ZmQifQ=="
         }
       ]
     },
@@ -9432,18 +9432,18 @@
       "repackId": "38426242-455c-4957-9f66-78280eabe50f",
       "title": "Football: $75",
       "price": 75,
-      "evRatio": 0.733,
-      "trueEV": 54.98,
+      "evRatio": 0.731,
+      "trueEV": 54.85,
       "remaining": {
         "GRAIL": 2,
         "CHASE": 22,
-        "BASE": 151
+        "BASE": 150
       },
-      "totalRemaining": 175,
+      "totalRemaining": 174,
       "odds": {
-        "grail": 1.14,
-        "chase": 12.57,
-        "base": 86.29
+        "grail": 1.15,
+        "chase": 12.64,
+        "base": 86.21
       },
       "cards": [
         {

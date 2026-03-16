@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-03-16T08:34:40.395Z",
+  "generated_at": "2026-03-16T09:04:21.751Z",
   "snapshots": [
+    {
+      "id": 688,
+      "timestamp": "2026-03-16T09:04:21.076Z",
+      "total_packs": 35,
+      "plus_ev_count": 0,
+      "strong_plus_ev_count": 0
+    },
+    {
+      "id": 687,
+      "timestamp": "2026-03-16T09:02:10.540Z",
+      "total_packs": 35,
+      "plus_ev_count": 0,
+      "strong_plus_ev_count": 0
+    },
     {
       "id": 686,
       "timestamp": "2026-03-16T08:34:39.539Z",
@@ -1351,25 +1365,11 @@
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0
-    },
-    {
-      "id": 493,
-      "timestamp": "2026-03-14T09:02:16.295Z",
-      "total_packs": 35,
-      "plus_ev_count": 0,
-      "strong_plus_ev_count": 0
-    },
-    {
-      "id": 492,
-      "timestamp": "2026-03-14T08:34:40.669Z",
-      "total_packs": 35,
-      "plus_ev_count": 0,
-      "strong_plus_ev_count": 0
     }
   ],
   "current_data": [
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1398,7 +1398,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1427,7 +1427,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1440,7 +1440,7 @@
       "ev_ratio": 0.978,
       "pool_value": 262060.36,
       "remaining": 268,
-      "total_original": 1352,
+      "total_original": 1360,
       "grail_count": 6,
       "chase_count": 35,
       "base_count": 227,
@@ -1456,7 +1456,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1469,7 +1469,7 @@
       "ev_ratio": 0.971,
       "pool_value": 331211.68,
       "remaining": 682,
-      "total_original": 3239,
+      "total_original": 3252,
       "grail_count": 14,
       "chase_count": 105,
       "base_count": 563,
@@ -1485,7 +1485,36 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
+      "total_packs": 35,
+      "plus_ev_count": 0,
+      "strong_plus_ev_count": 0,
+      "pack_id": 7,
+      "pack_name": "Basketball: Ultra Pack $500",
+      "sport": "basketball",
+      "pack_type": "ultra",
+      "price": 500,
+      "true_ev": 479.09,
+      "ev_ratio": 0.958,
+      "pool_value": 8144.59,
+      "remaining": 17,
+      "total_original": 904,
+      "grail_count": 0,
+      "chase_count": 4,
+      "base_count": 13,
+      "grail_pct": 0,
+      "chase_pct": 23.53,
+      "grail_avg_value": 1896.79,
+      "chase_avg_value": 752,
+      "base_avg_value": 395.12,
+      "grail_range_low": 1830,
+      "grail_range_high": 1963.58,
+      "chase_range_low": 702,
+      "chase_range_high": 849.99,
+      "status": "ACTIVE"
+    },
+    {
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1514,7 +1543,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1543,36 +1572,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
-      "total_packs": 35,
-      "plus_ev_count": 0,
-      "strong_plus_ev_count": 0,
-      "pack_id": 7,
-      "pack_name": "Basketball: Ultra Pack $500",
-      "sport": "basketball",
-      "pack_type": "ultra",
-      "price": 500,
-      "true_ev": 465.48,
-      "ev_ratio": 0.931,
-      "pool_value": 9309.59,
-      "remaining": 20,
-      "total_original": 899,
-      "grail_count": 0,
-      "chase_count": 4,
-      "base_count": 16,
-      "grail_pct": 0,
-      "chase_pct": 20,
-      "grail_avg_value": 1896.79,
-      "chase_avg_value": 752,
-      "base_avg_value": 393.85,
-      "grail_range_low": 1830,
-      "grail_range_high": 1963.58,
-      "chase_range_low": 702,
-      "chase_range_high": 849.99,
-      "status": "ACTIVE"
-    },
-    {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1585,7 +1585,7 @@
       "ev_ratio": 0.91,
       "pool_value": 35264.26,
       "remaining": 155,
-      "total_original": 4005,
+      "total_original": 4028,
       "grail_count": 1,
       "chase_count": 29,
       "base_count": 125,
@@ -1601,7 +1601,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1612,9 +1612,9 @@
       "price": 250,
       "true_ev": 221.05,
       "ev_ratio": 0.884,
-      "pool_value": 119588.48,
+      "pool_value": 119587.43,
       "remaining": 541,
-      "total_original": 1768,
+      "total_original": 1783,
       "grail_count": 11,
       "chase_count": 94,
       "base_count": 436,
@@ -1622,7 +1622,7 @@
       "chase_pct": 17.38,
       "grail_avg_value": 1353,
       "chase_avg_value": 464.31,
-      "base_avg_value": 140.05,
+      "base_avg_value": 140.04,
       "grail_range_low": 1250,
       "grail_range_high": 4400,
       "chase_range_low": 381,
@@ -1630,7 +1630,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1643,7 +1643,7 @@
       "ev_ratio": 0.882,
       "pool_value": 7411.01,
       "remaining": 112,
-      "total_original": 8652,
+      "total_original": 8654,
       "grail_count": 1,
       "chase_count": 18,
       "base_count": 93,
@@ -1659,7 +1659,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1688,7 +1688,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1701,7 +1701,7 @@
       "ev_ratio": 0.838,
       "pool_value": 33677.4,
       "remaining": 268,
-      "total_original": 6120,
+      "total_original": 6152,
       "grail_count": 4,
       "chase_count": 50,
       "base_count": 214,
@@ -1717,7 +1717,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1730,7 +1730,7 @@
       "ev_ratio": 0.837,
       "pool_value": 33287.77,
       "remaining": 265,
-      "total_original": 4490,
+      "total_original": 4508,
       "grail_count": 6,
       "chase_count": 31,
       "base_count": 228,
@@ -1746,7 +1746,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1759,7 +1759,7 @@
       "ev_ratio": 0.835,
       "pool_value": 45823.38,
       "remaining": 366,
-      "total_original": 4509,
+      "total_original": 4512,
       "grail_count": 7,
       "chase_count": 57,
       "base_count": 302,
@@ -1775,7 +1775,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1788,7 +1788,7 @@
       "ev_ratio": 0.812,
       "pool_value": 166069.6,
       "remaining": 818,
-      "total_original": 7700,
+      "total_original": 7701,
       "grail_count": 11,
       "chase_count": 101,
       "base_count": 706,
@@ -1804,7 +1804,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1833,7 +1833,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1846,7 +1846,7 @@
       "ev_ratio": 0.803,
       "pool_value": 179125.77,
       "remaining": 1487,
-      "total_original": 11417,
+      "total_original": 11428,
       "grail_count": 17,
       "chase_count": 185,
       "base_count": 1285,
@@ -1862,7 +1862,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1871,19 +1871,19 @@
       "sport": "baseball",
       "pack_type": "ultra",
       "price": 500,
-      "true_ev": 389.96,
+      "true_ev": 389.95,
       "ev_ratio": 0.78,
-      "pool_value": 155594.07,
+      "pool_value": 155589.76,
       "remaining": 399,
-      "total_original": 1603,
+      "total_original": 1611,
       "grail_count": 5,
       "chase_count": 47,
       "base_count": 347,
       "grail_pct": 1.25,
       "chase_pct": 11.78,
       "grail_avg_value": 1906.8,
-      "chase_avg_value": 809.38,
-      "base_avg_value": 311.3,
+      "chase_avg_value": 809.35,
+      "base_avg_value": 311.29,
       "grail_range_low": 1800,
       "grail_range_high": 5000,
       "chase_range_low": 700,
@@ -1891,7 +1891,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1904,7 +1904,7 @@
       "ev_ratio": 0.746,
       "pool_value": 25637.38,
       "remaining": 458,
-      "total_original": 44922,
+      "total_original": 44928,
       "grail_count": 8,
       "chase_count": 56,
       "base_count": 394,
@@ -1920,7 +1920,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1933,7 +1933,7 @@
       "ev_ratio": 0.741,
       "pool_value": 12456.88,
       "remaining": 224,
-      "total_original": 16166,
+      "total_original": 16171,
       "grail_count": 2,
       "chase_count": 27,
       "base_count": 195,
@@ -1949,7 +1949,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -1962,7 +1962,7 @@
       "ev_ratio": 0.731,
       "pool_value": 9644.86,
       "remaining": 176,
-      "total_original": 10926,
+      "total_original": 10932,
       "grail_count": 2,
       "chase_count": 22,
       "base_count": 152,
@@ -1978,7 +1978,7 @@
       "status": "ACTIVE"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2007,7 +2007,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2036,7 +2036,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2065,7 +2065,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2094,7 +2094,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2123,7 +2123,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2152,7 +2152,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2181,7 +2181,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2210,7 +2210,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2239,7 +2239,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2268,7 +2268,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2297,7 +2297,7 @@
       "status": "SOLD_OUT"
     },
     {
-      "timestamp": "2026-03-16T08:34:39.539Z",
+      "timestamp": "2026-03-16T09:04:21.076Z",
       "total_packs": 35,
       "plus_ev_count": 0,
       "strong_plus_ev_count": 0,
@@ -2332,20 +2332,6 @@
       "sport": "mixed",
       "price": 800,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
@@ -3696,6 +3682,20 @@
           "remaining": 0,
           "grail_pct": 0,
           "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
         }
       ]
     },
@@ -3704,20 +3704,6 @@
       "sport": "baseball",
       "price": 1000,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.958,
-          "remaining": 45,
-          "grail_pct": 2.22,
-          "chase_pct": 15.56
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.958,
-          "remaining": 45,
-          "grail_pct": 2.22,
-          "chase_pct": 15.56
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.958,
@@ -5068,6 +5054,20 @@
           "remaining": 44,
           "grail_pct": 2.27,
           "chase_pct": 15.91
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.953,
+          "remaining": 44,
+          "grail_pct": 2.27,
+          "chase_pct": 15.91
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.953,
+          "remaining": 44,
+          "grail_pct": 2.27,
+          "chase_pct": 15.91
         }
       ]
     },
@@ -5076,20 +5076,6 @@
       "sport": "basketball",
       "price": 1000,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.942,
-          "remaining": 45,
-          "grail_pct": 2.22,
-          "chase_pct": 15.56
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.942,
-          "remaining": 45,
-          "grail_pct": 2.22,
-          "chase_pct": 15.56
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.942,
@@ -6440,6 +6426,20 @@
           "remaining": 34,
           "grail_pct": 0,
           "chase_pct": 17.65
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.952,
+          "remaining": 34,
+          "grail_pct": 0,
+          "chase_pct": 17.65
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.952,
+          "remaining": 34,
+          "grail_pct": 0,
+          "chase_pct": 17.65
         }
       ]
     },
@@ -6448,20 +6448,6 @@
       "sport": "baseball",
       "price": 150,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.811,
-          "remaining": 419,
-          "grail_pct": 1.91,
-          "chase_pct": 15.04
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.815,
-          "remaining": 414,
-          "grail_pct": 1.93,
-          "chase_pct": 15.22
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.815,
@@ -7812,6 +7798,20 @@
           "remaining": 268,
           "grail_pct": 1.49,
           "chase_pct": 18.66
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.838,
+          "remaining": 268,
+          "grail_pct": 1.49,
+          "chase_pct": 18.66
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.838,
+          "remaining": 268,
+          "grail_pct": 1.49,
+          "chase_pct": 18.66
         }
       ]
     },
@@ -7820,20 +7820,6 @@
       "sport": "football",
       "price": 500,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.851,
-          "remaining": 53,
-          "grail_pct": 1.89,
-          "chase_pct": 15.09
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.855,
-          "remaining": 52,
-          "grail_pct": 1.92,
-          "chase_pct": 15.38
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.855,
@@ -9184,6 +9170,20 @@
           "remaining": 49,
           "grail_pct": 2.04,
           "chase_pct": 16.33
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.857,
+          "remaining": 49,
+          "grail_pct": 2.04,
+          "chase_pct": 16.33
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.857,
+          "remaining": 49,
+          "grail_pct": 2.04,
+          "chase_pct": 16.33
         }
       ]
     },
@@ -9192,20 +9192,6 @@
       "sport": "pokemon",
       "price": 500,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.956,
-          "remaining": 737,
-          "grail_pct": 2.04,
-          "chase_pct": 14.93
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.956,
-          "remaining": 737,
-          "grail_pct": 2.04,
-          "chase_pct": 14.93
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.956,
@@ -10556,6 +10542,20 @@
           "remaining": 682,
           "grail_pct": 2.05,
           "chase_pct": 15.4
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.971,
+          "remaining": 682,
+          "grail_pct": 2.05,
+          "chase_pct": 15.4
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.971,
+          "remaining": 682,
+          "grail_pct": 2.05,
+          "chase_pct": 15.4
         }
       ]
     },
@@ -10564,20 +10564,6 @@
       "sport": "basketball",
       "price": 500,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.921,
-          "remaining": 40,
-          "grail_pct": 2.5,
-          "chase_pct": 15
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.921,
-          "remaining": 40,
-          "grail_pct": 2.5,
-          "chase_pct": 15
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.921,
@@ -11928,6 +11914,20 @@
           "remaining": 20,
           "grail_pct": 0,
           "chase_pct": 20
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.958,
+          "remaining": 17,
+          "grail_pct": 0,
+          "chase_pct": 23.53
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.958,
+          "remaining": 17,
+          "grail_pct": 0,
+          "chase_pct": 23.53
         }
       ]
     },
@@ -11936,20 +11936,6 @@
       "sport": "football",
       "price": 250,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.871,
-          "remaining": 220,
-          "grail_pct": 1.36,
-          "chase_pct": 17.73
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.854,
-          "remaining": 207,
-          "grail_pct": 1.45,
-          "chase_pct": 15.94
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.854,
@@ -13300,6 +13286,20 @@
           "remaining": 129,
           "grail_pct": 0,
           "chase_pct": 17.05
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.81,
+          "remaining": 129,
+          "grail_pct": 0,
+          "chase_pct": 17.05
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.81,
+          "remaining": 129,
+          "grail_pct": 0,
+          "chase_pct": 17.05
         }
       ]
     },
@@ -13308,20 +13308,6 @@
       "sport": "mixed",
       "price": 200,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
@@ -14672,6 +14658,20 @@
           "remaining": 0,
           "grail_pct": 0,
           "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
         }
       ]
     },
@@ -14680,20 +14680,6 @@
       "sport": "football",
       "price": 1000,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.96,
-          "remaining": 53,
-          "grail_pct": 1.89,
-          "chase_pct": 20.75
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.96,
-          "remaining": 53,
-          "grail_pct": 1.89,
-          "chase_pct": 20.75
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.96,
@@ -16044,6 +16030,20 @@
           "remaining": 13,
           "grail_pct": 0,
           "chase_pct": 23.08
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.982,
+          "remaining": 13,
+          "grail_pct": 0,
+          "chase_pct": 23.08
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.982,
+          "remaining": 13,
+          "grail_pct": 0,
+          "chase_pct": 23.08
         }
       ]
     },
@@ -16052,20 +16052,6 @@
       "sport": "basketball",
       "price": 75,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.873,
-          "remaining": 257,
-          "grail_pct": 1.95,
-          "chase_pct": 14.01
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.873,
-          "remaining": 257,
-          "grail_pct": 1.95,
-          "chase_pct": 14.01
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.873,
@@ -17416,6 +17402,20 @@
           "remaining": 112,
           "grail_pct": 0.89,
           "chase_pct": 16.07
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.882,
+          "remaining": 112,
+          "grail_pct": 0.89,
+          "chase_pct": 16.07
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.882,
+          "remaining": 112,
+          "grail_pct": 0.89,
+          "chase_pct": 16.07
         }
       ]
     },
@@ -17424,20 +17424,6 @@
       "sport": "pokemon",
       "price": 1000,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.936,
-          "remaining": 329,
-          "grail_pct": 2.13,
-          "chase_pct": 12.46
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.936,
-          "remaining": 329,
-          "grail_pct": 2.13,
-          "chase_pct": 12.46
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.936,
@@ -18788,6 +18774,20 @@
           "remaining": 268,
           "grail_pct": 2.24,
           "chase_pct": 13.06
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.978,
+          "remaining": 268,
+          "grail_pct": 2.24,
+          "chase_pct": 13.06
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.978,
+          "remaining": 268,
+          "grail_pct": 2.24,
+          "chase_pct": 13.06
         }
       ]
     },
@@ -18796,20 +18796,6 @@
       "sport": "baseball",
       "price": 75,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.693,
-          "remaining": 1,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.693,
-          "remaining": 1,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.693,
@@ -20160,6 +20146,20 @@
           "remaining": 224,
           "grail_pct": 0.89,
           "chase_pct": 12.05
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.741,
+          "remaining": 224,
+          "grail_pct": 0.89,
+          "chase_pct": 12.05
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.741,
+          "remaining": 224,
+          "grail_pct": 0.89,
+          "chase_pct": 12.05
         }
       ]
     },
@@ -20168,20 +20168,6 @@
       "sport": "basketball",
       "price": 250,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.877,
-          "remaining": 697,
-          "grail_pct": 2.01,
-          "chase_pct": 17.07
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.877,
-          "remaining": 697,
-          "grail_pct": 2.01,
-          "chase_pct": 17.07
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.877,
@@ -21532,6 +21518,20 @@
           "remaining": 541,
           "grail_pct": 2.03,
           "chase_pct": 17.38
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.884,
+          "remaining": 541,
+          "grail_pct": 2.03,
+          "chase_pct": 17.38
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.884,
+          "remaining": 541,
+          "grail_pct": 2.03,
+          "chase_pct": 17.38
         }
       ]
     },
@@ -21540,20 +21540,6 @@
       "sport": "pokemon",
       "price": 150,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.795,
-          "remaining": 1497,
-          "grail_pct": 1.34,
-          "chase_pct": 12.49
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.795,
-          "remaining": 1497,
-          "grail_pct": 1.34,
-          "chase_pct": 12.49
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.795,
@@ -22897,6 +22883,20 @@
           "remaining": 1487,
           "grail_pct": 1.14,
           "chase_pct": 12.44
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.803,
+          "remaining": 1487,
+          "grail_pct": 1.14,
+          "chase_pct": 12.44
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.803,
+          "remaining": 1487,
+          "grail_pct": 1.14,
+          "chase_pct": 12.44
         }
       ]
     },
@@ -22905,20 +22905,6 @@
       "sport": "baseball",
       "price": 250,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.887,
-          "remaining": 194,
-          "grail_pct": 0.52,
-          "chase_pct": 19.07
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.887,
-          "remaining": 194,
-          "grail_pct": 0.52,
-          "chase_pct": 19.07
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.887,
@@ -24269,6 +24255,20 @@
           "remaining": 155,
           "grail_pct": 0.65,
           "chase_pct": 18.71
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.91,
+          "remaining": 155,
+          "grail_pct": 0.65,
+          "chase_pct": 18.71
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.91,
+          "remaining": 155,
+          "grail_pct": 0.65,
+          "chase_pct": 18.71
         }
       ]
     },
@@ -24277,20 +24277,6 @@
       "sport": "football",
       "price": 75,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.977,
-          "remaining": 11,
-          "grail_pct": 0,
-          "chase_pct": 36.36
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.977,
-          "remaining": 11,
-          "grail_pct": 0,
-          "chase_pct": 36.36
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.977,
@@ -25641,6 +25627,20 @@
           "remaining": 176,
           "grail_pct": 1.14,
           "chase_pct": 12.5
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.731,
+          "remaining": 176,
+          "grail_pct": 1.14,
+          "chase_pct": 12.5
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.731,
+          "remaining": 176,
+          "grail_pct": 1.14,
+          "chase_pct": 12.5
         }
       ]
     },
@@ -25649,20 +25649,6 @@
       "sport": "mixed",
       "price": 500,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.974,
-          "remaining": 49,
-          "grail_pct": 2.04,
-          "chase_pct": 14.29
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.974,
-          "remaining": 49,
-          "grail_pct": 2.04,
-          "chase_pct": 14.29
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.974,
@@ -27009,6 +26995,20 @@
         },
         {
           "timestamp": "2026-03-16T08:34:39.539Z",
+          "ev_ratio": 0.988,
+          "remaining": 48,
+          "grail_pct": 2.08,
+          "chase_pct": 14.58
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.988,
+          "remaining": 48,
+          "grail_pct": 2.08,
+          "chase_pct": 14.58
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
           "ev_ratio": 0.988,
           "remaining": 48,
           "grail_pct": 2.08,
@@ -27022,20 +27022,6 @@
       "price": 120,
       "data": [
         {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
           "remaining": 0,
@@ -28385,6 +28371,20 @@
           "remaining": 0,
           "grail_pct": 0,
           "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
         }
       ]
     },
@@ -28393,20 +28393,6 @@
       "sport": "baseball",
       "price": 500,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.792,
-          "remaining": 484,
-          "grail_pct": 1.65,
-          "chase_pct": 11.98
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.792,
-          "remaining": 484,
-          "grail_pct": 1.65,
-          "chase_pct": 11.98
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.792,
@@ -29757,6 +29743,20 @@
           "remaining": 399,
           "grail_pct": 1.25,
           "chase_pct": 11.78
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.78,
+          "remaining": 399,
+          "grail_pct": 1.25,
+          "chase_pct": 11.78
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.78,
+          "remaining": 399,
+          "grail_pct": 1.25,
+          "chase_pct": 11.78
         }
       ]
     },
@@ -29765,20 +29765,6 @@
       "sport": "pokemon",
       "price": 250,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.809,
-          "remaining": 888,
-          "grail_pct": 1.35,
-          "chase_pct": 12.39
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.809,
-          "remaining": 887,
-          "grail_pct": 1.35,
-          "chase_pct": 12.4
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.809,
@@ -31129,6 +31115,20 @@
           "remaining": 818,
           "grail_pct": 1.34,
           "chase_pct": 12.35
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.812,
+          "remaining": 818,
+          "grail_pct": 1.34,
+          "chase_pct": 12.35
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.812,
+          "remaining": 818,
+          "grail_pct": 1.34,
+          "chase_pct": 12.35
         }
       ]
     },
@@ -31137,20 +31137,6 @@
       "sport": "mixed",
       "price": 60,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
@@ -32494,6 +32480,20 @@
           "remaining": 0,
           "grail_pct": 0,
           "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
         }
       ]
     },
@@ -32502,20 +32502,6 @@
       "sport": "og_pokemon",
       "price": 400,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
@@ -33866,6 +33852,20 @@
           "remaining": 0,
           "grail_pct": 0,
           "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
         }
       ]
     },
@@ -33874,20 +33874,6 @@
       "sport": "basketball",
       "price": 150,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.829,
-          "remaining": 461,
-          "grail_pct": 2.17,
-          "chase_pct": 14.97
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.829,
-          "remaining": 461,
-          "grail_pct": 2.17,
-          "chase_pct": 14.97
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.829,
@@ -35238,6 +35224,20 @@
           "remaining": 366,
           "grail_pct": 1.91,
           "chase_pct": 15.57
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.835,
+          "remaining": 366,
+          "grail_pct": 1.91,
+          "chase_pct": 15.57
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.835,
+          "remaining": 366,
+          "grail_pct": 1.91,
+          "chase_pct": 15.57
         }
       ]
     },
@@ -35246,20 +35246,6 @@
       "sport": "football",
       "price": 150,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.805,
-          "remaining": 409,
-          "grail_pct": 1.96,
-          "chase_pct": 12.22
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.805,
-          "remaining": 409,
-          "grail_pct": 1.96,
-          "chase_pct": 12.22
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.805,
@@ -36610,6 +36596,20 @@
           "remaining": 265,
           "grail_pct": 2.26,
           "chase_pct": 11.7
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.837,
+          "remaining": 265,
+          "grail_pct": 2.26,
+          "chase_pct": 11.7
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.837,
+          "remaining": 265,
+          "grail_pct": 2.26,
+          "chase_pct": 11.7
         }
       ]
     },
@@ -36618,20 +36618,6 @@
       "sport": "pokemon",
       "price": 120,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
@@ -37982,6 +37968,20 @@
           "remaining": 0,
           "grail_pct": 0,
           "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
         }
       ]
     },
@@ -37990,20 +37990,6 @@
       "sport": "pokemon",
       "price": 75,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0.876,
-          "remaining": 97,
-          "grail_pct": 3.09,
-          "chase_pct": 10.31
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0.876,
-          "remaining": 97,
-          "grail_pct": 3.09,
-          "chase_pct": 10.31
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0.876,
@@ -39354,6 +39340,20 @@
           "remaining": 458,
           "grail_pct": 1.75,
           "chase_pct": 12.23
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0.746,
+          "remaining": 458,
+          "grail_pct": 1.75,
+          "chase_pct": 12.23
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
+          "ev_ratio": 0.746,
+          "remaining": 458,
+          "grail_pct": 1.75,
+          "chase_pct": 12.23
         }
       ]
     },
@@ -39362,20 +39362,6 @@
       "sport": "og_pokemon",
       "price": 120,
       "data": [
-        {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
         {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
@@ -40722,6 +40708,20 @@
         },
         {
           "timestamp": "2026-03-16T08:34:39.539Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
           "ev_ratio": 0,
           "remaining": 0,
           "grail_pct": 0,
@@ -40735,20 +40735,6 @@
       "price": 400,
       "data": [
         {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
           "remaining": 0,
@@ -42094,6 +42080,20 @@
         },
         {
           "timestamp": "2026-03-16T08:34:39.539Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
           "ev_ratio": 0,
           "remaining": 0,
           "grail_pct": 0,
@@ -42107,20 +42107,6 @@
       "price": 800,
       "data": [
         {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
           "remaining": 0,
@@ -43466,6 +43452,20 @@
         },
         {
           "timestamp": "2026-03-16T08:34:39.539Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
           "ev_ratio": 0,
           "remaining": 0,
           "grail_pct": 0,
@@ -43479,20 +43479,6 @@
       "price": 60,
       "data": [
         {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
           "remaining": 0,
@@ -44838,6 +44824,20 @@
         },
         {
           "timestamp": "2026-03-16T08:34:39.539Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
           "ev_ratio": 0,
           "remaining": 0,
           "grail_pct": 0,
@@ -44851,20 +44851,6 @@
       "price": 119.2,
       "data": [
         {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
           "remaining": 0,
@@ -46210,6 +46196,20 @@
         },
         {
           "timestamp": "2026-03-16T08:34:39.539Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
           "ev_ratio": 0,
           "remaining": 0,
           "grail_pct": 0,
@@ -46223,20 +46223,6 @@
       "price": 60,
       "data": [
         {
-          "timestamp": "2026-03-14T08:34:40.669Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
-          "timestamp": "2026-03-14T09:02:16.295Z",
-          "ev_ratio": 0,
-          "remaining": 0,
-          "grail_pct": 0,
-          "chase_pct": 0
-        },
-        {
           "timestamp": "2026-03-14T09:04:33.698Z",
           "ev_ratio": 0,
           "remaining": 0,
@@ -47582,6 +47568,20 @@
         },
         {
           "timestamp": "2026-03-16T08:34:39.539Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:02:10.540Z",
+          "ev_ratio": 0,
+          "remaining": 0,
+          "grail_pct": 0,
+          "chase_pct": 0
+        },
+        {
+          "timestamp": "2026-03-16T09:04:21.076Z",
           "ev_ratio": 0,
           "remaining": 0,
           "grail_pct": 0,
@@ -47619,6 +47619,24 @@
       "price": 75
     },
     {
+      "pack_name": "Basketball: Ultra Pack $500",
+      "sport": "basketball",
+      "current_ev": 0.958,
+      "yesterday_ev": 0.917,
+      "change": 0.040999999999999925,
+      "change_percent": 4.471101417666294,
+      "price": 500
+    },
+    {
+      "pack_name": "Baseball: Mega Pack $250",
+      "sport": "baseball",
+      "current_ev": 0.91,
+      "yesterday_ev": 0.873,
+      "change": 0.03700000000000003,
+      "change_percent": 4.238258877434139,
+      "price": 250
+    },
+    {
       "pack_name": "Baseball: Super Pack $150",
       "sport": "baseball",
       "current_ev": 0.838,
@@ -47626,15 +47644,6 @@
       "change": 0.03699999999999992,
       "change_percent": 4.619225967540564,
       "price": 150
-    },
-    {
-      "pack_name": "Baseball: Mega Pack $250",
-      "sport": "baseball",
-      "current_ev": 0.91,
-      "yesterday_ev": 0.878,
-      "change": 0.03200000000000003,
-      "change_percent": 3.6446469248291606,
-      "price": 250
     },
     {
       "pack_name": "Football: Mega Pack $250",
@@ -47688,15 +47697,6 @@
       "yesterday_ev": 0.974,
       "change": 0.014000000000000012,
       "change_percent": 1.4373716632443545,
-      "price": 500
-    },
-    {
-      "pack_name": "Basketball: Ultra Pack $500",
-      "sport": "basketball",
-      "current_ev": 0.931,
-      "yesterday_ev": 0.917,
-      "change": 0.014000000000000012,
-      "change_percent": 1.5267175572519098,
       "price": 500
     },
     {
@@ -47891,11 +47891,11 @@
   ],
   "historical_stats": {
     "total_snapshots": 195,
-    "earliest_timestamp": "2026-03-14T08:34:40.669Z",
-    "latest_timestamp": "2026-03-16T08:34:39.539Z",
-    "avg_ev_ratio": 0.5347627856365629,
+    "earliest_timestamp": "2026-03-14T09:04:33.698Z",
+    "latest_timestamp": "2026-03-16T09:04:21.076Z",
+    "avg_ev_ratio": 0.5347191046168205,
     "total_packs": 33,
-    "time_range_hours": 47.99968611111111
+    "time_range_hours": 47.99649388888889
   },
   "packs": [
     {

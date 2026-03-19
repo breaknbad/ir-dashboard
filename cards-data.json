@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T03:04:28.834Z",
+  "timestamp": "2026-03-19T03:34:24.397Z",
   "packs": [
     {
       "productId": "8d4c37f8-5d96-490e-b9ff-64b5fd836cb4",
@@ -352,6 +352,54 @@
           "valueDisplay": "$1,200.51",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldzTlRmZjNYdWQ2a00zSzRBNWJRc3VBZThNV0tQRm94N0paMmNUc0hUdW9DL1loYW9BSmxSRVQxdnZNa3lOdjZaRU5JaGptZHBmUlVpRTlKR1BFUVN3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjMxNjljOGZhOGNmNjdlZmUwZmNmNzc4MjdhYjA2ZDUwMDZkZWY0Mjk2ZTk5MzVhMWIyNDE3NDFkMjNjNmNlMGEifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldzTlRmZjNYdWQ2a00zSzRBNWJRc3VBZThNV0tQRm94N0paMmNUc0hUdXBDM0lMQ1oyZElPUWRGbUJ2Z2xoRi80OTJYMit5U2h4ZUlXRlJjVWJWSXBRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjU1OGU3OWVmYTE0MmJhZmE3ZDMxNDhkMGY0ZTdhMjI3NWJjY2RhNDIwM2VjZTM0OTI2M2I0ZGE4MTcyYWJhNzUifQ=="
+        }
+      ]
+    },
+    {
+      "productId": "5c595d46-eeba-4bbc-bdff-8e8d27b78260",
+      "repackId": "77667e71-06f0-43a3-91be-c59527044bc3",
+      "title": "Football: Ultra Pack $500",
+      "price": 500,
+      "evRatio": 1,
+      "trueEV": 499.94,
+      "remaining": {
+        "GRAIL": 1,
+        "CHASE": 2,
+        "BASE": 13
+      },
+      "totalRemaining": 16,
+      "odds": {
+        "grail": 6.25,
+        "chase": 12.5,
+        "base": 81.25
+      },
+      "cards": [
+        {
+          "id": "495a7216-1909-11f1-b195-5addbb8da812",
+          "title": "2000 Bowman Football Tom Brady ROOKIE #236 BGS 9 MINT",
+          "tier": "GRAIL",
+          "value": 202500,
+          "valueDisplay": "$2,025.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd0a3g1T28wSjBWUmRwMTYzdW9MaDdnTDVNYVhKTjdkaVdScE1rVW9vSFpWclNaaCsrV0VTN3JLZXUrdjBKL2xMbEw5M0hmWlZkV2ZKdVVwNDAyZGp3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjM1OWJhZGY5ZDliNmMyMTJiYzhmODcyOWZlODY2ZDI0OTJiM2I1N2RiNzNmM2E0OTY2ZGM1NWI2NGU1MGVmMDIifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd0a3g1T28wSjBWUmRwMTYzdW9MaDdnTDVNYVhKTjdkaVdScE1rVW9vSFlUZWVPcStYTE1Oand4NVNNNiswYndnZE5DQzBzNWdoalpTcnpoMXlycVhBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjkzZDYwNDQ4OGNhZjdjYzc4YjRlMmEwZTZlMTI0NDZkNzU2NzFiNmFjZDNjMzg3ZDI5ZGRhZmRhZTQzZTIyNTQifQ=="
+        },
+        {
+          "id": "495aaaec-1909-11f1-95ca-5addbb8da812",
+          "title": "1998 Fleer Brilliants 24-Karat Gold Jake Reed /24 #68TG PSA 7 NRMT",
+          "tier": "CHASE",
+          "value": 72800,
+          "valueDisplay": "$728.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkFRaDBzZ0dhNk5VQk5lODhIbXZSa0VHTXM3UXJRZ2VUNHVRZU5rN2VlS1hyeVFtS24xL25SUmZzVkdhTXBkS1BHM0FvM21DLzBhTEpoVXhaUUxTcXVRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImExNTNlYzUzZjQzOGQyMTYwNDg4M2I2YWYyYWE0ZWM0Y2ZkMjFlYjdmNDdhNDYyNjdlOWI0NTk2ZTY3YWMxMDAifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkFRaDBzZ0dhNk5VQk5lODhIbXZSa0VHTXM3UXJRZ2VUNHVRZU5rN2VlS1d2cnF1aG9tT0t3QXNOWms1bnV5RXFSazVPRVkrdGZJRHB5Tkp3SVhUZ2JBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImQ0Yjg0ZjY3NGYzOTVhMmYxZTY3MTg4NTdlNmFkZWUxNTNkNTVjMGJiNzdiZWNlZTlkZDY2YWUwNDA3MjQ0MzQifQ=="
+        },
+        {
+          "id": "495c6b52-1909-11f1-855d-5addbb8da812",
+          "title": "2022 Select Prime Selections Black Laundry Prizm Christian Watson ROOKE PATCH AUTO 1/1 PSA 9",
+          "tier": "CHASE",
+          "value": 69100,
+          "valueDisplay": "$691.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkpUcENpVW53ZTh2emtXdytGRHhmcVhMVjkva01hWDV6eW01OE5NMnNKTFRYUlltVkdmcXZCeE13Ly9mQkZSZDVzc0J0M1ZIMXRXeHkveThZeThLQjlnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjBjZjIyY2JhZjk3OTRlZDdlMzJjNDc3YmQ1ZjY4MGRkODZmNTZlMTUwNjMzMWZlM2I1Mjg0NTYwNDU1NjQ0YzAifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkpUcENpVW53ZTh2emtXdytGRHhmcVhMVjkva01hWDV6eW01OE5NMnNKTFI1THVwMTdYNEllMExEV2pXQkg0cklIVFpBb3hTLzJEUEtVdWN6YnBHeHF3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjcyY2JlNTkxZjg0YTk5MmI0NzcwYzU2OTcxZjJkZTJlNjE0N2NmM2UyMzRjYjU0ZjFkNTkxZTE3ZmQ2MWQ5N2UifQ=="
         }
       ]
     },
@@ -1541,6 +1589,102 @@
       ]
     },
     {
+      "productId": "39f78c3d-30e1-411b-9aac-ae21dc1b6798",
+      "repackId": "01ae9ffd-060f-461c-9e1e-b917eaf47b7a",
+      "title": "Football: Ultra Pack $500",
+      "price": 500,
+      "evRatio": 0.953,
+      "trueEV": 476.73,
+      "remaining": {
+        "GRAIL": 0,
+        "CHASE": 3,
+        "BASE": 12
+      },
+      "totalRemaining": 15,
+      "odds": {
+        "grail": 0,
+        "chase": 20,
+        "base": 80
+      },
+      "cards": [
+        {
+          "id": "4782e780-ea5f-11f0-949c-0a9fa6976011",
+          "title": "2024 Panini Prizm Purple Ice Jayden Daniels ROOKIE /225 #347 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 135000,
+          "valueDisplay": "$1,350.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkRtWUhsUWgyZ0x6N3hPL1Noai9nQUVJeHVHaDJObTE2Z3ZoWkhzc0lPQXlxWlJBVmlBNStkNFJ3ZFNXNlU3M3ZJZllUSUppcEtVOThSWGxoMHFoMUpBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImNhZjlhYWMyOWFhNWEyZjllOTRkMDkzNDU5ODc4NjI3ZDRmMzBlZTg2NjhmZTNiYWJkYTQwZTg5NjViNzIyMGUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkRtWUhsUWgyZ0x6N3hPL1Noai9nQUVJeHVHaDJObTE2Z3ZoWkhzc0lPQXlhRVIybXZlc213dW16ci9obG5LSzRFWUNMMDkzVktZZjhrQ3E5VVUvbXJRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjYzNjBlZGM1MjE1YzhlNDkyZjc1NDljNjMxNWM2YTU3Nzc2NDQzMzk4ZGM0YzM2MjgyZWRlNGRiYWRkMzllYjkifQ=="
+        },
+        {
+          "id": "47685d2a-ea5f-11f0-9292-0a9fa6976011",
+          "title": "2017 Donruss Football Patrick Mahomes II ROOKIE RC #327 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 126000,
+          "valueDisplay": "$1,260.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOGZpQTlTZXJOL2R3eXJ4V1pUdlM0ZElYOHR3WnhDM3dpcndDaDA5bFJ5emNoMllDYXRkNml4NTQwSUluQzExdVVRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjY5ZmUyOTU3YzIxYjM3MjI3OTIxMzEzNTY1MjhiOWRmZGM5YzJjNmMwMTY1MTk1ZmQyOWRhZjE3YzFhYTAzMmMifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOGZpQTlTZXJOL2R3eXJ4V1pUdlM0ZEsxc05XenhNRU9qVHkrL0VXajBzbHhPS0F3TU1CMDJNTjhxcGsyYVE4bjRBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImM4OWE2YzYzYTAyMmFjNjRlNWRhZmRlMGMwMjZjZDhhMzkyZTQwYzEzZjVhMTNlYzNhMGM5OTM3YWFkMzFiODQifQ=="
+        },
+        {
+          "id": "478c9faa-ea5f-11f0-ac05-0a9fa6976011",
+          "title": "2023 Select XRC Caleb Williams ROOKIE #501 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 108000,
+          "valueDisplay": "$1,080.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZNZ0VqdGg1WExDUENyejd4Q2NnVS9MUXBBY05MUEE1cGtlZXV0RTR3a3M1S0hyWjdSSzJJK2k2RzFsSGliM0FvRWJESVFQUkVFbVdEV0NpRjlWYW9nPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjAxYzRlODZhZjVmODEzN2Y4ZGYyZGEyNjRjMWQzZDc5YmZhNzdmNDNlYjNhNzUwYTJlMzA0ZWU3NWExMDgxM2YifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZNZ0VqdGg1WExDUENyejd4Q2NnVS9MUXBBY05MUEE1cGtlZXV0RTR3a3RMMU5XVzZQK1E5YnhneWlRUU1mNVY3YW5WY1ltTHFEVHJpeVJacVFoNlFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE5YjJlMjE5NDY1ZTFiYjY5NDMzMTZkYWExYTVmNTM4NDAwODUwMGRjNGJlMzEzYmZiNWQzMmRjZmJjZDkzZDUifQ=="
+        }
+      ]
+    },
+    {
+      "productId": "39f78c3d-30e1-411b-9aac-ae21dc1b6798",
+      "repackId": "01ae9ffd-060f-461c-9e1e-b917eaf47b7a",
+      "title": "Football: Ultra Pack $500",
+      "price": 500,
+      "evRatio": 0.953,
+      "trueEV": 476.73,
+      "remaining": {
+        "GRAIL": 0,
+        "CHASE": 3,
+        "BASE": 12
+      },
+      "totalRemaining": 15,
+      "odds": {
+        "grail": 0,
+        "chase": 20,
+        "base": 80
+      },
+      "cards": [
+        {
+          "id": "4782e780-ea5f-11f0-949c-0a9fa6976011",
+          "title": "2024 Panini Prizm Purple Ice Jayden Daniels ROOKIE /225 #347 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 135000,
+          "valueDisplay": "$1,350.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkRtWUhsUWgyZ0x6N3hPL1Noai9nQUVJeHVHaDJObTE2Z3ZoWkhzc0lPQXlxWlJBVmlBNStkNFJ3ZFNXNlU3M3ZJZllUSUppcEtVOThSWGxoMHFoMUpBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImNhZjlhYWMyOWFhNWEyZjllOTRkMDkzNDU5ODc4NjI3ZDRmMzBlZTg2NjhmZTNiYWJkYTQwZTg5NjViNzIyMGUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkRtWUhsUWgyZ0x6N3hPL1Noai9nQUVJeHVHaDJObTE2Z3ZoWkhzc0lPQXlhRVIybXZlc213dW16ci9obG5LSzRFWUNMMDkzVktZZjhrQ3E5VVUvbXJRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjYzNjBlZGM1MjE1YzhlNDkyZjc1NDljNjMxNWM2YTU3Nzc2NDQzMzk4ZGM0YzM2MjgyZWRlNGRiYWRkMzllYjkifQ=="
+        },
+        {
+          "id": "47685d2a-ea5f-11f0-9292-0a9fa6976011",
+          "title": "2017 Donruss Football Patrick Mahomes II ROOKIE RC #327 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 126000,
+          "valueDisplay": "$1,260.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOGZpQTlTZXJOL2R3eXJ4V1pUdlM0ZElYOHR3WnhDM3dpcndDaDA5bFJ5emNoMllDYXRkNml4NTQwSUluQzExdVVRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjY5ZmUyOTU3YzIxYjM3MjI3OTIxMzEzNTY1MjhiOWRmZGM5YzJjNmMwMTY1MTk1ZmQyOWRhZjE3YzFhYTAzMmMifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOGZpQTlTZXJOL2R3eXJ4V1pUdlM0ZEsxc05XenhNRU9qVHkrL0VXajBzbHhPS0F3TU1CMDJNTjhxcGsyYVE4bjRBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImM4OWE2YzYzYTAyMmFjNjRlNWRhZmRlMGMwMjZjZDhhMzkyZTQwYzEzZjVhMTNlYzNhMGM5OTM3YWFkMzFiODQifQ=="
+        },
+        {
+          "id": "478c9faa-ea5f-11f0-ac05-0a9fa6976011",
+          "title": "2023 Select XRC Caleb Williams ROOKIE #501 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 108000,
+          "valueDisplay": "$1,080.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZNZ0VqdGg1WExDUENyejd4Q2NnVS9MUXBBY05MUEE1cGtlZXV0RTR3a3M1S0hyWjdSSzJJK2k2RzFsSGliM0FvRWJESVFQUkVFbVdEV0NpRjlWYW9nPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjAxYzRlODZhZjVmODEzN2Y4ZGYyZGEyNjRjMWQzZDc5YmZhNzdmNDNlYjNhNzUwYTJlMzA0ZWU3NWExMDgxM2YifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZNZ0VqdGg1WExDUENyejd4Q2NnVS9MUXBBY05MUEE1cGtlZXV0RTR3a3RMMU5XVzZQK1E5YnhneWlRUU1mNVY3YW5WY1ltTHFEVHJpeVJacVFoNlFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE5YjJlMjE5NDY1ZTFiYjY5NDMzMTZkYWExYTVmNTM4NDAwODUwMGRjNGJlMzEzYmZiNWQzMmRjZmJjZDkzZDUifQ=="
+        }
+      ]
+    },
+    {
       "productId": "eee3ae1d-8d3a-494e-8120-ad2473a61079",
       "repackId": "d3f9111d-c4a0-4cbe-94ce-7091c0a71bc2",
       "title": "Baseball: Infinity Pack $1,000",
@@ -1868,69 +2012,12 @@
       ]
     },
     {
-      "productId": "5c595d46-eeba-4bbc-bdff-8e8d27b78260",
-      "repackId": "77667e71-06f0-43a3-91be-c59527044bc3",
-      "title": "Football: Ultra Pack $500",
-      "price": 500,
-      "evRatio": 0.945,
-      "trueEV": 472.29,
-      "remaining": {
-        "GRAIL": 1,
-        "CHASE": 3,
-        "BASE": 20
-      },
-      "totalRemaining": 24,
-      "odds": {
-        "grail": 4.17,
-        "chase": 12.5,
-        "base": 83.33
-      },
-      "cards": [
-        {
-          "id": "495a7216-1909-11f1-b195-5addbb8da812",
-          "title": "2000 Bowman Football Tom Brady ROOKIE #236 BGS 9 MINT",
-          "tier": "GRAIL",
-          "value": 202500,
-          "valueDisplay": "$2,025.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd0a3g1T28wSjBWUmRwMTYzdW9MaDdnTDVNYVhKTjdkaVdScE1rVW9vSFpWclNaaCsrV0VTN3JLZXUrdjBKL2xMbEw5M0hmWlZkV2ZKdVVwNDAyZGp3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjM1OWJhZGY5ZDliNmMyMTJiYzhmODcyOWZlODY2ZDI0OTJiM2I1N2RiNzNmM2E0OTY2ZGM1NWI2NGU1MGVmMDIifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikd0a3g1T28wSjBWUmRwMTYzdW9MaDdnTDVNYVhKTjdkaVdScE1rVW9vSFlUZWVPcStYTE1Oand4NVNNNiswYndnZE5DQzBzNWdoalpTcnpoMXlycVhBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjkzZDYwNDQ4OGNhZjdjYzc4YjRlMmEwZTZlMTI0NDZkNzU2NzFiNmFjZDNjMzg3ZDI5ZGRhZmRhZTQzZTIyNTQifQ=="
-        },
-        {
-          "id": "495aaaec-1909-11f1-95ca-5addbb8da812",
-          "title": "1998 Fleer Brilliants 24-Karat Gold Jake Reed /24 #68TG PSA 7 NRMT",
-          "tier": "CHASE",
-          "value": 72800,
-          "valueDisplay": "$728.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkFRaDBzZ0dhNk5VQk5lODhIbXZSa0VHTXM3UXJRZ2VUNHVRZU5rN2VlS1hyeVFtS24xL25SUmZzVkdhTXBkS1BHM0FvM21DLzBhTEpoVXhaUUxTcXVRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImExNTNlYzUzZjQzOGQyMTYwNDg4M2I2YWYyYWE0ZWM0Y2ZkMjFlYjdmNDdhNDYyNjdlOWI0NTk2ZTY3YWMxMDAifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkFRaDBzZ0dhNk5VQk5lODhIbXZSa0VHTXM3UXJRZ2VUNHVRZU5rN2VlS1d2cnF1aG9tT0t3QXNOWms1bnV5RXFSazVPRVkrdGZJRHB5Tkp3SVhUZ2JBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImQ0Yjg0ZjY3NGYzOTVhMmYxZTY3MTg4NTdlNmFkZWUxNTNkNTVjMGJiNzdiZWNlZTlkZDY2YWUwNDA3MjQ0MzQifQ=="
-        },
-        {
-          "id": "49599e7c-1909-11f1-85ba-5addbb8da812",
-          "title": "2020 Panini Prizm Gold Jauan Jennings ROOKIE AUTO /10 #304 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 69400,
-          "valueDisplay": "$694.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNmeE1jb0E4MmYyNFhWSloxY0k0emtqMFV5ckM1bUxkK2E1TGxvMUVMcjIzd00yeG1welVrSGZPQThwNnp1QXFjbDRoZGx1Z0tEZUtlb01mMmtnTmx3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjFlYTIxMjRkOTYxODNkZGRmYmYwYTA5MjA0YmJiODU2ZjEwYjAxMjY5NDc1NjdmNjU0OTBkYjg5YWQ4OThmMmIifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjNmeE1jb0E4MmYyNFhWSloxY0k0emtqMFV5ckM1bUxkK2E1TGxvMUVMcjFTcU44MW9vMEw4MXNWM3I0aSt5bldSbGxYOStYWVBnNWFxcXVTb21BYlN3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImNhNmM2YWNjMTY4NDdhMTFjNDFmMjNkM2JjODZmOWQzODA3NDNmOTU2NDgxZTUyNzM5NzhiMDU1MTlhY2RjZDgifQ=="
-        },
-        {
-          "id": "495c6b52-1909-11f1-855d-5addbb8da812",
-          "title": "2022 Select Prime Selections Black Laundry Prizm Christian Watson ROOKE PATCH AUTO 1/1 PSA 9",
-          "tier": "CHASE",
-          "value": 69100,
-          "valueDisplay": "$691.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkpUcENpVW53ZTh2emtXdytGRHhmcVhMVjkva01hWDV6eW01OE5NMnNKTFRYUlltVkdmcXZCeE13Ly9mQkZSZDVzc0J0M1ZIMXRXeHkveThZeThLQjlnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjBjZjIyY2JhZjk3OTRlZDdlMzJjNDc3YmQ1ZjY4MGRkODZmNTZlMTUwNjMzMWZlM2I1Mjg0NTYwNDU1NjQ0YzAifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkpUcENpVW53ZTh2emtXdytGRHhmcVhMVjkva01hWDV6eW01OE5NMnNKTFI1THVwMTdYNEllMExEV2pXQkg0cklIVFpBb3hTLzJEUEtVdWN6YnBHeHF3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjcyY2JlNTkxZjg0YTk5MmI0NzcwYzU2OTcxZjJkZTJlNjE0N2NmM2UyMzRjYjU0ZjFkNTkxZTE3ZmQ2MWQ5N2UifQ=="
-        }
-      ]
-    },
-    {
       "productId": "bc5aef09-1a2c-4819-8784-4d52de745fa3",
       "repackId": "775dfe0e-c7b7-4bae-8fae-949258a69c22",
       "title": "Football: Infinity Pack $1,000",
       "price": 1000,
-      "evRatio": 0.945,
-      "trueEV": 945.17,
+      "evRatio": 0.943,
+      "trueEV": 942.93,
       "remaining": {
         "GRAIL": 1,
         "CHASE": 9,
@@ -1953,15 +2040,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IndvUHlFVkl4RXZHWnBkd0tLWnhlWUtCZCtoamVrbGhocXk0ZzNpMlZ1aEo5VmxCcGNhYWVhbllSTHlmUVN3SG55M0E5QnQ4Szc3VGtEWlpSc1ZZak5nPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijc0MDQ0MjVhMWFhZTUwN2NjZjBiMmJhMmM4NDFhYjRiYWEzNGU0ODY3OTRiOTRhMTFiZTI0YWI0YjlkZmU3MTAifQ=="
         },
         {
-          "id": "6795a3ac-214e-11f1-bb1d-66e198633798",
-          "title": "2021 Donruss Downtown Trevor Lawrence ROOKIE #DT-33 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 165500,
-          "valueDisplay": "$1,655.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImVId0dhUm95REd6bUw3ekNaMGI3ZmRKRHlLbEFpWTVoOVZiSTNMSFZkVWhlMU9IUjFGVVgyUGRIUEZibUdRQ2hZeDRjVVFzeVZNSmNETVMyU0J4M2RnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImEzNjBkOGUxYTM5MmRhOWI3MGRkZjQyYTVkMTIzOWQ0MTFiN2NkMmY2MzE0NGMzYTAyY2JiNTVkMzg3YThlNmQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImVId0dhUm95REd6bUw3ekNaMGI3ZmRKRHlLbEFpWTVoOVZiSTNMSFZkVWdEa1dDVTF5Zk96YTlxQlEvaFpEbWFiWkpOeWhHQVdnVEMwQ2lLVi9YVEtnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImM1MWI2YmMyMmYzYjRjNzdmYTdjNjBiOTc1YWVmMTliYThkZGY0MjhhMzQ4NzlhNTQwNTkzMDc1NDc2NDE2OWMifQ=="
-        },
-        {
           "id": "67958e30-214e-11f1-9d98-66e198633798",
           "title": "1959 Topps Football Johnny Unitas #1 SGC 8 NM-MT",
           "tier": "CHASE",
@@ -1969,6 +2047,15 @@
           "valueDisplay": "$1,568.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjdHVDFUMHpvdkJLNmdDeFdOMzQrOFNBTDl0Mm9SUWxvQnJNaDBlNkNOQk9jQ2E1Tmwramh4NUxtbjdPZE1sUmlGNHZld1pqOEd0UVQ1VURXS2YzZFlRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImNiNjc4ZTAwZjJiNjRkYTdmMTUyZTBiNTJkYTY0YmVhYjkzNGVlZTBmNmRmNjNiNjhmOTExZDRlY2U2NTY5MGQifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjdHVDFUMHpvdkJLNmdDeFdOMzQrOFNBTDl0Mm9SUWxvQnJNaDBlNkNOQk85WEw5SkhCcU4xODk3aEp4N0NINkdxQjVjK0U4OU95K2FHa0RERGR6UVZnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjM2NWQ2ZjcxYmU2MmFkYmUwMzg2ZDBlOWQ4YzE3NTBmMzUwNTkxMTQ3YTllNjdhNjc2NWNjMTQ3MjBjN2QzYjAifQ=="
+        },
+        {
+          "id": "6795a3ac-214e-11f1-bb1d-66e198633798",
+          "title": "2021 Donruss Downtown Trevor Lawrence ROOKIE #DT-33 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 155000,
+          "valueDisplay": "$1,550.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImVId0dhUm95REd6bUw3ekNaMGI3ZmRKRHlLbEFpWTVoOVZiSTNMSFZkVWhlMU9IUjFGVVgyUGRIUEZibUdRQ2hZeDRjVVFzeVZNSmNETVMyU0J4M2RnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImEzNjBkOGUxYTM5MmRhOWI3MGRkZjQyYTVkMTIzOWQ0MTFiN2NkMmY2MzE0NGMzYTAyY2JiNTVkMzg3YThlNmQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImVId0dhUm95REd6bUw3ekNaMGI3ZmRKRHlLbEFpWTVoOVZiSTNMSFZkVWdEa1dDVTF5Zk96YTlxQlEvaFpEbWFiWkpOeWhHQVdnVEMwQ2lLVi9YVEtnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImM1MWI2YmMyMmYzYjRjNzdmYTdjNjBiOTc1YWVmMTliYThkZGY0MjhhMzQ4NzlhNTQwNTkzMDc1NDc2NDE2OWMifQ=="
         },
         {
           "id": "6794c996-214e-11f1-b7d8-66e198633798",
@@ -2032,153 +2119,6 @@
           "valueDisplay": "$1,400.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRDRDRReXNzN3FzZEFkQWM1MUJ5NHEwZ04vNkJMZmxKaFBMd2g1akNMbWFvRk1NSFFRUGlCSTJFdngvY2FDKzJtelRVUDVpRWhUaGxzSlYwMEdjcVhBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjUwMmZmNzEzYjg0ZmY0NTllMDVkYjVkMzcwMDQzMzA5MjU2ZGQxZjY3NmZhNDAxMDFiYTUzYWQ2MjVmYzU4ZGMifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRDRDRReXNzN3FzZEFkQWM1MUJ5NHEwZ04vNkJMZmxKaFBMd2g1akNMbWF5YjAvV3NhaU1HSHVKTDVZelRqTkVhUWVzQUhtYkIwc2ZqcmxFdTZXZzJnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjAwNWEyMWU3NWIwZGRkNWI1YTAxMmJjMGRmZTk3MDE4YzM1NGU5NmQ4ZTcwZjNlN2RjMmQwYjY3MmVjM2JiZTAifQ=="
-        }
-      ]
-    },
-    {
-      "productId": "559f77af-4da3-4871-8637-a2fe9073d2f1",
-      "repackId": "d84a98eb-e303-41b6-b5a0-e140ef749a77",
-      "title": "Football: Super Pack $150",
-      "price": 150,
-      "evRatio": 0.938,
-      "trueEV": 140.73,
-      "remaining": {
-        "GRAIL": 2,
-        "CHASE": 12,
-        "BASE": 67
-      },
-      "totalRemaining": 81,
-      "odds": {
-        "grail": 2.47,
-        "chase": 14.81,
-        "base": 82.72
-      },
-      "cards": [
-        {
-          "id": "5bbe7aca-1b24-11f1-9339-8ea9b472eab5",
-          "title": "2023 Panini Prizm Color Blast Justin Herbert #CB11 PSA 10 GEM MINT",
-          "tier": "GRAIL",
-          "value": 110200,
-          "valueDisplay": "$1,102.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldhV0xkUW9hUHVoZWwycUJIdzJHbDdkaGl1Q3g3NXFJOEtWNUpPTnpzRVRPV3BmbkdrTS9PNjJxQXNIR2M4U3NCL3RmY3o5RHB0SEJiclN2Yy9nUDN3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijc5NGE4NmFkNjVhNjdlNTNjM2ZjZWE1NjA3ZDljMTU1ZjA5NDdmYTAxMGM4YzI3ODU0MzY3MTU2NDM2NmJkMzMifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldhV0xkUW9hUHVoZWwycUJIdzJHbDdkaGl1Q3g3NXFJOEtWNUpPTnpzRVFUVW11RktsQjZnSVArUmw2RmpZWkRlL3dEbnZ6Q3hLODZRY0VCcVBzQ2xnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImIxMDA0MWU4ZDM1YjY3ZjVlZGMxMGZmNjkyOTUxZWYxZGIzOTY3Yzc1ZjA0ZWQ4OTNkYmZhMWI3YzRjNjM0ZTQifQ=="
-        },
-        {
-          "id": "4f8bb524-1b24-11f1-a74d-8ea9b472eab5",
-          "title": "2000 Ultra Football Tom Brady ROOKIE #234 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 41000,
-          "valueDisplay": "$410.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudXYyRU9zd2pGTitscG9DWHlIQmFocHk3SitUbW5na0FCTit4dE02WEpmaDdBRG9QKzUrWFVJMDVqL255NVMybDV3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImFlOTk2NGNlM2RmNWMzM2RkZDMwZDMxMWNlZmE3OTQ0YjJiMDNlNmRjMzYwZDUwOTQwNDE4NTg2OGJmNmYwMmUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudXYyRU9zd2pGTitscG9DWHlIQmFocHdBNzFqUDRRRVlqQzJvbjBaekFwcWNmM2lyR0wyR0liNjQxdEh3SVVaQTF3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjRjMzJkNTQ4ODMzODJjOTQ1YTRkNzdiNDcwNzhhMTkwY2M1YTZkYzY1MTYwNWNmMzUwMDQwYjdmMjAxYTMwMzAifQ=="
-        },
-        {
-          "id": "36bcd4a6-1b24-11f1-a0f1-8ea9b472eab5",
-          "title": "2017 Donruss Football Patrick Mahomes II ROOKIE #327 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 34000,
-          "valueDisplay": "$340.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNGaGVSMzNZUGF6cmU2cnJEVGhNOFV4eUdvQTJEa3dKenFHbTgvMUNKSUFwemFBTi9UVTNCR21vUnUyLzEraGVzRStDa0UyWDFQVUxuT0MxN1ZyTUVBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjRhMmViZjA3MzAxNmRlNWVjOGZhMDIzYjhlMjhmYjFmNmZhYjA4NjBkZTRlMTU3NDhiYWU0N2ZkMDE5NWU1NGQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNGaGVSMzNZUGF6cmU2cnJEVGhNOFV4eUdvQTJEa3dKenFHbTgvMUNKSUNCU01pOUtrYXliQ3YwVFcyeTl6RVdsanp5QzZWcG8vajBqOVlrMjBhak93PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjBhZWEzYTZjNjkzNTE4M2JlMDZiMDEyMDI5OTdkNjZjYTg1ZjNmMzNlZTMwODE0NDJhZDZjYmM3YzY2MTU0OTkifQ=="
-        },
-        {
-          "id": "36b3f3d6-1b24-11f1-ace9-8ea9b472eab5",
-          "title": "2024 Donruss Downtown Michael Penix Jr. ROOKIE #14 PSA 8 NM-MT",
-          "tier": "CHASE",
-          "value": 30000,
-          "valueDisplay": "$300.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudW5icElYRFJXd01CZlhhNnNNRG9IOG85cU5zRHJmYmJtd2lHQmV5bWlWazJWSTI4Q3lnYktIQWFyb1MxekY2bU5nPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImJlNDYzMWNjNzg1ZDQ3Nzc5OWEwZDJjZDljYmIzMTVjYjcyNTU3ODA3ZWUyOTU5ZGQxNGRiOTI0MDZhMmMzZjMifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudW5icElYRFJXd01CZlhhNnNNRG9IOHBPMHk2bjlXbGRwZ2p2YUZLcWRkVTdtcnhYeFZxRHAvMkZscS9qNXk3MDJnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjQxZDA0MjIzYzcyOGIzMmNlM2NkNDlkMzU0Y2E1MTM3YzlhZjY0YmMzY2JhZDU5Nzg4OWVkYmEyNGE5MzM1NjgifQ=="
-        },
-        {
-          "id": "5bc5fb10-1b24-11f1-a157-8ea9b472eab5",
-          "title": "2020 Panini Spectra Hyper Justin Herbert ROOKIE /75 #138 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 29400,
-          "valueDisplay": "$294.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudXJhRkwyN2FYT21zcjFtUG14aUdrOTJaUTRyRnB6TGg2b3BiOWJXSXMvYWtEaHZVUWx4VXBDWHRVMkI2S2IyUGNBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImM5YzY3MDRiZDVmOTAzNDNiMTU0ZjU2NjEyMmM3NGM1MzY4ZDUxZDhjMGM1ZDNkOGU2NTJiMDU1ZDNmODM5MzEifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudXJhRkwyN2FYT21zcjFtUG14aUdrOTFreVpSR1k3Q2NPUjJBMmt4WFFpdHZDVmNZdVNRVkNjWVh5S3B3S3pXMWVnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjBjMTM4N2JlYmFlZTE4NWU1ZGNkNjMxOWRmODUyMDhjMjc1NmEwOTk4OTgzMjJjNTBkOTE1NmZhODJjYmM1NTEifQ=="
-        },
-        {
-          "id": "4f8a882a-1b24-11f1-a59c-8ea9b472eab5",
-          "title": "2024 Donruss Optic Downtown! Terry Bradshaw #10 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 29100,
-          "valueDisplay": "$291.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Im5aWXJuS0R1R2FraVcvYnRMOEhFaFJFR3B1d3QwU0xwR0F5Ti9nSGc0M3p2OVprVGRTMTRKeUdHWGhnc1BGYmY0b1Boa1RXeWE0VlhxcmxpNXptdTFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjA5NGRjNDNjYTNiODY0MzkwNmFjOTFhM2NjOTZjMzI4YmFmNzE0ZmFiZGYxNDQxODJmZGM3MTI3YjQ2NDU1NTgifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Im5aWXJuS0R1R2FraVcvYnRMOEhFaFJFR3B1d3QwU0xwR0F5Ti9nSGc0M3hGaWxHWWhGSkV0RHhYT0g5cUh0dW1UYVJHczh5NGEydlFNM01YUWU2RjlBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjUwMDgzMmRlNjlkZjJjZDkwMGZiNGNhOTE2NGEyNDY2YTg1NmU5ZTMxNWYwYTAyMjZmZDBjOTliOTBkZDk1NzUifQ=="
-        },
-        {
-          "id": "5bc65362-1b24-11f1-8778-8ea9b472eab5",
-          "title": "2019 Select '20 XRC Prizm Redemption Justin Jefferson ROOKIE #315 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 29000,
-          "valueDisplay": "$290.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJtV0ZEQldlQ1RQMmhrNGxZbFlwY3ZtRWtOakk5ZXpRaUZsVmZobmJxSkJ2ZXdKTnVHazlMQzY4eTB6UVIrMHY5S1lnV2FzOUdKOTcyOU5WM2VVcHFnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImI1ZGUxMGE0NThiZDQwYWNjNzU1NTRiNDBiOTU2YmQwMWUwYmFkYzQ1MTUyMzE4MDg4OTAyMmEwYTkwNzY3YjYifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJtV0ZEQldlQ1RQMmhrNGxZbFlwY3ZtRWtOakk5ZXpRaUZsVmZobmJxSkMyalVja0xFajI2cE8rSVJWczZzaU1UQUxpRkpUbUpSV0VBbUt5Zzg5ZGFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjI2MDhiZWE5NzUzZjg1ZGM3ZDY5YjYzMDM3Y2I3ZGQwNzFiZGQwZGZjYjg3MDVlMmUyNzBlY2U3NGE0MTczNmUifQ=="
-        },
-        {
-          "id": "4f91ef34-1b24-11f1-9cd1-8ea9b472eab5",
-          "title": "2024 Panini Prizm Color Blast Laiatu Latu ROOKIE #19 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 26700,
-          "valueDisplay": "$267.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOFM3Yi8vc09MbEl3bkxKUWFaQWkzdFBaVTUxZmg5M0l0aUlpODV5c1ZWTzR5Ri9OQ1YyZy9rbSsyS1lEN2tpWEZRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImRlZGIzNTBjYTMyMTljYWYyM2NiNDNjOWNmODcxNDhmNzU5NmE1NWRlZTM3OGI5NGI4MjM4ODQ4ZmRmMTRkZWYifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOFM3Yi8vc09MbEl3bkxKUWFaQWkzdE5MK3VlOFF1TEkrSXlYYTBCaitueC9QTWtOZlZwT3MzMkNka0J6YzFaQm5RPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjI3MzUxNzU3MzYwYWRjMTY2MTdjMTRjM2QwYzYyMmY5NTE4ZGUzY2Q2YmNjZjk4MzMwN2Y0ZGQyZWYxMGFmNmEifQ=="
-        },
-        {
-          "id": "36bc5ac6-1b24-11f1-b676-8ea9b472eab5",
-          "title": "2020 Panini Chronicles Clearly Donruss Rated Red Joe Burrow ROOKIE /199 #RRJB PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 26500,
-          "valueDisplay": "$265.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImJsQ08zUEtORmNJTjY5cVNQcXVsS2FTeTE4S1E0U3JVZGFiNXM5dHpvcFVaWVVLVG00a3VrUGlaVGpSbnRBUUdwajRsUG1FSWl3QjdqcFBGSWI5SWp3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImI0NTZmNDkwNzg2YzYwMWJlNTBkYzkwZTljOTYwMjlmN2VmZTcxY2YxZTY5NjVlMzQzMjM5MTNhNjFjYTU5MzkifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImJsQ08zUEtORmNJTjY5cVNQcXVsS2FTeTE4S1E0U3JVZGFiNXM5dHpvcFdIU0IxK2NRVTZ0RGJhUzQ0TlhhR2ZraGRNelVFby9XaHRXZklrbWNKS3l3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImYwNmU3MmJiMzI2ZjUyZmZiZjJkNjg1NGU3MGFmM2ExNWJhOWQ1ZDQ4ZGE4NTk3MjZiMzVmNDI5M2ZiODM1MGMifQ=="
-        },
-        {
-          "id": "4f8f6dc2-1b24-11f1-bec2-8ea9b472eab5",
-          "title": "2003 Topps Pristine Gold Refractor Anquan Boldin ROOKIE /75 #51 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 26500,
-          "valueDisplay": "$265.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik9BV3ZZczhlNHVkYXB2QlliRHlFZVhlaUFGTGFZZ0g4TkdrbjR3WXZtRS9JbHRiZkl5STNtY1VJV0QrZXh0NTVJVVZhelZlV1lUUDVxT1oydkJlczBRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImJjZWI4MDM2YmFlZjAzNjZlMmZhOWVhYWQ1MzhlZGY4YjY0NmM3ZDA3NWJmYTAyN2VlZTdmMjZhZTY0ZDA1ZGQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik9BV3ZZczhlNHVkYXB2QlliRHlFZVhlaUFGTGFZZ0g4TkdrbjR3WXZtRThMOHprYnBqZGtuc3BsdE5za0ZsV3FwSWRtWURGcVNEeGVvMXRoTk9HOGh3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjY3OTQ5YzVjYzAwMGFlNDczN2FkYzViMWEyNDViYTI4MzhiZDI3ODlhMmNiZjBmNWExZjM0ODllMzNiNTU4NjgifQ=="
-        },
-        {
-          "id": "36b5e952-1b24-11f1-bd27-8ea9b472eab5",
-          "title": "2024 Donruss Optic Sunday Kings Black Pandora Dak Prescott /25 #2 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 25600,
-          "valueDisplay": "$256.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFCNXBvMVJDQTlpUVlLaFlweFRzZ1FsOUFobVRSRnY1UVFvTTVodGgwZTJmYWpuYyt4NVFhU09jV3JCQ1FxWDQvSDlNZ0w2YVNqNXBUMUt1bHI1R29BPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImY5MjA4Y2ExNjZjMjJkNjhkZDZjNmFiMjZkYjgyNjA1NDgxN2QwZThhNzRhZWRiZTAyMDkyNmI5ZjQwMTI5OTEifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFCNXBvMVJDQTlpUVlLaFlweFRzZ1FsOUFobVRSRnY1UVFvTTVodGgwZTNNeEh4V3ZuM2M5K2FETTlScTVaSEJ4UVdHNldFbjE0UXQxNTFIV3g4amh3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjUwM2E5MWQwNDg1MGZjOGMzODQzOGEyNzJjMzk3YTBjNWViYTE2ZWY3ZjFhOTZmZGZmODUyYjljNTIzYmEwMTcifQ=="
-        },
-        {
-          "id": "5bc38902-1b24-11f1-b618-8ea9b472eab5",
-          "title": "2018 Select Signatures Gold Prizm Travis Kelce AUTO DNA 9 /10 #SPTK PSA 9 MINT",
-          "tier": "GRAIL",
-          "value": 0,
-          "valueDisplay": "$0",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjR6NXdtRXRhVTlKR1FmWHRDZ1pkZ25ZanBoMmhPRDJZZnlvUHZFQVhkc2FGZDgyR0VLTTFBc3c0clFiU3NJWEJDM0NPdUdiemUrQTRITzJPSnZHRk1BPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImMwY2Q5Nzg2NWI0NWVkNDg2Y2EyMTAxZDY5YjQxNmUwOWU2MTA2ZjY3MmQzMzI5Nzk2OGVlZTRjNzEwMGUyNDgifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjR6NXdtRXRhVTlKR1FmWHRDZ1pkZ25ZanBoMmhPRDJZZnlvUHZFQVhkc1prN2x5WjdVT0huUHArMTdwY0Fid0lvK2cvQmFPdkxEaFhpa0xWYWxNY1ZRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjRlODBkMzFkMzgzOGMxYzc3ZjE2NzgwODcyMmZkZmVjNWFkYThmZTA3NDQ3YWVjY2ExNWVjZDE5ODE2NjMwZjMifQ=="
-        },
-        {
-          "id": "36b79d4c-1b24-11f1-9e62-8ea9b472eab5",
-          "title": "2021 National Treasures Treasured Moments Holo Gold Justin Herbert AUTO DNA 10 /10 #JH2 PSA 9",
-          "tier": "CHASE",
-          "value": 0,
-          "valueDisplay": "$0",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ildmc2RMb0QrcGJFbkN3N0pXdDRESXRNNGJUM0ZRNlJzU0lNQmRsWGhwMXNwN2QrQksxWmhXdzgzZlRyeGdqVnZEa0Y2c3FUVVArT2dLWFBBankzWTV3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjA2MDczZjEwMTlmY2ExMjMxOTdkYThlOTE1ZWU0ZGQxZTNjMmJkMDVkMDk3MjcxMDg5MGQ5YzI5ODIwNTI0NDYifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ildmc2RMb0QrcGJFbkN3N0pXdDRESXRNNGJUM0ZRNlJzU0lNQmRsWGhwMXQycHpvcWh1cTdDUVhYMzFCd3BUNnpVOVRTVnZLenNvRDNxcTZuQS9zOVBnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImY4YTcwNTQxOGYxZjcwZjlmZTQ5ODU5ZGYwNDAwMmQ5YmYyNWM3MTUzZDkwYjY2NDVmZTY3ZjdmZTFhOTc5ZmYifQ=="
-        },
-        {
-          "id": "5bbf7808-1b24-11f1-a689-8ea9b472eab5",
-          "title": "2021 Donruss Optic Legendary Logos Gold Patrick Mahomes II /10 #LL10 PSA 8 NM-MT",
-          "tier": "CHASE",
-          "value": 0,
-          "valueDisplay": "$0",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkYyM1d2ODBGUGtMdy9KUDV4QzJ3V2ZMSEN0cHlQdVdkLzV3TlZJU3ppSmsyQzlGQ2t6S0FVWll1NG9vM1RxV2NrMVE1SnNSOTBjd2NXSWc0TlJrZ0JBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjdhMmJhZDEzYmM4NmFhMzU2NjY2N2UzMGJjYjlhZjMzMGY3ZWEzMDU1NjExMmRjYTdhNjhjZTgzMWJlNGViNzkifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkYyM1d2ODBGUGtMdy9KUDV4QzJ3V2ZMSEN0cHlQdVdkLzV3TlZJU3ppSm5kYzVrMm9vMlBIUTZjcmNJcWJOeG1BbFVYMDM2KzZaaUt6NENPd1dwbDFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImQwYjBkZmNlMzA3OTc1ZDdhMTdlNjkwZmE0NWFiYzViMTg0NzljYTdmMGZhODJmZTFmMzliYmFhZmM0NDIxMmEifQ=="
         }
       ]
     },
@@ -2267,98 +2207,131 @@
       ]
     },
     {
-      "productId": "39f78c3d-30e1-411b-9aac-ae21dc1b6798",
-      "repackId": "01ae9ffd-060f-461c-9e1e-b917eaf47b7a",
-      "title": "Football: Ultra Pack $500",
-      "price": 500,
-      "evRatio": 0.921,
-      "trueEV": 460.66,
+      "productId": "559f77af-4da3-4871-8637-a2fe9073d2f1",
+      "repackId": "d84a98eb-e303-41b6-b5a0-e140ef749a77",
+      "title": "Football: Super Pack $150",
+      "price": 150,
+      "evRatio": 0.928,
+      "trueEV": 139.22,
       "remaining": {
-        "GRAIL": 0,
-        "CHASE": 3,
-        "BASE": 13
+        "GRAIL": 2,
+        "CHASE": 10,
+        "BASE": 62
       },
-      "totalRemaining": 16,
+      "totalRemaining": 74,
       "odds": {
-        "grail": 0,
-        "chase": 18.75,
-        "base": 81.25
+        "grail": 2.7,
+        "chase": 13.51,
+        "base": 83.78
       },
       "cards": [
         {
-          "id": "4782e780-ea5f-11f0-949c-0a9fa6976011",
-          "title": "2024 Panini Prizm Purple Ice Jayden Daniels ROOKIE /225 #347 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 135000,
-          "valueDisplay": "$1,350.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkRtWUhsUWgyZ0x6N3hPL1Noai9nQUVJeHVHaDJObTE2Z3ZoWkhzc0lPQXlxWlJBVmlBNStkNFJ3ZFNXNlU3M3ZJZllUSUppcEtVOThSWGxoMHFoMUpBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImNhZjlhYWMyOWFhNWEyZjllOTRkMDkzNDU5ODc4NjI3ZDRmMzBlZTg2NjhmZTNiYWJkYTQwZTg5NjViNzIyMGUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkRtWUhsUWgyZ0x6N3hPL1Noai9nQUVJeHVHaDJObTE2Z3ZoWkhzc0lPQXlhRVIybXZlc213dW16ci9obG5LSzRFWUNMMDkzVktZZjhrQ3E5VVUvbXJRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjYzNjBlZGM1MjE1YzhlNDkyZjc1NDljNjMxNWM2YTU3Nzc2NDQzMzk4ZGM0YzM2MjgyZWRlNGRiYWRkMzllYjkifQ=="
+          "id": "5bbe7aca-1b24-11f1-9339-8ea9b472eab5",
+          "title": "2023 Panini Prizm Color Blast Justin Herbert #CB11 PSA 10 GEM MINT",
+          "tier": "GRAIL",
+          "value": 110200,
+          "valueDisplay": "$1,102.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldhV0xkUW9hUHVoZWwycUJIdzJHbDdkaGl1Q3g3NXFJOEtWNUpPTnpzRVRPV3BmbkdrTS9PNjJxQXNIR2M4U3NCL3RmY3o5RHB0SEJiclN2Yy9nUDN3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijc5NGE4NmFkNjVhNjdlNTNjM2ZjZWE1NjA3ZDljMTU1ZjA5NDdmYTAxMGM4YzI3ODU0MzY3MTU2NDM2NmJkMzMifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldhV0xkUW9hUHVoZWwycUJIdzJHbDdkaGl1Q3g3NXFJOEtWNUpPTnpzRVFUVW11RktsQjZnSVArUmw2RmpZWkRlL3dEbnZ6Q3hLODZRY0VCcVBzQ2xnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImIxMDA0MWU4ZDM1YjY3ZjVlZGMxMGZmNjkyOTUxZWYxZGIzOTY3Yzc1ZjA0ZWQ4OTNkYmZhMWI3YzRjNjM0ZTQifQ=="
         },
         {
-          "id": "47685d2a-ea5f-11f0-9292-0a9fa6976011",
-          "title": "2017 Donruss Football Patrick Mahomes II ROOKIE RC #327 PSA 10 GEM MINT",
+          "id": "4f8bb524-1b24-11f1-a74d-8ea9b472eab5",
+          "title": "2000 Ultra Football Tom Brady ROOKIE #234 PSA 9 MINT",
           "tier": "CHASE",
-          "value": 126000,
-          "valueDisplay": "$1,260.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOGZpQTlTZXJOL2R3eXJ4V1pUdlM0ZElYOHR3WnhDM3dpcndDaDA5bFJ5emNoMllDYXRkNml4NTQwSUluQzExdVVRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjY5ZmUyOTU3YzIxYjM3MjI3OTIxMzEzNTY1MjhiOWRmZGM5YzJjNmMwMTY1MTk1ZmQyOWRhZjE3YzFhYTAzMmMifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOGZpQTlTZXJOL2R3eXJ4V1pUdlM0ZEsxc05XenhNRU9qVHkrL0VXajBzbHhPS0F3TU1CMDJNTjhxcGsyYVE4bjRBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImM4OWE2YzYzYTAyMmFjNjRlNWRhZmRlMGMwMjZjZDhhMzkyZTQwYzEzZjVhMTNlYzNhMGM5OTM3YWFkMzFiODQifQ=="
+          "value": 41000,
+          "valueDisplay": "$410.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudXYyRU9zd2pGTitscG9DWHlIQmFocHk3SitUbW5na0FCTit4dE02WEpmaDdBRG9QKzUrWFVJMDVqL255NVMybDV3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImFlOTk2NGNlM2RmNWMzM2RkZDMwZDMxMWNlZmE3OTQ0YjJiMDNlNmRjMzYwZDUwOTQwNDE4NTg2OGJmNmYwMmUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudXYyRU9zd2pGTitscG9DWHlIQmFocHdBNzFqUDRRRVlqQzJvbjBaekFwcWNmM2lyR0wyR0liNjQxdEh3SVVaQTF3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjRjMzJkNTQ4ODMzODJjOTQ1YTRkNzdiNDcwNzhhMTkwY2M1YTZkYzY1MTYwNWNmMzUwMDQwYjdmMjAxYTMwMzAifQ=="
         },
         {
-          "id": "478c9faa-ea5f-11f0-ac05-0a9fa6976011",
-          "title": "2023 Select XRC Caleb Williams ROOKIE #501 PSA 10 GEM MINT",
+          "id": "36b3f3d6-1b24-11f1-ace9-8ea9b472eab5",
+          "title": "2024 Donruss Downtown Michael Penix Jr. ROOKIE #14 PSA 8 NM-MT",
           "tier": "CHASE",
-          "value": 108000,
-          "valueDisplay": "$1,080.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZNZ0VqdGg1WExDUENyejd4Q2NnVS9MUXBBY05MUEE1cGtlZXV0RTR3a3M1S0hyWjdSSzJJK2k2RzFsSGliM0FvRWJESVFQUkVFbVdEV0NpRjlWYW9nPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjAxYzRlODZhZjVmODEzN2Y4ZGYyZGEyNjRjMWQzZDc5YmZhNzdmNDNlYjNhNzUwYTJlMzA0ZWU3NWExMDgxM2YifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZNZ0VqdGg1WExDUENyejd4Q2NnVS9MUXBBY05MUEE1cGtlZXV0RTR3a3RMMU5XVzZQK1E5YnhneWlRUU1mNVY3YW5WY1ltTHFEVHJpeVJacVFoNlFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE5YjJlMjE5NDY1ZTFiYjY5NDMzMTZkYWExYTVmNTM4NDAwODUwMGRjNGJlMzEzYmZiNWQzMmRjZmJjZDkzZDUifQ=="
-        }
-      ]
-    },
-    {
-      "productId": "39f78c3d-30e1-411b-9aac-ae21dc1b6798",
-      "repackId": "01ae9ffd-060f-461c-9e1e-b917eaf47b7a",
-      "title": "Football: Ultra Pack $500",
-      "price": 500,
-      "evRatio": 0.921,
-      "trueEV": 460.66,
-      "remaining": {
-        "GRAIL": 0,
-        "CHASE": 3,
-        "BASE": 13
-      },
-      "totalRemaining": 16,
-      "odds": {
-        "grail": 0,
-        "chase": 18.75,
-        "base": 81.25
-      },
-      "cards": [
-        {
-          "id": "4782e780-ea5f-11f0-949c-0a9fa6976011",
-          "title": "2024 Panini Prizm Purple Ice Jayden Daniels ROOKIE /225 #347 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 135000,
-          "valueDisplay": "$1,350.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkRtWUhsUWgyZ0x6N3hPL1Noai9nQUVJeHVHaDJObTE2Z3ZoWkhzc0lPQXlxWlJBVmlBNStkNFJ3ZFNXNlU3M3ZJZllUSUppcEtVOThSWGxoMHFoMUpBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImNhZjlhYWMyOWFhNWEyZjllOTRkMDkzNDU5ODc4NjI3ZDRmMzBlZTg2NjhmZTNiYWJkYTQwZTg5NjViNzIyMGUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkRtWUhsUWgyZ0x6N3hPL1Noai9nQUVJeHVHaDJObTE2Z3ZoWkhzc0lPQXlhRVIybXZlc213dW16ci9obG5LSzRFWUNMMDkzVktZZjhrQ3E5VVUvbXJRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjYzNjBlZGM1MjE1YzhlNDkyZjc1NDljNjMxNWM2YTU3Nzc2NDQzMzk4ZGM0YzM2MjgyZWRlNGRiYWRkMzllYjkifQ=="
+          "value": 30000,
+          "valueDisplay": "$300.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudW5icElYRFJXd01CZlhhNnNNRG9IOG85cU5zRHJmYmJtd2lHQmV5bWlWazJWSTI4Q3lnYktIQWFyb1MxekY2bU5nPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImJlNDYzMWNjNzg1ZDQ3Nzc5OWEwZDJjZDljYmIzMTVjYjcyNTU3ODA3ZWUyOTU5ZGQxNGRiOTI0MDZhMmMzZjMifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudW5icElYRFJXd01CZlhhNnNNRG9IOHBPMHk2bjlXbGRwZ2p2YUZLcWRkVTdtcnhYeFZxRHAvMkZscS9qNXk3MDJnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjQxZDA0MjIzYzcyOGIzMmNlM2NkNDlkMzU0Y2E1MTM3YzlhZjY0YmMzY2JhZDU5Nzg4OWVkYmEyNGE5MzM1NjgifQ=="
         },
         {
-          "id": "47685d2a-ea5f-11f0-9292-0a9fa6976011",
-          "title": "2017 Donruss Football Patrick Mahomes II ROOKIE RC #327 PSA 10 GEM MINT",
+          "id": "5bc5fb10-1b24-11f1-a157-8ea9b472eab5",
+          "title": "2020 Panini Spectra Hyper Justin Herbert ROOKIE /75 #138 PSA 10 GEM MINT",
           "tier": "CHASE",
-          "value": 126000,
-          "valueDisplay": "$1,260.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOGZpQTlTZXJOL2R3eXJ4V1pUdlM0ZElYOHR3WnhDM3dpcndDaDA5bFJ5emNoMllDYXRkNml4NTQwSUluQzExdVVRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjY5ZmUyOTU3YzIxYjM3MjI3OTIxMzEzNTY1MjhiOWRmZGM5YzJjNmMwMTY1MTk1ZmQyOWRhZjE3YzFhYTAzMmMifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOGZpQTlTZXJOL2R3eXJ4V1pUdlM0ZEsxc05XenhNRU9qVHkrL0VXajBzbHhPS0F3TU1CMDJNTjhxcGsyYVE4bjRBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImM4OWE2YzYzYTAyMmFjNjRlNWRhZmRlMGMwMjZjZDhhMzkyZTQwYzEzZjVhMTNlYzNhMGM5OTM3YWFkMzFiODQifQ=="
+          "value": 29400,
+          "valueDisplay": "$294.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudXJhRkwyN2FYT21zcjFtUG14aUdrOTJaUTRyRnB6TGg2b3BiOWJXSXMvYWtEaHZVUWx4VXBDWHRVMkI2S2IyUGNBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImM5YzY3MDRiZDVmOTAzNDNiMTU0ZjU2NjEyMmM3NGM1MzY4ZDUxZDhjMGM1ZDNkOGU2NTJiMDU1ZDNmODM5MzEifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ikp3MkZWSHVRbSsySi9xYkFLOURudXJhRkwyN2FYT21zcjFtUG14aUdrOTFreVpSR1k3Q2NPUjJBMmt4WFFpdHZDVmNZdVNRVkNjWVh5S3B3S3pXMWVnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjBjMTM4N2JlYmFlZTE4NWU1ZGNkNjMxOWRmODUyMDhjMjc1NmEwOTk4OTgzMjJjNTBkOTE1NmZhODJjYmM1NTEifQ=="
         },
         {
-          "id": "478c9faa-ea5f-11f0-ac05-0a9fa6976011",
-          "title": "2023 Select XRC Caleb Williams ROOKIE #501 PSA 10 GEM MINT",
+          "id": "4f8a882a-1b24-11f1-a59c-8ea9b472eab5",
+          "title": "2024 Donruss Optic Downtown! Terry Bradshaw #10 PSA 10 GEM MINT",
           "tier": "CHASE",
-          "value": 108000,
-          "valueDisplay": "$1,080.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZNZ0VqdGg1WExDUENyejd4Q2NnVS9MUXBBY05MUEE1cGtlZXV0RTR3a3M1S0hyWjdSSzJJK2k2RzFsSGliM0FvRWJESVFQUkVFbVdEV0NpRjlWYW9nPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjAxYzRlODZhZjVmODEzN2Y4ZGYyZGEyNjRjMWQzZDc5YmZhNzdmNDNlYjNhNzUwYTJlMzA0ZWU3NWExMDgxM2YifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZNZ0VqdGg1WExDUENyejd4Q2NnVS9MUXBBY05MUEE1cGtlZXV0RTR3a3RMMU5XVzZQK1E5YnhneWlRUU1mNVY3YW5WY1ltTHFEVHJpeVJacVFoNlFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE5YjJlMjE5NDY1ZTFiYjY5NDMzMTZkYWExYTVmNTM4NDAwODUwMGRjNGJlMzEzYmZiNWQzMmRjZmJjZDkzZDUifQ=="
+          "value": 29100,
+          "valueDisplay": "$291.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Im5aWXJuS0R1R2FraVcvYnRMOEhFaFJFR3B1d3QwU0xwR0F5Ti9nSGc0M3p2OVprVGRTMTRKeUdHWGhnc1BGYmY0b1Boa1RXeWE0VlhxcmxpNXptdTFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjA5NGRjNDNjYTNiODY0MzkwNmFjOTFhM2NjOTZjMzI4YmFmNzE0ZmFiZGYxNDQxODJmZGM3MTI3YjQ2NDU1NTgifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Im5aWXJuS0R1R2FraVcvYnRMOEhFaFJFR3B1d3QwU0xwR0F5Ti9nSGc0M3hGaWxHWWhGSkV0RHhYT0g5cUh0dW1UYVJHczh5NGEydlFNM01YUWU2RjlBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjUwMDgzMmRlNjlkZjJjZDkwMGZiNGNhOTE2NGEyNDY2YTg1NmU5ZTMxNWYwYTAyMjZmZDBjOTliOTBkZDk1NzUifQ=="
+        },
+        {
+          "id": "5bc65362-1b24-11f1-8778-8ea9b472eab5",
+          "title": "2019 Select '20 XRC Prizm Redemption Justin Jefferson ROOKIE #315 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 29000,
+          "valueDisplay": "$290.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJtV0ZEQldlQ1RQMmhrNGxZbFlwY3ZtRWtOakk5ZXpRaUZsVmZobmJxSkJ2ZXdKTnVHazlMQzY4eTB6UVIrMHY5S1lnV2FzOUdKOTcyOU5WM2VVcHFnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImI1ZGUxMGE0NThiZDQwYWNjNzU1NTRiNDBiOTU2YmQwMWUwYmFkYzQ1MTUyMzE4MDg4OTAyMmEwYTkwNzY3YjYifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJtV0ZEQldlQ1RQMmhrNGxZbFlwY3ZtRWtOakk5ZXpRaUZsVmZobmJxSkMyalVja0xFajI2cE8rSVJWczZzaU1UQUxpRkpUbUpSV0VBbUt5Zzg5ZGFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjI2MDhiZWE5NzUzZjg1ZGM3ZDY5YjYzMDM3Y2I3ZGQwNzFiZGQwZGZjYjg3MDVlMmUyNzBlY2U3NGE0MTczNmUifQ=="
+        },
+        {
+          "id": "4f91ef34-1b24-11f1-9cd1-8ea9b472eab5",
+          "title": "2024 Panini Prizm Color Blast Laiatu Latu ROOKIE #19 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 26700,
+          "valueDisplay": "$267.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOFM3Yi8vc09MbEl3bkxKUWFaQWkzdFBaVTUxZmg5M0l0aUlpODV5c1ZWTzR5Ri9OQ1YyZy9rbSsyS1lEN2tpWEZRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImRlZGIzNTBjYTMyMTljYWYyM2NiNDNjOWNmODcxNDhmNzU5NmE1NWRlZTM3OGI5NGI4MjM4ODQ4ZmRmMTRkZWYifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlZTblZoZnFJMEg1S2Jxc1F2VG9TOFM3Yi8vc09MbEl3bkxKUWFaQWkzdE5MK3VlOFF1TEkrSXlYYTBCaitueC9QTWtOZlZwT3MzMkNka0J6YzFaQm5RPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjI3MzUxNzU3MzYwYWRjMTY2MTdjMTRjM2QwYzYyMmY5NTE4ZGUzY2Q2YmNjZjk4MzMwN2Y0ZGQyZWYxMGFmNmEifQ=="
+        },
+        {
+          "id": "36bc5ac6-1b24-11f1-b676-8ea9b472eab5",
+          "title": "2020 Panini Chronicles Clearly Donruss Rated Red Joe Burrow ROOKIE /199 #RRJB PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 26500,
+          "valueDisplay": "$265.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImJsQ08zUEtORmNJTjY5cVNQcXVsS2FTeTE4S1E0U3JVZGFiNXM5dHpvcFVaWVVLVG00a3VrUGlaVGpSbnRBUUdwajRsUG1FSWl3QjdqcFBGSWI5SWp3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImI0NTZmNDkwNzg2YzYwMWJlNTBkYzkwZTljOTYwMjlmN2VmZTcxY2YxZTY5NjVlMzQzMjM5MTNhNjFjYTU5MzkifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImJsQ08zUEtORmNJTjY5cVNQcXVsS2FTeTE4S1E0U3JVZGFiNXM5dHpvcFdIU0IxK2NRVTZ0RGJhUzQ0TlhhR2ZraGRNelVFby9XaHRXZklrbWNKS3l3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImYwNmU3MmJiMzI2ZjUyZmZiZjJkNjg1NGU3MGFmM2ExNWJhOWQ1ZDQ4ZGE4NTk3MjZiMzVmNDI5M2ZiODM1MGMifQ=="
+        },
+        {
+          "id": "36b5e952-1b24-11f1-bd27-8ea9b472eab5",
+          "title": "2024 Donruss Optic Sunday Kings Black Pandora Dak Prescott /25 #2 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 25600,
+          "valueDisplay": "$256.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFCNXBvMVJDQTlpUVlLaFlweFRzZ1FsOUFobVRSRnY1UVFvTTVodGgwZTJmYWpuYyt4NVFhU09jV3JCQ1FxWDQvSDlNZ0w2YVNqNXBUMUt1bHI1R29BPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImY5MjA4Y2ExNjZjMjJkNjhkZDZjNmFiMjZkYjgyNjA1NDgxN2QwZThhNzRhZWRiZTAyMDkyNmI5ZjQwMTI5OTEifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFCNXBvMVJDQTlpUVlLaFlweFRzZ1FsOUFobVRSRnY1UVFvTTVodGgwZTNNeEh4V3ZuM2M5K2FETTlScTVaSEJ4UVdHNldFbjE0UXQxNTFIV3g4amh3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjUwM2E5MWQwNDg1MGZjOGMzODQzOGEyNzJjMzk3YTBjNWViYTE2ZWY3ZjFhOTZmZGZmODUyYjljNTIzYmEwMTcifQ=="
+        },
+        {
+          "id": "5bc38902-1b24-11f1-b618-8ea9b472eab5",
+          "title": "2018 Select Signatures Gold Prizm Travis Kelce AUTO DNA 9 /10 #SPTK PSA 9 MINT",
+          "tier": "GRAIL",
+          "value": 0,
+          "valueDisplay": "$0",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjR6NXdtRXRhVTlKR1FmWHRDZ1pkZ25ZanBoMmhPRDJZZnlvUHZFQVhkc2FGZDgyR0VLTTFBc3c0clFiU3NJWEJDM0NPdUdiemUrQTRITzJPSnZHRk1BPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImMwY2Q5Nzg2NWI0NWVkNDg2Y2EyMTAxZDY5YjQxNmUwOWU2MTA2ZjY3MmQzMzI5Nzk2OGVlZTRjNzEwMGUyNDgifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjR6NXdtRXRhVTlKR1FmWHRDZ1pkZ25ZanBoMmhPRDJZZnlvUHZFQVhkc1prN2x5WjdVT0huUHArMTdwY0Fid0lvK2cvQmFPdkxEaFhpa0xWYWxNY1ZRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjRlODBkMzFkMzgzOGMxYzc3ZjE2NzgwODcyMmZkZmVjNWFkYThmZTA3NDQ3YWVjY2ExNWVjZDE5ODE2NjMwZjMifQ=="
+        },
+        {
+          "id": "36b79d4c-1b24-11f1-9e62-8ea9b472eab5",
+          "title": "2021 National Treasures Treasured Moments Holo Gold Justin Herbert AUTO DNA 10 /10 #JH2 PSA 9",
+          "tier": "CHASE",
+          "value": 0,
+          "valueDisplay": "$0",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ildmc2RMb0QrcGJFbkN3N0pXdDRESXRNNGJUM0ZRNlJzU0lNQmRsWGhwMXNwN2QrQksxWmhXdzgzZlRyeGdqVnZEa0Y2c3FUVVArT2dLWFBBankzWTV3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjA2MDczZjEwMTlmY2ExMjMxOTdkYThlOTE1ZWU0ZGQxZTNjMmJkMDVkMDk3MjcxMDg5MGQ5YzI5ODIwNTI0NDYifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ildmc2RMb0QrcGJFbkN3N0pXdDRESXRNNGJUM0ZRNlJzU0lNQmRsWGhwMXQycHpvcWh1cTdDUVhYMzFCd3BUNnpVOVRTVnZLenNvRDNxcTZuQS9zOVBnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImY4YTcwNTQxOGYxZjcwZjlmZTQ5ODU5ZGYwNDAwMmQ5YmYyNWM3MTUzZDkwYjY2NDVmZTY3ZjdmZTFhOTc5ZmYifQ=="
+        },
+        {
+          "id": "5bbf7808-1b24-11f1-a689-8ea9b472eab5",
+          "title": "2021 Donruss Optic Legendary Logos Gold Patrick Mahomes II /10 #LL10 PSA 8 NM-MT",
+          "tier": "CHASE",
+          "value": 0,
+          "valueDisplay": "$0",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkYyM1d2ODBGUGtMdy9KUDV4QzJ3V2ZMSEN0cHlQdVdkLzV3TlZJU3ppSmsyQzlGQ2t6S0FVWll1NG9vM1RxV2NrMVE1SnNSOTBjd2NXSWc0TlJrZ0JBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjdhMmJhZDEzYmM4NmFhMzU2NjY2N2UzMGJjYjlhZjMzMGY3ZWEzMDU1NjExMmRjYTdhNjhjZTgzMWJlNGViNzkifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkYyM1d2ODBGUGtMdy9KUDV4QzJ3V2ZMSEN0cHlQdVdkLzV3TlZJU3ppSm5kYzVrMm9vMlBIUTZjcmNJcWJOeG1BbFVYMDM2KzZaaUt6NENPd1dwbDFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImQwYjBkZmNlMzA3OTc1ZDdhMTdlNjkwZmE0NWFiYzViMTg0NzljYTdmMGZhODJmZTFmMzliYmFhZmM0NDIxMmEifQ=="
         }
       ]
     },
@@ -2367,18 +2340,18 @@
       "repackId": "5e62f657-7cc5-4111-9f47-75ba61ec8ec8",
       "title": "Pokemon: $75",
       "price": 75,
-      "evRatio": 0.917,
-      "trueEV": 68.74,
+      "evRatio": 0.9,
+      "trueEV": 67.51,
       "remaining": {
         "GRAIL": 1,
-        "CHASE": 10,
-        "BASE": 42
+        "CHASE": 9,
+        "BASE": 41
       },
-      "totalRemaining": 53,
+      "totalRemaining": 51,
       "odds": {
-        "grail": 1.89,
-        "chase": 18.87,
-        "base": 79.25
+        "grail": 1.96,
+        "chase": 17.65,
+        "base": 80.39
       },
       "cards": [
         {
@@ -2463,15 +2436,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Im5TRjQvUkJHSjE1QVRQK2dQcWs2MDYxL24wUXhLSDhGaWNCUzJndFBZTmJNTDIydVloeXp6OUpIeENBWjRSY3MyU0R5R0FRQS8zYXZUNkc1dmUwSVlnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjQzOTU0MTczY2JiYTA0Mjc0OGEwNTYxYzc3YjIzYmIxNWNmNzM2MDViZjE5NzUwNDQ0MzliYjc3OGQ2ZjUxODgifQ=="
         },
         {
-          "id": "1fb89c8a-20a2-11f1-a043-9e3a7345d875",
-          "title": "2023 Pokemon Sword & Shield Crown Zenith Alt Art Entei V #GG36 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 14000,
-          "valueDisplay": "$140.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImJQOWgzMHFWTEpucW1GeE9LaVMyQ3BncW9HbXBDc04wS3hQQVJsWGJqL1RPeDVjMVIvZFE1RXc3eGVlSkZhWFFNVlpka05LZ0VmNElVdXFNbHdYMThnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImYwODFiM2FkMTFjMWRjYWJhZWUxMTgxMjBiMWMwNGQxZGIxM2UyNWNlOGI1NGE3MzFiODY3OWZiY2UxMjczMGEifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImJQOWgzMHFWTEpucW1GeE9LaVMyQ3BncW9HbXBDc04wS3hQQVJsWGJqL1RUYWk2SmRUR3piQ2dmRnlDaEUyWERxb0dXRGVyc0J2RG83dWc3NElCcDFRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjUyMmUzNmE1NTk4NGNjZGI4NzZkMDMzYjdiNTY4OTFmOTYxZTdmMzlhMmEyODYzNDcyOWE5ODAyNDFkYzczN2UifQ=="
-        },
-        {
           "id": "0fe49e9e-20a2-11f1-8f1e-9e3a7345d875",
           "title": "2023 Pokemon Scarlet & Violet Paldea Evolved SIR Iono #269 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -2479,6 +2443,135 @@
           "valueDisplay": "$137.50",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkpUcENpVW53ZTh2emtXdytGRHhmcVJWdEFINTl3bVN3RVFsTHJOWTlXZVllTDh4eHVXdFBWSmNFamVkZjNnQkZCcmFmUUxKaytPOE1zSTVpdWJsZXl3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImMyNDQ1ZTk0OTE3NmE2NTQzYjIyY2E0NWU2OWFmZjljMmMwNGZkYzE3NjkyNTk1MDYzYjVjODg3Y2I4MTgwOTcifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkpUcENpVW53ZTh2emtXdytGRHhmcVJWdEFINTl3bVN3RVFsTHJOWTlXZVpRVk1mT0RBK1o0RFFVT2s0WFlPVzJSR0drUjBDMG9QNE9VL1JLRWtsMEdBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjZiNDlkN2VmNjBkZjBkZGMzZGQyM2U1YThjYTdlZmU2ZjJkNTcyODMxNjVkNjM2OWMxMTkyZDg4OWY0ZmQ3YzYifQ=="
+        }
+      ]
+    },
+    {
+      "productId": "5e4a5805-f4ae-4c52-8700-f88e9d515162",
+      "repackId": "65c882c7-8bd9-46c9-a085-1a2d05a6aa5b",
+      "title": "Basketball: Ultra Pack $500",
+      "price": 500,
+      "evRatio": 0.898,
+      "trueEV": 448.91,
+      "remaining": {
+        "GRAIL": 2,
+        "CHASE": 10,
+        "BASE": 74
+      },
+      "totalRemaining": 86,
+      "odds": {
+        "grail": 2.33,
+        "chase": 11.63,
+        "base": 86.05
+      },
+      "cards": [
+        {
+          "id": "058dd914-222e-11f1-b128-b62d481277c3",
+          "title": "2008 Topps Chrome Kobe Bryant w/ LeBron James #24 PSA 10 GEM MINT",
+          "tier": "GRAIL",
+          "value": 200000,
+          "valueDisplay": "$2,000.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZjNzZOM24vRVVtbHNFTUQvZWFPSW9Ba285Mkc5eXcycUhoM3NpbzVYMEtsc3c2OWx0ZU1FckhyOHd0QUZ4MXY0M0xiU3JyMjdpOGt6LzVQYVgralJBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjljOTQ3ZmMxNTYyZDQ1Y2JjNTViMjMxYWMxNDBkY2Q1MzA5NmJiYjIwZTdiOGJmZTExMWMxMjVmZDg4MzYxZjcifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZjNzZOM24vRVVtbHNFTUQvZWFPSW9Ba285Mkc5eXcycUhoM3NpbzVYMEpITzAzWnE1T1VaU2MxVCtMNmpnd1FwRUlSZkZXVHYxdCtPZW9hTTV4WkJBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImNjN2I0YTNlNTZhMDVkYmU0MzExYjE3NTY4Y2YyMjNlMTc4NmRlNTM2Y2RiYjkxMDU3NWFiY2U5YWFjMjJkZDMifQ=="
+        },
+        {
+          "id": "058c30c8-222e-11f1-b2fe-b62d481277c3",
+          "title": "2020 Panini Prizm Choice Tiger Stripe Stephen Curry #159 PSA 10 GEM MINT",
+          "tier": "GRAIL",
+          "value": 195800,
+          "valueDisplay": "$1,958.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldVNlpUcy9CcEZCcDF3WitRVGkyb3RLNGl5cGRxNFBoZ0lHMkEwUUprSFVRM0xnTUNZZ0dHTTNzdERRMjNSVTU5aWlIdzB0SmJReHM3N2NxV1lvUXFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjI2NzFiY2JkMDZhNjEzZTRhNzIxNGI3ZTdkZDc1MGFmYzMxMDc5ZTcwMGM2MjE1Nzg2YzAxOGYzYWUwZWMyMGUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldVNlpUcy9CcEZCcDF3WitRVGkyb3RLNGl5cGRxNFBoZ0lHMkEwUUprSFhSbXJJaGlTTUdaM3NReWk1NHdoSzk2T1ZSb3ZOK3FKNFY3ejRrQUxKaUFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImIwZGRjZDc3OWRmZWVkODIzYTc1Y2U2ZmQzNThjODZmZTkyOTRjOTM0MTliYmZkNGZiM2E5ZWM4MWI4NDBiOWQifQ=="
+        },
+        {
+          "id": "058c5508-222e-11f1-8a1d-b62d481277c3",
+          "title": "2017 Panini Prizm Silver Jayson Tatum ROOKIE #16 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 85500,
+          "valueDisplay": "$855.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjE4cWRwVXcvS0orbWE4YVZlTER3WFNUdExNZFNUNzcvOHFYampXMEpnV2EzT3c4b3VVeERBZTNML1prdisxK0plZWMzZkhwb0lQY3FTSDd4d2V2bUV3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijg1ZWFkYjVkNjk0ZmVmYzM1NzkxZDMyMWQ0YjhhYTNjMWYwZTNkN2VmMDg5YmNiMmE0OGU0OWEwNzU4ZDgyN2MifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjE4cWRwVXcvS0orbWE4YVZlTER3WFNUdExNZFNUNzcvOHFYampXMEpnV2FaV0ZMK0JMSHJWd3NjZ1ZWNHdDcjZGSk1GMXdMa3d4T2hMUjMwWXpoc3pnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE2NGZiMmQ5NjE3Zjc1ODM1MGZjNDQ2ZjczNmFjMjk0MDYwZGVjNDFkYzBjOWYzYWRlZjg0ODNiNWU4MmUwODYifQ=="
+        },
+        {
+          "id": "058a52d0-222e-11f1-b303-b62d481277c3",
+          "title": "2013 Panini Prizm Green Stephen Curry #176 PSA 9 MINT",
+          "tier": "CHASE",
+          "value": 81050,
+          "valueDisplay": "$810.50",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlhkVmpyZFdCWE5OYWVnMS82R2hJM1RMbFVJcEswSWdqdkFjRUxTRjkvdG1FU1YrSVpwYkF0YWlnazdFdjhVSldURzRDRFFZTzNuQk5ISVlqN2I2ZTVnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjgzOGU4NTgwZjY2MTIxZDRkYTgyYzVlNTJjZTNlNGJlMzI0YzQ2ZmRlNjAyYTliMTRlMzlkNWNhYmUxY2FlMDMifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlhkVmpyZFdCWE5OYWVnMS82R2hJM1RMbFVJcEswSWdqdkFjRUxTRjkvdGwzS0hJNEgrbzJSUXl5eG5UTG9xeGo3eTJqN05YbXdqL0h5cHZaUVk5RVpBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE5ZmE3NzE1YmU4ZTQzNjU2OGI5ZTI3OGY1MmQ4MzkzMDRlZThlNTk1NGQ4ODNjYWNlZjBkODg3NTk2NDlmNzMifQ=="
+        },
+        {
+          "id": "058d418e-222e-11f1-af79-b62d481277c3",
+          "title": "1997 Flair Showcase Row 1 Michael Jordan #1 PSA 8 NM-MT",
+          "tier": "CHASE",
+          "value": 79729,
+          "valueDisplay": "$797.29",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik9RYWphbEc4dnFpZVN4UWdZOGNWeWJHaTAza0dEYVNTOUc1QmVMTHJmcWRvTlNJT0gvdXo1ZDhJaXk2cjRvZ2tKekZVaGlwT2RTWVl6eDFUOUNLNzhnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjUwYjQ1MDBlMzU4YWQ0ZGJkYzNlM2IyMjE2NjcyNjNiMjA1MzUxMDJiNzJiNWUwYjVhYmQ2NzM2NTY2ZmRlMzcifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik9RYWphbEc4dnFpZVN4UWdZOGNWeWJHaTAza0dEYVNTOUc1QmVMTHJmcWRRYnhGK0Y1RjliQlpTWHd6ZU5oNWFNSUlxWEl4QzBEWmM2MkZ1V0pTVmtRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjRjN2I1NGQ1YzhlZmM4ZTIwZGRlZDg0ODAzOGU1YTc0YjM0MDcyMWVmZDViNzk5OTlhOGEwYTc0ZWY5M2I4NmIifQ=="
+        },
+        {
+          "id": "058b1c7e-222e-11f1-b6e0-b62d481277c3",
+          "title": "1996 Topps Basketball Kobe Bryant ROOKIE #138 SGC 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 77000,
+          "valueDisplay": "$770.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNyMTFnY3d0Qzc5QXY0b1h2blJpc1B4TEtlUUoxUDBLNEdOUUEra3p6MTlLVWdzTUJXRmgrK09obVVwRGoreitCSFNuVUtiWDZxSUdoTUNwTEQ3VXhnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImI0ZWFiNjc0YTRkYzBhNjEwYjRiM2I3MjRkMGEyNGM0ZmRkN2Y1YjVkMjg3YzVjODE5MWIxYjE1MzQyODg4ZDEifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNyMTFnY3d0Qzc5QXY0b1h2blJpc1B4TEtlUUoxUDBLNEdOUUEra3p6MStUNUtHWCttNlM2S3pSNlNXeWFlblZxVDB0WTQwQ0Y2VG9NbFlDZm5BR2JnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijk3YzJhYTI2ZTE0MzA3ZjA3NzBiMDMwNjFjYjE2NDUxMGYzZTYyNzM1ODJhMjYxYWRhZWQwNDI2OWJhNmU1ZDcifQ=="
+        },
+        {
+          "id": "058ca440-222e-11f1-864d-b62d481277c3",
+          "title": "2024 Donruss Optic Downtown Jaylen Brown #15 PSA 9 MINT",
+          "tier": "CHASE",
+          "value": 75000,
+          "valueDisplay": "$750.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYk1NSHlwSTZCWFdJakVEcTkwM1lSSC9IY0dkM0NIdC9jZjlVMjdiSEM2SXhMWWZXMktBTmRTbGdSZ0d6bzBqQ3p3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImVkOTk5Zjg2NTQ3YjMzNDcyMzUwZTQxMWNhMmVhNWQxNzQwMGU5MjkzNTllNzBlNzFlNTBmMjJhMDc5YjVkMTcifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYk1NSHlwSTZCWFdJakVEcTkwM1lSSC9VR1gycHFlaUg2d0lyMU00N2JJbUpSZkwyZEE4WitiQzBHMkVEbmxEejVBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjZjYjc1Yjc4NGYxZTQ5YjVhYmIyZTE1ZWY3ZWZjMzBhY2YzZmE3ZDkwODYyZWU5MGE4Nzk4MmU2ZDdmYzMyYjIifQ=="
+        },
+        {
+          "id": "058b89ac-222e-11f1-b049-b62d481277c3",
+          "title": "2024 Panini Prizm Black Prizmania Paolo Banchero #11 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 74200,
+          "valueDisplay": "$742.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYk1NSHlwSTZCWFdJakVEcTkwM1lSSCtraW4rWXcwYmNWMzEwQlVHeTU2dko3RXpZL0VHOXZLQnZMZzNpTVlXZ0hBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE5NmQyZWNhN2Q2MGMxYTkzMWVkZGFlOTg1MTkxNWU2ODNjNWY5OGQ3ZWRhOWM5ZjZkZmY1NjBkYTQ3MTY1OTYifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYk1NSHlwSTZCWFdJakVEcTkwM1lSSDg2NVRTNUp0dW0rNUd5eDYvV3VqV253bm02MnBjUy9BSGVxM2Q5OWVlU3JBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImRjZDNhYzExMGUzNjU1YjAyYjlhYjBhZDliMmQ0MzgxM2MyZGRlZTRjMGQ5OGNmZGMzMWYxYTU4NzgyZDJkNTMifQ=="
+        },
+        {
+          "id": "058a8da4-222e-11f1-b940-b62d481277c3",
+          "title": "2020 Panini Contenders Optic Veteran Season Ticket Red Allen Iverson AUTO /25 #VTAIV PSA 10",
+          "tier": "CHASE",
+          "value": 72600,
+          "valueDisplay": "$726.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFcVBuWGxkaVlYaHJLSXVzQVVxVi9scXh4U1lpRGtPV0hkNFUya25YKzBTNEZYZ3lrWHEveWlMMjhDY0NZRE1IS1lQS2dTbE5vU2Z3WGVrK1lTbmxBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImUyNzY5Yjc3Yjk0NGI3NWY1NmFkN2ZlZWY4MDUwYzQ1NjQ4MjE5ZTNiMmIyYzAwMjEwODU4MzEyYWJkMjAyNzgifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFcVBuWGxkaVlYaHJLSXVzQVVxVi9scXh4U1lpRGtPV0hkNFUya25YKzFoaUFTK2NjTnRrMnFwUEtVUHZPSDlUTWhYWjdleEhGdnJ6YzlMMGxpVEFnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImMyMGFiNjcxNDQyNjI5ZGY3ZmUyZDkzYmJkMTZmMGYyMTY3ODlmZDVhMTc5YTI2MGRkMjAzYTc4N2M1NjQ2MWUifQ=="
+        },
+        {
+          "id": "058d8824-222e-11f1-a6f5-b62d481277c3",
+          "title": "1995 Collector's Choice Player's Club Platinum Kevin Garnett ROOKIE PSA 8 NM-MT",
+          "tier": "CHASE",
+          "value": 72100,
+          "valueDisplay": "$721.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2MTBIcDV5cHFCd3M4Rlk1dU81MVEyUUNwMDRHdy92V2dLQlgzcXM1a0FTSzR4MXFwV09KZkxoMy9ZSndGT1lNV1BLd2xWVnExZUQyQy82TjRQSUhBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImQ4ZjQwZTdjMmVhOGQwODM3NDEwODVlMWIyYjI2MGQ3MzQwYTg1ODA2MTBkYWRjYjA5ZTJiZThkN2NmNWQ0ZWYifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2MTBIcDV5cHFCd3M4Rlk1dU81MVEyUUNwMDRHdy92V2dLQlgzcXM1a0EyOCtHbjV6Q0J2SUU1SjlKbitsaGpTSnJiaGNVdDg3eS9KMHF0WlpmZlNnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImI1NGJlZjgyZjYzNjdkODYyN2Q4OGY2YTBhNmI4MDFiNDViZWZkNDQ3Y2I1YTQyOWJkMzFmZGRmYmNkNjIwYzYifQ=="
+        },
+        {
+          "id": "058c4c16-222e-11f1-a03b-b62d481277c3",
+          "title": "2023 Panini Prizm Red Ice Victor Wembanyama ROOKIE #136 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 71241,
+          "valueDisplay": "$712.41",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Iktrb1RGdFJzMWpYVk5vUlJxSVVOTlpXOE9Hd2IwbTJ4ZFZTVlNtcExqZ2lZN0NCTFA4ZUw2aFAxdmMxekQvNUIvbGJUbkk4RkpnNytoM3JlTUcrVFR3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjY3MzAwOTc5NzhiYjViZDU2MjdjNDExMjc5Y2E2NWM3YzE4YmI1Y2EzNDk0ZTk0OGZkMjUwMzllMzYxZjFiYmQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Iktrb1RGdFJzMWpYVk5vUlJxSVVOTlpXOE9Hd2IwbTJ4ZFZTVlNtcExqZ2haUVd2UC9TL1MvZSt3aVp1ZmRjRTN0TlVnVWJjazlnVU9kSkxIWm56TEx3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjkyZjQ5MmYwOGRmODQyMTZhN2VlZWEwZWYyZGQ4OGI4ZGEyMzQ3MjdmMmQ4YWQxOTVmYTY4ODQ3NWQ3MjNiNDIifQ=="
+        },
+        {
+          "id": "058c92d4-222e-11f1-be5b-b62d481277c3",
+          "title": "2023 Panini Prizm Orange Ice Victor Wembanyama ROOKIE #136 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 65000,
+          "valueDisplay": "$650.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFcVBuWGxkaVlYaHJLSXVzQVVxVitMalhOVHR1bGVqeVNhVzRYTndQZmd0T2c3V09mUzBrMDV6SDN2U0x4Q3JwR2JDS3dzdjBvTk9sWmtFaGVOTVB3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjAxOTAwZjcyMWI5MTM3ZmUzYTU3NTIyZTVmOGU4Y2FmOWJjNzcwOTQzYjk4ZTc1YjNiZjg0NGJlN2JmMzUxNTQifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFcVBuWGxkaVlYaHJLSXVzQVVxVitMalhOVHR1bGVqeVNhVzRYTndQZmdXNUl5UU1KY0F4RXhpaXJqejdaTlpHVFBKaWJ4cUtNRXRSaGNwTkM0d1ZRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjgyMzhiNTAyOTAwYmFiMWZmNTgwODFhNDA4ZDczOGY5MzgxOWNkNTliNjk2YTJlZTdjZjE5MzE5ZmZiZDRlZTQifQ=="
         }
       ]
     },
@@ -2743,135 +2836,6 @@
           "valueDisplay": "$0",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjhKYXVvbytDdHVNaWltaDBlTCtzWG5ucG5TaWdkN0duYkdBa2xVOS9QMTFwK3dhWnNNOEpKblh4UjRJTFRMTC9nbDFkVFcxUlR0WXhHd25Pck9VYWJRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjgyODlhM2I3ZjdjOTIwODk5YTlkNWI1ZjRmMTYwNzFmMzMxOTUzNTQ0NGViM2RlZGUyNWFiNGVhNDcyNGQ1ZjYifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjhKYXVvbytDdHVNaWltaDBlTCtzWG5ucG5TaWdkN0duYkdBa2xVOS9QMTBmWkk3Uk5rVDMrOGlzY2k2SGxMRVU0ejNNTEpKekpVUHJRZ2FrR2JSZmVBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijk3MDRiOGUxNDhjMTk2MGUxOWU4NTgzOGVhYzQ5ZWJlMDJkMzUxZmQ2ZTNhMWQ3MDgzMGJiZmZiNmE3ZmUyNDIifQ=="
-        }
-      ]
-    },
-    {
-      "productId": "5e4a5805-f4ae-4c52-8700-f88e9d515162",
-      "repackId": "65c882c7-8bd9-46c9-a085-1a2d05a6aa5b",
-      "title": "Basketball: Ultra Pack $500",
-      "price": 500,
-      "evRatio": 0.895,
-      "trueEV": 447.26,
-      "remaining": {
-        "GRAIL": 2,
-        "CHASE": 10,
-        "BASE": 75
-      },
-      "totalRemaining": 87,
-      "odds": {
-        "grail": 2.3,
-        "chase": 11.49,
-        "base": 86.21
-      },
-      "cards": [
-        {
-          "id": "058dd914-222e-11f1-b128-b62d481277c3",
-          "title": "2008 Topps Chrome Kobe Bryant w/ LeBron James #24 PSA 10 GEM MINT",
-          "tier": "GRAIL",
-          "value": 200000,
-          "valueDisplay": "$2,000.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZjNzZOM24vRVVtbHNFTUQvZWFPSW9Ba285Mkc5eXcycUhoM3NpbzVYMEtsc3c2OWx0ZU1FckhyOHd0QUZ4MXY0M0xiU3JyMjdpOGt6LzVQYVgralJBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjljOTQ3ZmMxNTYyZDQ1Y2JjNTViMjMxYWMxNDBkY2Q1MzA5NmJiYjIwZTdiOGJmZTExMWMxMjVmZDg4MzYxZjcifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImZjNzZOM24vRVVtbHNFTUQvZWFPSW9Ba285Mkc5eXcycUhoM3NpbzVYMEpITzAzWnE1T1VaU2MxVCtMNmpnd1FwRUlSZkZXVHYxdCtPZW9hTTV4WkJBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImNjN2I0YTNlNTZhMDVkYmU0MzExYjE3NTY4Y2YyMjNlMTc4NmRlNTM2Y2RiYjkxMDU3NWFiY2U5YWFjMjJkZDMifQ=="
-        },
-        {
-          "id": "058c30c8-222e-11f1-b2fe-b62d481277c3",
-          "title": "2020 Panini Prizm Choice Tiger Stripe Stephen Curry #159 PSA 10 GEM MINT",
-          "tier": "GRAIL",
-          "value": 195800,
-          "valueDisplay": "$1,958.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldVNlpUcy9CcEZCcDF3WitRVGkyb3RLNGl5cGRxNFBoZ0lHMkEwUUprSFVRM0xnTUNZZ0dHTTNzdERRMjNSVTU5aWlIdzB0SmJReHM3N2NxV1lvUXFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjI2NzFiY2JkMDZhNjEzZTRhNzIxNGI3ZTdkZDc1MGFmYzMxMDc5ZTcwMGM2MjE1Nzg2YzAxOGYzYWUwZWMyMGUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldVNlpUcy9CcEZCcDF3WitRVGkyb3RLNGl5cGRxNFBoZ0lHMkEwUUprSFhSbXJJaGlTTUdaM3NReWk1NHdoSzk2T1ZSb3ZOK3FKNFY3ejRrQUxKaUFBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImIwZGRjZDc3OWRmZWVkODIzYTc1Y2U2ZmQzNThjODZmZTkyOTRjOTM0MTliYmZkNGZiM2E5ZWM4MWI4NDBiOWQifQ=="
-        },
-        {
-          "id": "058c5508-222e-11f1-8a1d-b62d481277c3",
-          "title": "2017 Panini Prizm Silver Jayson Tatum ROOKIE #16 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 85500,
-          "valueDisplay": "$855.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjE4cWRwVXcvS0orbWE4YVZlTER3WFNUdExNZFNUNzcvOHFYampXMEpnV2EzT3c4b3VVeERBZTNML1prdisxK0plZWMzZkhwb0lQY3FTSDd4d2V2bUV3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijg1ZWFkYjVkNjk0ZmVmYzM1NzkxZDMyMWQ0YjhhYTNjMWYwZTNkN2VmMDg5YmNiMmE0OGU0OWEwNzU4ZDgyN2MifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjE4cWRwVXcvS0orbWE4YVZlTER3WFNUdExNZFNUNzcvOHFYampXMEpnV2FaV0ZMK0JMSHJWd3NjZ1ZWNHdDcjZGSk1GMXdMa3d4T2hMUjMwWXpoc3pnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE2NGZiMmQ5NjE3Zjc1ODM1MGZjNDQ2ZjczNmFjMjk0MDYwZGVjNDFkYzBjOWYzYWRlZjg0ODNiNWU4MmUwODYifQ=="
-        },
-        {
-          "id": "058a52d0-222e-11f1-b303-b62d481277c3",
-          "title": "2013 Panini Prizm Green Stephen Curry #176 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 81050,
-          "valueDisplay": "$810.50",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlhkVmpyZFdCWE5OYWVnMS82R2hJM1RMbFVJcEswSWdqdkFjRUxTRjkvdG1FU1YrSVpwYkF0YWlnazdFdjhVSldURzRDRFFZTzNuQk5ISVlqN2I2ZTVnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjgzOGU4NTgwZjY2MTIxZDRkYTgyYzVlNTJjZTNlNGJlMzI0YzQ2ZmRlNjAyYTliMTRlMzlkNWNhYmUxY2FlMDMifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlhkVmpyZFdCWE5OYWVnMS82R2hJM1RMbFVJcEswSWdqdkFjRUxTRjkvdGwzS0hJNEgrbzJSUXl5eG5UTG9xeGo3eTJqN05YbXdqL0h5cHZaUVk5RVpBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE5ZmE3NzE1YmU4ZTQzNjU2OGI5ZTI3OGY1MmQ4MzkzMDRlZThlNTk1NGQ4ODNjYWNlZjBkODg3NTk2NDlmNzMifQ=="
-        },
-        {
-          "id": "058d418e-222e-11f1-af79-b62d481277c3",
-          "title": "1997 Flair Showcase Row 1 Michael Jordan #1 PSA 8 NM-MT",
-          "tier": "CHASE",
-          "value": 79729,
-          "valueDisplay": "$797.29",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik9RYWphbEc4dnFpZVN4UWdZOGNWeWJHaTAza0dEYVNTOUc1QmVMTHJmcWRvTlNJT0gvdXo1ZDhJaXk2cjRvZ2tKekZVaGlwT2RTWVl6eDFUOUNLNzhnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjUwYjQ1MDBlMzU4YWQ0ZGJkYzNlM2IyMjE2NjcyNjNiMjA1MzUxMDJiNzJiNWUwYjVhYmQ2NzM2NTY2ZmRlMzcifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik9RYWphbEc4dnFpZVN4UWdZOGNWeWJHaTAza0dEYVNTOUc1QmVMTHJmcWRRYnhGK0Y1RjliQlpTWHd6ZU5oNWFNSUlxWEl4QzBEWmM2MkZ1V0pTVmtRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjRjN2I1NGQ1YzhlZmM4ZTIwZGRlZDg0ODAzOGU1YTc0YjM0MDcyMWVmZDViNzk5OTlhOGEwYTc0ZWY5M2I4NmIifQ=="
-        },
-        {
-          "id": "058b1c7e-222e-11f1-b6e0-b62d481277c3",
-          "title": "1996 Topps Basketball Kobe Bryant ROOKIE #138 SGC 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 77000,
-          "valueDisplay": "$770.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNyMTFnY3d0Qzc5QXY0b1h2blJpc1B4TEtlUUoxUDBLNEdOUUEra3p6MTlLVWdzTUJXRmgrK09obVVwRGoreitCSFNuVUtiWDZxSUdoTUNwTEQ3VXhnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImI0ZWFiNjc0YTRkYzBhNjEwYjRiM2I3MjRkMGEyNGM0ZmRkN2Y1YjVkMjg3YzVjODE5MWIxYjE1MzQyODg4ZDEifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNyMTFnY3d0Qzc5QXY0b1h2blJpc1B4TEtlUUoxUDBLNEdOUUEra3p6MStUNUtHWCttNlM2S3pSNlNXeWFlblZxVDB0WTQwQ0Y2VG9NbFlDZm5BR2JnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijk3YzJhYTI2ZTE0MzA3ZjA3NzBiMDMwNjFjYjE2NDUxMGYzZTYyNzM1ODJhMjYxYWRhZWQwNDI2OWJhNmU1ZDcifQ=="
-        },
-        {
-          "id": "058ca440-222e-11f1-864d-b62d481277c3",
-          "title": "2024 Donruss Optic Downtown Jaylen Brown #15 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 75000,
-          "valueDisplay": "$750.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYk1NSHlwSTZCWFdJakVEcTkwM1lSSC9IY0dkM0NIdC9jZjlVMjdiSEM2SXhMWWZXMktBTmRTbGdSZ0d6bzBqQ3p3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImVkOTk5Zjg2NTQ3YjMzNDcyMzUwZTQxMWNhMmVhNWQxNzQwMGU5MjkzNTllNzBlNzFlNTBmMjJhMDc5YjVkMTcifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYk1NSHlwSTZCWFdJakVEcTkwM1lSSC9VR1gycHFlaUg2d0lyMU00N2JJbUpSZkwyZEE4WitiQzBHMkVEbmxEejVBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjZjYjc1Yjc4NGYxZTQ5YjVhYmIyZTE1ZWY3ZWZjMzBhY2YzZmE3ZDkwODYyZWU5MGE4Nzk4MmU2ZDdmYzMyYjIifQ=="
-        },
-        {
-          "id": "058b89ac-222e-11f1-b049-b62d481277c3",
-          "title": "2024 Panini Prizm Black Prizmania Paolo Banchero #11 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 74200,
-          "valueDisplay": "$742.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYk1NSHlwSTZCWFdJakVEcTkwM1lSSCtraW4rWXcwYmNWMzEwQlVHeTU2dko3RXpZL0VHOXZLQnZMZzNpTVlXZ0hBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImE5NmQyZWNhN2Q2MGMxYTkzMWVkZGFlOTg1MTkxNWU2ODNjNWY5OGQ3ZWRhOWM5ZjZkZmY1NjBkYTQ3MTY1OTYifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYk1NSHlwSTZCWFdJakVEcTkwM1lSSDg2NVRTNUp0dW0rNUd5eDYvV3VqV253bm02MnBjUy9BSGVxM2Q5OWVlU3JBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImRjZDNhYzExMGUzNjU1YjAyYjlhYjBhZDliMmQ0MzgxM2MyZGRlZTRjMGQ5OGNmZGMzMWYxYTU4NzgyZDJkNTMifQ=="
-        },
-        {
-          "id": "058a8da4-222e-11f1-b940-b62d481277c3",
-          "title": "2020 Panini Contenders Optic Veteran Season Ticket Red Allen Iverson AUTO /25 #VTAIV PSA 10",
-          "tier": "CHASE",
-          "value": 72600,
-          "valueDisplay": "$726.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFcVBuWGxkaVlYaHJLSXVzQVVxVi9scXh4U1lpRGtPV0hkNFUya25YKzBTNEZYZ3lrWHEveWlMMjhDY0NZRE1IS1lQS2dTbE5vU2Z3WGVrK1lTbmxBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImUyNzY5Yjc3Yjk0NGI3NWY1NmFkN2ZlZWY4MDUwYzQ1NjQ4MjE5ZTNiMmIyYzAwMjEwODU4MzEyYWJkMjAyNzgifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFcVBuWGxkaVlYaHJLSXVzQVVxVi9scXh4U1lpRGtPV0hkNFUya25YKzFoaUFTK2NjTnRrMnFwUEtVUHZPSDlUTWhYWjdleEhGdnJ6YzlMMGxpVEFnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImMyMGFiNjcxNDQyNjI5ZGY3ZmUyZDkzYmJkMTZmMGYyMTY3ODlmZDVhMTc5YTI2MGRkMjAzYTc4N2M1NjQ2MWUifQ=="
-        },
-        {
-          "id": "058d8824-222e-11f1-a6f5-b62d481277c3",
-          "title": "1995 Collector's Choice Player's Club Platinum Kevin Garnett ROOKIE PSA 8 NM-MT",
-          "tier": "CHASE",
-          "value": 72100,
-          "valueDisplay": "$721.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2MTBIcDV5cHFCd3M4Rlk1dU81MVEyUUNwMDRHdy92V2dLQlgzcXM1a0FTSzR4MXFwV09KZkxoMy9ZSndGT1lNV1BLd2xWVnExZUQyQy82TjRQSUhBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImQ4ZjQwZTdjMmVhOGQwODM3NDEwODVlMWIyYjI2MGQ3MzQwYTg1ODA2MTBkYWRjYjA5ZTJiZThkN2NmNWQ0ZWYifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Inl2MTBIcDV5cHFCd3M4Rlk1dU81MVEyUUNwMDRHdy92V2dLQlgzcXM1a0EyOCtHbjV6Q0J2SUU1SjlKbitsaGpTSnJiaGNVdDg3eS9KMHF0WlpmZlNnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImI1NGJlZjgyZjYzNjdkODYyN2Q4OGY2YTBhNmI4MDFiNDViZWZkNDQ3Y2I1YTQyOWJkMzFmZGRmYmNkNjIwYzYifQ=="
-        },
-        {
-          "id": "058c4c16-222e-11f1-a03b-b62d481277c3",
-          "title": "2023 Panini Prizm Red Ice Victor Wembanyama ROOKIE #136 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 71241,
-          "valueDisplay": "$712.41",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Iktrb1RGdFJzMWpYVk5vUlJxSVVOTlpXOE9Hd2IwbTJ4ZFZTVlNtcExqZ2lZN0NCTFA4ZUw2aFAxdmMxekQvNUIvbGJUbkk4RkpnNytoM3JlTUcrVFR3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjY3MzAwOTc5NzhiYjViZDU2MjdjNDExMjc5Y2E2NWM3YzE4YmI1Y2EzNDk0ZTk0OGZkMjUwMzllMzYxZjFiYmQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Iktrb1RGdFJzMWpYVk5vUlJxSVVOTlpXOE9Hd2IwbTJ4ZFZTVlNtcExqZ2haUVd2UC9TL1MvZSt3aVp1ZmRjRTN0TlVnVWJjazlnVU9kSkxIWm56TEx3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjkyZjQ5MmYwOGRmODQyMTZhN2VlZWEwZWYyZGQ4OGI4ZGEyMzQ3MjdmMmQ4YWQxOTVmYTY4ODQ3NWQ3MjNiNDIifQ=="
-        },
-        {
-          "id": "058c92d4-222e-11f1-be5b-b62d481277c3",
-          "title": "2023 Panini Prizm Orange Ice Victor Wembanyama ROOKIE #136 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 65000,
-          "valueDisplay": "$650.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFcVBuWGxkaVlYaHJLSXVzQVVxVitMalhOVHR1bGVqeVNhVzRYTndQZmd0T2c3V09mUzBrMDV6SDN2U0x4Q3JwR2JDS3dzdjBvTk9sWmtFaGVOTVB3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjAxOTAwZjcyMWI5MTM3ZmUzYTU3NTIyZTVmOGU4Y2FmOWJjNzcwOTQzYjk4ZTc1YjNiZjg0NGJlN2JmMzUxNTQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InhFcVBuWGxkaVlYaHJLSXVzQVVxVitMalhOVHR1bGVqeVNhVzRYTndQZmdXNUl5UU1KY0F4RXhpaXJqejdaTlpHVFBKaWJ4cUtNRXRSaGNwTkM0d1ZRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjgyMzhiNTAyOTAwYmFiMWZmNTgwODFhNDA4ZDczOGY5MzgxOWNkNTliNjk2YTJlZTdjZjE5MzE5ZmZiZDRlZTQifQ=="
         }
       ]
     },
@@ -3702,18 +3666,18 @@
       "repackId": "f147af39-a73f-477e-95da-a7763a4c5b58",
       "title": "Basketball: Super Pack $150",
       "price": 150,
-      "evRatio": 0.872,
-      "trueEV": 130.81,
+      "evRatio": 0.857,
+      "trueEV": 128.49,
       "remaining": {
         "GRAIL": 6,
-        "CHASE": 38,
-        "BASE": 192
+        "CHASE": 34,
+        "BASE": 191
       },
-      "totalRemaining": 236,
+      "totalRemaining": 231,
       "odds": {
-        "grail": 2.54,
-        "chase": 16.1,
-        "base": 81.36
+        "grail": 2.6,
+        "chase": 14.72,
+        "base": 82.68
       },
       "cards": [
         {
@@ -3787,24 +3751,6 @@
           "valueDisplay": "$288.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InkzN0pNWldaTXhDb056MkFoUElKMVEvaWNEOWJwdjJZdVNhNjYwNXZXNE9HL3UrbTNJMThjZmVpWUVDaFRUNUVSRkVEVGZmV2J0QlFVRGszdWU4L0NnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijc0MDY2YTQwYzM4Y2U2MmI4YjIwNGUzMDFjNzIwNmJkZDhlYjIzMDExMGU1OGQ3MzIxN2E3Njg2N2NmMGJiYWQifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InkzN0pNWldaTXhDb056MkFoUElKMVEvaWNEOWJwdjJZdVNhNjYwNXZXNE9EQ3Z5WmZDb1k2NEttbGNoNS96bXFsdFpTblZBcTQrR3ZrenpUZFVwRjlnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImUwMjdhZjdiYmRkNTU3YTBkZjc0ZDE1ODE4M2RlZTBlODI0N2NiYzkxYjg3YzgzMzBkOWMzYTQ4ZmQ0YWZmOTIifQ=="
-        },
-        {
-          "id": "4c4eb546-1f07-11f1-923d-9e3a7345d875",
-          "title": "1993 Hoops 5th Anniversary Michael Jordan #28 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 28800,
-          "valueDisplay": "$288.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlpMOXdTMXlKRVluUHB6UTRHYjY3V0c2WWZET25qS2ZySFJld20xOU1CZVZWbFhJei9SYm5tSXpER05ub2cyb21Sem5ybXQ1QktrbEhKQ0FQZ0wrWHhBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijg4Mjc0OTg3ZDIzZTQ5NmRlYzNmMDBkMDIxM2U4N2E2ODM1NTRlNGE1MmNkMTBjODQxMTYwZmI0MTdjMDgzOTkifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlpMOXdTMXlKRVluUHB6UTRHYjY3V0c2WWZET25qS2ZySFJld20xOU1CZVc1Z2ZuRGF5YU5hM3lFdnFVME45TFB2STBpd1JWaENrVTFKOXg1UjdZSWxBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjgwOGExNGNhNmZkZTgzMjEwMjQyMmM4MmIyODhjNTUxNzA1OTI0YTU0Yjk0NmRhZTEwOWQzMzYwOGZhZmMzY2MifQ=="
-        },
-        {
-          "id": "4c472268-1f07-11f1-b12c-9e3a7345d875",
-          "title": "2024 Panini Prizm WNBA White Sparkle Angel Reese ROOKIE #147 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 28500,
-          "valueDisplay": "$285.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImVZN3hsSjdONktkVzJDanpHa3RadjU0QWNnNW9EQnRhbXg0ajFhK2lzV2pJcDF4VTZpWlJlUkk5bStsTGdzZkg5cW9CYlA0UVViUHdLMzNMeEFKWFh3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjJkMzhhNWJlMzg2NmFjOWM1YTljNzhiYTY4MTUzZTU3NWM1YzZmNGQwZGFjZTQzNDE5ZjRhMTFmY2YzMDdlNGYifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImVZN3hsSjdONktkVzJDanpHa3RadjU0QWNnNW9EQnRhbXg0ajFhK2lzV2pFTFJaeVBDWS9senJlTXV0a1l4cGpqMmxGaDlVd3dJd3FqWVY5S2lWVmlnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImQxYTkxMTQxY2E2MjhhNDJmYmYxMThjYjIxOGM5YTgxMTk4OGVkOTQ3YjVjNjBjOGM1NWE4YTA0NGU2MzUxN2YifQ=="
         },
         {
           "id": "4c4c8578-1f07-11f1-8667-9e3a7345d875",
@@ -4032,15 +3978,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYlBLeGFsN1phRk8rM200eDdlS3dSWkEzbWZOMTNrZlRRUUNYdFRYdURISjN4U2FKeWNzMkdXWThxRUh6QmYxcFBRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjU1Mjc5OTlhZjY2OTc4ZDNmNmRlMGNjMjkyYzRjODJiZGQ5ZmRjYmNiNDYwOWVhNjQxYmQ2NDg0NjU5ODU4NDMifQ=="
         },
         {
-          "id": "4c4b94b0-1f07-11f1-8935-9e3a7345d875",
-          "title": "2003 Bowman Rookies & Stars LeBron James ROOKIE #123 PSA 8 NM-MT",
-          "tier": "CHASE",
-          "value": 26000,
-          "valueDisplay": "$260.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYkxlYm03bStBaittNGJLR3QzdWgrQWwwbUFlNWRCUjdiRTlVVnFHcFlObytLdkgwSXdsOFZGUFN1c1E5bEEwNDhRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijg3YzgxZGJhZGQ2YTgyODBiMTllNjA0ZDYzOTAxMDQ0ZGY5OTc4NDdlM2QxMzk1YTgxNTI5NWNlYzgyYzgzY2YifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkNDRGJaY3hRR1g5MGw0eG1jQmFEYkxlYm03bStBaittNGJLR3QzdWgrQWtQTWdaaVN1alpIUjZsVXgvUzA3YmhZeSszV1p1eWpKL3pnSU9LSkl3Q0xRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImJmMjg2M2EyOWEzMGE0MjI2Zjc3ZjUxYTlhNjA3MTM1ODcyZGFlNmZkMmYzNWIzYmQ2ZGJhNDk1ZTM1YTg2ZDYifQ=="
-        },
-        {
           "id": "5b4b3574-1f07-11f1-a097-9e3a7345d875",
           "title": "1988 Fleer Basketball Michael Jordan ALL STAR #120 PSA 8 NM-MT",
           "tier": "CHASE",
@@ -4086,15 +4023,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjY1K0UxK1oyUWxFMU1GKytRLzBWS2ErcmFwWkRmSXBSOVRUYWx0N2lqMHdlTnhJQlhEQWpQYXdmM2lUMnlKM0V4MlFCYkllM0kwYVF1Y2h5WS9xcnVnPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjhkYzEwM2M4ZGNkN2QwYjVmNmJlMDkzMmFlODE4ZTAyNjA1YTA0ZjRkMmVlZTgyMDUxYjZkYzc2NWQ2YTYxNDYifQ=="
         },
         {
-          "id": "4c4a39f8-1f07-11f1-a8a2-9e3a7345d875",
-          "title": "2021 Panini Prizm Purple Pulsar Cameron Thomas ROOKIE /35 #297 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 24800,
-          "valueDisplay": "$248.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilp3ZEF3ZklWTmQxa2RHWEg3QlU4WDRyV0NlUXlURjhQaWJwNVVCVm1SUG0veTlDTURwTFU5U3VaSHk5OVZ3aTJIM0ZaTkwxS3FxalIvdXVvVHNMYmVBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjYwZTUzNWE0N2U4YzI0OWFmYjJiNTExOWZhYWU4NTFmODhjYzc2MTc4NTU0NzcyMjFkMWMwMDEwZjE3MzYyYjQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ilp3ZEF3ZklWTmQxa2RHWEg3QlU4WDRyV0NlUXlURjhQaWJwNVVCVm1SUG5JeTJ6NEZ3eTJZU29yNFV6dmh2UUJwOFpvN2Jtek9TRlFrdU5PVk4zOGV3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjNlYTljOTI4ZWViN2Q5Mjc5NDZmNTZhMGEyNmQ3Njc2ZDA1MGMxOWI2ZGIxMzc1ODM5MTE2ODYzOTgwMmVkMjQifQ=="
-        },
-        {
           "id": "5b4d337e-1f07-11f1-bbcc-9e3a7345d875",
           "title": "2025 Topps Basketball Kon Knueppel ROOKIE #204 PSA 10 GEM MINT",
           "tier": "CHASE",
@@ -4119,18 +4047,18 @@
       "repackId": "d55af7f2-222f-464e-83fc-4155c7699aa5",
       "title": "Pokemon: Super Pack $150",
       "price": 150,
-      "evRatio": 0.849,
-      "trueEV": 127.34,
+      "evRatio": 0.848,
+      "trueEV": 127.21,
       "remaining": {
         "GRAIL": 14,
-        "CHASE": 113,
-        "BASE": 699
+        "CHASE": 112,
+        "BASE": 695
       },
-      "totalRemaining": 826,
+      "totalRemaining": 821,
       "odds": {
-        "grail": 1.69,
-        "chase": 13.68,
-        "base": 84.62
+        "grail": 1.71,
+        "chase": 13.64,
+        "base": 84.65
       },
       "cards": [
         {
@@ -4519,15 +4447,6 @@
           "valueDisplay": "$335.50",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFCNXBvMVJDQTlpUVlLaFlweFRzZ1JSYUtJclU5YytMM1l3ZGFYeXQ5ckZtSkdQYllZaVdoRXBNWWxpcDVLSUgxSkFKQXl5S201K014SDhLWG4xYThRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjU4ZDk1NjU0NjBkM2YxMzU3MjI3N2I5OGM0ZGUzNGQwMjY1NDQyN2Q4NjA3NTdmMGY1ZWUxNzRiZDdlODBlOGYifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjFCNXBvMVJDQTlpUVlLaFlweFRzZ1JSYUtJclU5YytMM1l3ZGFYeXQ5ckU4aFdPN0cxdjF2b0lRV0gwaUkwWm9LbjJSeHFIczJLTDBuVjg1MzhVWlJRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6Ijc3ZTQyMzY1ZTc1OTFlYTk1MjU0MTA1ZjNiN2VkZDgwMTQ3NWU0ZGU2NDk2MTE2ZDY4OGIyYWJlMmJmYTVmMjgifQ=="
-        },
-        {
-          "id": "3b08723a-1bf2-11f1-bf6a-7601f83ac48b",
-          "title": "2025 Pokemon Japanese SV Black Bolt BW Rare Zekrom ex #174 BGS 9.5 GEM MINT",
-          "tier": "CHASE",
-          "value": 33489,
-          "valueDisplay": "$334.89",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldzTlRmZjNYdWQ2a00zSzRBNWJRc21CTnFOMGI2UDdiK1dhc281MXF5Z2haMUNhOUd1WEl6VHJZVk5neGJ3eFRmQkNaTy9xdXo4K1I4cFY5MTV2QTRRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjU5ZmZhNDg0M2FhMDQ3M2U2YWY0N2ZlYTc4M2FhYzgzZWFkYWY1YzQ1ODczMjliZGIxY2ZmNzdmYjgyZGRiOWQifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IldzTlRmZjNYdWQ2a00zSzRBNWJRc21CTnFOMGI2UDdiK1dhc281MXF5Z2p5ZnMzYjZRZ2IwWGRSam5KbzJJODRTVkpSMHM4OUxtK3VLNzlIMTRKR1dRPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjUwYmZiZWZkMTUyODFkZTFlMjBhNWNkMjMwZDNjOTEwN2UwYmM5MWM2NjgxZGVkMDVlY2VhOTlmOGQ1MThkNDIifQ=="
         },
         {
           "id": "2871f526-205a-11f1-9300-b656b03e5215",
@@ -5284,16 +5203,16 @@
       "title": "Pokemon: Mega Pack $250",
       "price": 250,
       "evRatio": 0.83,
-      "trueEV": 207.38,
+      "trueEV": 207.47,
       "remaining": {
         "GRAIL": 24,
-        "CHASE": 181,
-        "BASE": 1259
+        "CHASE": 179,
+        "BASE": 1247
       },
-      "totalRemaining": 1464,
+      "totalRemaining": 1450,
       "odds": {
-        "grail": 1.64,
-        "chase": 12.36,
+        "grail": 1.66,
+        "chase": 12.34,
         "base": 86
       },
       "cards": [
@@ -5773,15 +5692,6 @@
           "valueDisplay": "$500.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImJTbkY5THlDaFZ3Ulo2OGVIL1pkbjA1SmxpUDJKQXFGQUNOOUs4WG1QNStpZTRrRU9xOFp5eVVFbC9Pd0p4ZU1RY29DTDlJajNHcHNHcW1ac0t0aXZBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjQwYzIxZDk2YTk5NmUwYjcwZjQzODdmMTE4NDc3ZDliMzk0ZmM4NjU1MmYzMjUzODMwOTE1MjBhN2JjZTdmN2IifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImJTbkY5THlDaFZ3Ulo2OGVIL1pkbjA1SmxpUDJKQXFGQUNOOUs4WG1QNTlwQmxKdDVwSTVnWG9LN3ZXUDVmaTczTnZNeTN3eHJycUplZVBUYm1CdHB3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjhlZDg1NWVhMTUxNmQ2ZjBhZGNmMTE0OGQwZjYzMWYzMmMwODI0NTczMWZiODRhYWQxNzM3NWIxZWQ4ZDlhNTYifQ=="
-        },
-        {
-          "id": "5d6b943a-2307-11f1-91d0-7a528afd3c36",
-          "title": "2025 Pokemon SV Destined Rivals SIR Team Rocket's Mewtwo EX #231 PSA 9 MINT",
-          "tier": "CHASE",
-          "value": 50000,
-          "valueDisplay": "$500.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InNSUkhvV2J1MFdPaUtuN2xNMWFLdVJKaWtlV2g1aFgyOXlwMG1GL0Y5dUQ1NjBSMUtWVUFrWDBYdXJaT0hvUXphUmR2MlRranRhUkhDcDZXQi9pa3d3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImI5N2VlMTM5NmRkNWQxMWNiMGNlMTBmYmYwMjNmMTdkZDUzMTI1ZjcyZTdkMDUxMTgxNDQwM2IxYTI2MGI4MDgifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InNSUkhvV2J1MFdPaUtuN2xNMWFLdVJKaWtlV2g1aFgyOXlwMG1GL0Y5dUNndXBSLzEwYzg0RFpxK2VwRlEvNVhPeG1ua294RTRDTnpycktsKzJjQUF3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImQzYWRkOGI5Zjc5OGFlNmViYmE2ZWRlZjJmY2NiYjY1MjJkYjhiNjcwNThjMTQ5MDU0ODBjOTQ5ZWJkMTY0NDYifQ=="
         },
         {
           "id": "5d6bc5cc-2307-11f1-91b4-7a528afd3c36",
@@ -6936,15 +6846,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6ImY3eTZUSTE5SnFFaWhqK0RHWEoyV1hJOERmZmlVemtZb0NYNFdtbGNpTUxidkVIdTlNUUpiQ2dZdkNzK0pCdDl6VE0ray92OEhwWjJGYVFMcFdRZTR3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImMzN2RkYTBkNjlkNGQ2Nzk2YzE1ZDc5ZDg2MGFkYmE5ZDVlYWRlMmRmOTdmOTg4MTdhY2RhNzI5MTFjNmRmYTEifQ=="
         },
         {
-          "id": "a7c0f4d4-1bd3-11f1-9613-8aa7552ef83a",
-          "title": "1999 Pokemon Base Set Holo Charizard #4 PSA 6 EXMT",
-          "tier": "CHASE",
-          "value": 42750,
-          "valueDisplay": "$427.50",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5DZUVZQmpqeVhUU0tMY2VHcU5VY09jc1Q1QytSU2FOaW1ndndKUTIzS2pGTFFHSWVJVzZmVGVjV2VObFZ2TzMxK0ptRzg0bkdTUksrbVlYMmxackV3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjgzNWM5YjEzMzhkZGIzNWFmZTM2NDZlMjg2NDMwOWY5Y2Q5YmQyZjkxM2YyZTdiNWU5YWRjZjJiZWU4MDI2OTUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6Ik5DZUVZQmpqeVhUU0tMY2VHcU5VY09jc1Q1QytSU2FOaW1ndndKUTIzS2hCZDRwSHpPMzVrZ2FEVUV1QklhZk5TdUlvaDBEOVZPRGNaN2xwelUvaTZ3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjcwNTQxYWQ0ZDJkZmJlYjE0Y2QzMWY4NDU0YmQ4ZTlkYjQ1MTE1ZGJkZWYyOTcyZGRjNDNlNmI3OTEyYmRhMDEifQ=="
-        },
-        {
           "id": "5d69fb48-2307-11f1-bc5e-7a528afd3c36",
           "title": "1999 Pokemon Base Set Holo Charizard #4 PSA 6 EXMT",
           "tier": "CHASE",
@@ -7150,17 +7051,17 @@
       "title": "Football: Mega Pack $250",
       "price": 250,
       "evRatio": 0.819,
-      "trueEV": 204.66,
+      "trueEV": 204.81,
       "remaining": {
         "GRAIL": 0,
         "CHASE": 20,
-        "BASE": 95
+        "BASE": 94
       },
-      "totalRemaining": 115,
+      "totalRemaining": 114,
       "odds": {
         "grail": 0,
-        "chase": 17.39,
-        "base": 82.61
+        "chase": 17.54,
+        "base": 82.46
       },
       "cards": [
         {
@@ -7726,7 +7627,7 @@
       "title": "Baseball: Ultra Pack $500",
       "price": 500,
       "evRatio": 0.765,
-      "trueEV": 382.74,
+      "trueEV": 382.75,
       "remaining": {
         "GRAIL": 4,
         "CHASE": 39,
@@ -7941,8 +7842,8 @@
           "id": "8ea2e348-19af-11f1-bbe9-027a910c6e1a",
           "title": "2023 Panini Chronicles Crown Royale Future Kings Silver Elly De La Cruz ROOKIE AUTO PSA 10",
           "tier": "CHASE",
-          "value": 78600,
-          "valueDisplay": "$786.00",
+          "value": 79100,
+          "valueDisplay": "$791.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJtV0ZEQldlQ1RQMmhrNGxZbFlwY3ZtRWtOakk5ZXpRaUZsVmZobmJxSkFTTEc2WEdRWjkrc01LMEVaMlNwK1pJU0pYSlZkcjFNMUJZenJGa0VDODdBPT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6ImMwYTVmOWUwZDA5OWI0OWM5NTA4MjU2OWEyOGIzMWZiMzA2M2M5ZWY3YTkzN2NhNDcyZThiNjcwNjExNmM2YjUifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkJtV0ZEQldlQ1RQMmhrNGxZbFlwY3ZtRWtOakk5ZXpRaUZsVmZobmJxSkIvUVA1Ym1RUVhwRldJRDNodEU2VlZtdVpVQ3hBQ09TS0s4ZTY3cWlzNER3PT0iLCJpdiI6ImxsdE5BaHAxeE9zemU1dEJja3J5NVE9PSIsIm1hYyI6IjFlYTA4Y2M2NzkwNjU1ZGQzMWI5NWMyMzU4ZDMzN2FhYTQwNTQ2NmQwMDVhOWE2MzAyMGIzNmJmOWY4ZjRmNWIifQ=="
         },
@@ -8133,18 +8034,18 @@
       "repackId": "c5bb7288-bf56-48f6-96ee-a5b512cee2ed",
       "title": "Baseball: $75",
       "price": 75,
-      "evRatio": 0.76,
-      "trueEV": 56.98,
+      "evRatio": 0.762,
+      "trueEV": 57.14,
       "remaining": {
         "GRAIL": 0,
         "CHASE": 4,
-        "BASE": 44
+        "BASE": 43
       },
-      "totalRemaining": 48,
+      "totalRemaining": 47,
       "odds": {
         "grail": 0,
-        "chase": 8.33,
-        "base": 91.67
+        "chase": 8.51,
+        "base": 91.49
       },
       "cards": [
         {

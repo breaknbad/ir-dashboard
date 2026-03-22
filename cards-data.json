@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-03-22T09:03:52.041Z",
+  "timestamp": "2026-03-22T09:33:47.621Z",
   "packs": [
     {
       "productId": "6985f25f-291f-4fea-811a-5a58d3633811",
       "repackId": "8bea4c34-f295-45a6-a759-8e1812cb42c2",
       "title": "Pokemon: Ultra Pack $500",
       "price": 500,
-      "evRatio": 0.995,
-      "trueEV": 497.32,
+      "evRatio": 0.994,
+      "trueEV": 496.96,
       "remaining": {
         "GRAIL": 10,
-        "CHASE": 87,
-        "BASE": 438
+        "CHASE": 86,
+        "BASE": 436
       },
-      "totalRemaining": 535,
+      "totalRemaining": 532,
       "odds": {
-        "grail": 1.87,
-        "chase": 16.26,
-        "base": 81.87
+        "grail": 1.88,
+        "chase": 16.17,
+        "base": 81.95
       },
       "cards": [
         {
@@ -217,15 +217,6 @@
           "valueDisplay": "$1,202.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNSV3ZWcnMxTWh2cjRGdkhQZVlNUyt6RElwZ0oyU0Zla3dUWDdYdmo0czhiZXkvVTBLTFkyUXVDSjZzSVBxM2xOdzN0WEZ5bmQvdDcydWhRN0N3NDdBPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjFiODMyM2UzZjNjNWI0ZDg4MGNkOGI0N2U5NTBlMDg1ZTJiMTNlNTA1MDhmMGMyMWJkYTY5YzFlMGEwM2YyZDgifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNSV3ZWcnMxTWh2cjRGdkhQZVlNUyt6RElwZ0oyU0Zla3dUWDdYdmo0cytZakoyMWtuVE9kVHFCVXB3TU1BTENCSnJTU050SFRrQi9ndk5sZStTZW93PT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjFlODQyY2YxMmY1M2MxMzUyNjRlZTU3YzlmMmJiYTFiNzUxNjk2MTJmNWMwYmQ3M2IyNGQ1MTIxYmI1M2UzYWIifQ=="
-        },
-        {
-          "id": "0902c3fa-1984-11f1-b267-8ea9b472eab5",
-          "title": "2025 Pokemon SV Destined Rivals SIR Team Rocket's Mewtwo ex #231 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 120000,
-          "valueDisplay": "$1,200.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNSV3ZWcnMxTWh2cjRGdkhQZVlNU3ltWkgwaHRYTm0xcWRUZHFqb0VRUTFpOGZGUitIMzNZaW5VSXIvRFAyR1VybjRha1JnbjlPWEtlcDl4TndzSExBPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6ImY0ZDMzODc3NzdlYjZkMjhhMmUwOTIyNzdhMDJkNmY5Mjk2ZDUzZjAyYmY0ZmQzMjMxZjQ3Zjk3OWFmYjJmMTIifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlNSV3ZWcnMxTWh2cjRGdkhQZVlNU3ltWkgwaHRYTm0xcWRUZHFqb0VRUTE3K3h5Yk1kb2ZUSklXTjYyRnJlemhYSGtYWU11M1FzTWRxTERnK1A0R01nPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjI1ODdhMGNmYjZhOWE3MGQyY2NkNDc3YjE3NzZmNTFjYzZhZjM1Zjk5MWY3Yzg2ZTIwMzA0NzFiNWZhMmU4MmIifQ=="
         },
         {
           "id": "2118c99e-1984-11f1-89fb-8ea9b472eab5",
@@ -900,18 +891,18 @@
       "repackId": "bd8407c5-e834-4837-b8f1-fc489c4ce383",
       "title": "Basketball: Infinity Pack $1,000",
       "price": 1000,
-      "evRatio": 0.989,
-      "trueEV": 988.92,
+      "evRatio": 0.994,
+      "trueEV": 994.05,
       "remaining": {
         "GRAIL": 2,
         "CHASE": 13,
-        "BASE": 55
+        "BASE": 54
       },
-      "totalRemaining": 70,
+      "totalRemaining": 69,
       "odds": {
-        "grail": 2.86,
-        "chase": 18.57,
-        "base": 78.57
+        "grail": 2.9,
+        "chase": 18.84,
+        "base": 78.26
       },
       "cards": [
         {
@@ -1468,7 +1459,7 @@
       "title": "Basketball: Mega Pack $250",
       "price": 250,
       "evRatio": 0.963,
-      "trueEV": 240.67,
+      "trueEV": 240.7,
       "remaining": {
         "GRAIL": 0,
         "CHASE": 20,
@@ -2143,7 +2134,7 @@
       "title": "Football: $75",
       "price": 75,
       "evRatio": 0.943,
-      "trueEV": 70.71,
+      "trueEV": 70.74,
       "remaining": {
         "GRAIL": 12,
         "CHASE": 82,
@@ -3166,17 +3157,17 @@
       "title": "Basketball: $75",
       "price": 75,
       "evRatio": 0.93,
-      "trueEV": 69.75,
+      "trueEV": 69.73,
       "remaining": {
         "GRAIL": 8,
         "CHASE": 52,
-        "BASE": 337
+        "BASE": 336
       },
-      "totalRemaining": 397,
+      "totalRemaining": 396,
       "odds": {
         "grail": 2.02,
-        "chase": 13.1,
-        "base": 84.89
+        "chase": 13.13,
+        "base": 84.85
       },
       "cards": [
         {
@@ -3558,6 +3549,15 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6InpoYVRhREtBTXBUYmcyWENCY3dSQUZqSEF1OEVPeW9HYy9BaEZHb0kvakNuaDlqR2E5S1BSM1NGUHJ0VzJIRW9sZ3NDQjhUMERxbkpqWmJBYU9KY0RnPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjY4ZTQ2MWU2OGE2MjZmY2FiYWY3MDkzY2ZkMWZiYmVjZWZiZDQ4MmIyYjk4MTMwOTQ5ZGZmNDY2ZDI3NTE1NDYifQ=="
         },
         {
+          "id": "7779a664-24ab-11f1-9e59-de6b395e85d7",
+          "title": "2023 Bowman University Best Let's Go Stephon Castle ROOKIE #LG-3 PSA 10 GEM MINT",
+          "tier": "CHASE",
+          "value": 9700,
+          "valueDisplay": "$97.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRGM1RCTEpQM1A3cXpIOEovZzJKZjlZN1F4dm9ieUg3NnhXMVpNc3NUWDZuZTVRMHZISklRRyt6Z3RrQ1RBQ1Q3UE93ZFo3WUpxOFBHWTVwSkQvU0dnPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjFkMThiMzdmYmI3NzMwYmI4MzhiNjgxMmZiMWI5NGM2MjY1NTAzYTBlYjk2MmY4NWY0YTI4OGE0NmQxNmVjMGEifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRGM1RCTEpQM1A3cXpIOEovZzJKZjlZN1F4dm9ieUg3NnhXMVpNc3NUWDVaQnVTdW5TelhKT0Y0Z3RZODlueHY0NXBob2xCODhRQ3g0REZaZXQrM1lnPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjNiOTkwMjdkZWNjM2YyZjNlYmViODk2ZmExOTFjMDBkOTY0OTIzMjA4ZjUzYzlmMGU0NzI5ZmZhZTU0YzU3NzgifQ=="
+        },
+        {
           "id": "777c0e40-24ab-11f1-8965-de6b395e85d7",
           "title": "1993 Ultra Scoring Kings Patrick Ewing #3 PSA 8 NM-MT",
           "tier": "CHASE",
@@ -3657,15 +3657,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IlAzZks1WndJalhicHhnZnNMUVpxS2NzM1Z0LzFhZ0VGWnFTNXJWSm9qWGRXZ3NKa2tOSEE5ZkFTTllURmV0cEFkOHhMaUptSkVGc1FBb2k0R0VtRHJBPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjYzNThiNGRjMWQ0YWM1NzE4NDM2MjZiNzE2M2NjZTg5OWM3MGJhNDc3YTBmN2UxMjU4NDM5Mjg5MWRhYjZlYzcifQ=="
         },
         {
-          "id": "7779a664-24ab-11f1-9e59-de6b395e85d7",
-          "title": "2023 Bowman University Best Let's Go Stephon Castle ROOKIE #LG-3 PSA 10 GEM MINT",
-          "tier": "CHASE",
-          "value": 9500,
-          "valueDisplay": "$95.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRGM1RCTEpQM1A3cXpIOEovZzJKZjlZN1F4dm9ieUg3NnhXMVpNc3NUWDZuZTVRMHZISklRRyt6Z3RrQ1RBQ1Q3UE93ZFo3WUpxOFBHWTVwSkQvU0dnPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjFkMThiMzdmYmI3NzMwYmI4MzhiNjgxMmZiMWI5NGM2MjY1NTAzYTBlYjk2MmY4NWY0YTI4OGE0NmQxNmVjMGEifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IjRGM1RCTEpQM1A3cXpIOEovZzJKZjlZN1F4dm9ieUg3NnhXMVpNc3NUWDVaQnVTdW5TelhKT0Y0Z3RZODlueHY0NXBob2xCODhRQ3g0REZaZXQrM1lnPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjNiOTkwMjdkZWNjM2YyZjNlYmViODk2ZmExOTFjMDBkOTY0OTIzMjA4ZjUzYzlmMGU0NzI5ZmZhZTU0YzU3NzgifQ=="
-        },
-        {
           "id": "777de828-24ab-11f1-93b7-de6b395e85d7",
           "title": "1996 Skybox Premium Kobe Bryant ROOKIE #203 PSA 9 MINT",
           "tier": "CHASE",
@@ -3727,7 +3718,7 @@
       "title": "Baseball: Ultra Pack $500",
       "price": 500,
       "evRatio": 0.925,
-      "trueEV": 462.67,
+      "trueEV": 462.66,
       "remaining": {
         "GRAIL": 4,
         "CHASE": 33,
@@ -4047,15 +4038,6 @@
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkFGdUsvL01yL0JUQXQyaFhoSFd5ZmduY3dUTE1UNWxtNHZLRjRIWU9aUGZxRHdmWW16RDJiUWt5YlZjQ3FtS0JpcVNPYWZROUsrNGZIWHhBZ1YrT25RPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6Ijg4NzI4MzhlZmZmYTRlNmQzZjJiODNhOGFhMjE2NzcyNzU5ZmQzZDkwOWQwZmI1MTMwZDQzMWRiZjIxN2MwYTIifQ=="
         },
         {
-          "id": "8ea71fda-19af-11f1-af32-027a910c6e1a",
-          "title": "1955 Topps Ted Williams #2 PSA 5.5 EX+",
-          "tier": "CHASE",
-          "value": 70700,
-          "valueDisplay": "$707.00",
-          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IndMM0F4YUdGWjBhdnBTNXBBQ21LR0RRTWcySmxLZlJmbWd0SWF1VzB4a3hMNjNBN1M4Q2hGT3FKemg3S0wvRmlUTTNnNnE3Y0NiSkNvVUREUFZKTy9BPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjVkMDBiNWRiN2I2ZmIxMzIzMzYzYTcyZTZkNTQ2ZTQ4MjQwNzk5NmMxMTdhNDcxNDkwNTU1YTM0NzAxYTkzOTUifQ==",
-          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IndMM0F4YUdGWjBhdnBTNXBBQ21LR0RRTWcySmxLZlJmbWd0SWF1VzB4a3plUFQ5Zm5vSjNkMy9RTm0zdTdldFpqR2RyMmJOcHBNN0kydXNEMG5yWk9BPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjJhOWUwOTM1YWIyY2NjNWE3OTE4NGFhODIyZDk1OGMzODU2MjlhNGE1M2UyYTUxMWRmZjg3YTBlNTU0ODM3MmIifQ=="
-        },
-        {
           "id": "9ad50db2-19af-11f1-935d-027a910c6e1a",
           "title": "2020 Bowman Chrome Gold Refractor Austin Wells PROSPECT AUTO /50 #CDA-AWE PSA 9 MINT",
           "tier": "CHASE",
@@ -4063,6 +4045,15 @@
           "valueDisplay": "$705.00",
           "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkhOaXlLM3NZY3lUZit2VjVGZi9leW53ZW9TMGg4YUNEbnBzaDRZbGpQSkZJN28wYjBZQStqUUJnbGs0TFlhYjlnVzcxV0N5NTV1QTFtK3dvYW9IdUJ3PT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6ImQ3YWIwZDFjNmJiMGU0MGQwMGMwODA2YjlhMGJhOGM5ZjQ1NDY4ZGEzZTAxOTQ0NzM1ZTZiZGRhN2FlYzRmZGMifQ==",
           "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IkhOaXlLM3NZY3lUZit2VjVGZi9leW53ZW9TMGg4YUNEbnBzaDRZbGpQSkdBK0tUUytJaHhsNDNOaXlaa2NyL3lXdDQ5Q0x3M3g2Z0JWckNadEtiTHB3PT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6Ijc1ZTA3MzZhZDVlYzRmNWJkNzk2OWQyMGU2ZDdlMTNmNTA3YWNhOTRjY2NiYmU3MWM0MmNkNjExMTY0NjAxMjgifQ=="
+        },
+        {
+          "id": "8ea71fda-19af-11f1-af32-027a910c6e1a",
+          "title": "1955 Topps Ted Williams #2 PSA 5.5 EX+",
+          "tier": "CHASE",
+          "value": 70400,
+          "valueDisplay": "$704.00",
+          "image": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IndMM0F4YUdGWjBhdnBTNXBBQ21LR0RRTWcySmxLZlJmbWd0SWF1VzB4a3hMNjNBN1M4Q2hGT3FKemg3S0wvRmlUTTNnNnE3Y0NiSkNvVUREUFZKTy9BPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjVkMDBiNWRiN2I2ZmIxMzIzMzYzYTcyZTZkNTQ2ZTQ4MjQwNzk5NmMxMTdhNDcxNDkwNTU1YTM0NzAxYTkzOTUifQ==",
+          "imageBack": "https://dilxwvfkfup17.cloudfront.net/eyJ0YWciOiIiLCJ2YWx1ZSI6IndMM0F4YUdGWjBhdnBTNXBBQ21LR0RRTWcySmxLZlJmbWd0SWF1VzB4a3plUFQ5Zm5vSjNkMy9RTm0zdTdldFpqR2RyMmJOcHBNN0kydXNEMG5yWk9BPT0iLCJpdiI6IkYvaVpHTXBUblpuOGNYa0xxbGtDd2c9PSIsIm1hYyI6IjJhOWUwOTM1YWIyY2NjNWE3OTE4NGFhODIyZDk1OGMzODU2MjlhNGE1M2UyYTUxMWRmZjg3YTBlNTU0ODM3MmIifQ=="
         },
         {
           "id": "8ea92ee2-19af-11f1-bcdc-027a910c6e1a",
@@ -4282,7 +4273,7 @@
       "title": "Basketball: Ultra Pack $500",
       "price": 500,
       "evRatio": 0.878,
-      "trueEV": 439.08,
+      "trueEV": 439.22,
       "remaining": {
         "GRAIL": 1,
         "CHASE": 11,
@@ -5106,8 +5097,8 @@
       "repackId": "d55af7f2-222f-464e-83fc-4155c7699aa5",
       "title": "Pokemon: Super Pack $150",
       "price": 150,
-      "evRatio": 0.84,
-      "trueEV": 126.07,
+      "evRatio": 0.841,
+      "trueEV": 126.08,
       "remaining": {
         "GRAIL": 9,
         "CHASE": 70,
@@ -5839,7 +5830,7 @@
       "title": "Basketball: Super Pack $150",
       "price": 150,
       "evRatio": 0.832,
-      "trueEV": 124.85,
+      "trueEV": 124.82,
       "remaining": {
         "GRAIL": 0,
         "CHASE": 8,
@@ -7693,7 +7684,7 @@
       "title": "Football: Super Pack $150",
       "price": 150,
       "evRatio": 0.769,
-      "trueEV": 115.36,
+      "trueEV": 115.35,
       "remaining": {
         "GRAIL": 3,
         "CHASE": 34,
